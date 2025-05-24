@@ -159,25 +159,26 @@ We highlight major public MRI datasets used in super-resolution research.
 </details>
 
 ---
+
 > 🧩 **Contribute**: Found something we missed? Open an issue or pull request!  
-> ⭐ Star this repo if you find it helpful.  
+> ⭐ If you find this repository helpful, give it a star!  
 > 📬 Contact [@mkhateri](https://github.com/mkhateri) or email: mohammad.khateri@uef.fi
 
-<summary><strong> Citation</strong></summary>
+<details>
+<summary><strong>📖 Citation</strong></summary>
 
-If you use this repository, please cite:
+If you use this repository or its resources in your work, please cite the following paper:
 
-> Mohammad Khateri, *MRI Super-Resolution with Deep Learning: A Critical Review of Advances, Challenges, and Future Directions*, arXiv:XXXX.XXXXX, 2025  
+> Mohammad Khateri *et al.*,  
+> *MRI Super-Resolution with Deep Learning: A Critical Review of Advances, Challenges, and Future Directions*, arXiv:XXXX.XXXXX, 2025  
 > 🔗 [View on arXiv](https://arxiv.org/abs/XXXX.XXXXX)
 
 ```bibtex
 @article{khateri2025mrisr,
-  title = {MRI Super-Resolution with Deep Learning: A Critical Review of Advances, Challenges, and Future Directions},
-  author = {Khateri, Mohammad and Vasylechko, Serge and Ghahremani, Morteza and Timms, Liam and Kocanaogullari, Deniz and Warfield, Simon K. and Karimi, Davood and Sierra, Alejandra and Tohka, Jussi and Kurugol, Sila and Afacan, Onur},
+  title   = {MRI Super-Resolution with Deep Learning: A Critical Review of Advances, Challenges, and Future Directions},
+  author  = {Khateri, Mohammad and Vasylechko, Serge and Ghahremani, Morteza and Timms, Liam and Kocanaogullari, Deniz and Warfield, Simon K. and Karimi, Davood and Sierra, Alejandra and Tohka, Jussi and Kurugol, Sila and Afacan, Onur},
   journal = {arXiv preprint arXiv:XXXX.XXXXX},
-  year = {2025}
+  year    = {2025}
 }
-```
 
-</details>
 
