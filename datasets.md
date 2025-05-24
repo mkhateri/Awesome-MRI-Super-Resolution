@@ -2,7 +2,7 @@
 
 | Dataset | Description | Modality | Link |
 |--------|-------------|----------|------|
-| **fastMRI** | Large-scale dataset for knee and brain MRI with paired and unpaired LR-HR scans | T1, T2, PD, FLAIR | [fastmri.med.nyu.edu](https://fastmri.med.nyu.edu/) |
+| **fastMRI** | Large-scale dataset for knee and brain MRI | T1, T2, PD, FLAIR | [fastmri.med.nyu.edu](https://fastmri.med.nyu.edu/) |
 | **IXI** | Clinical MRI scans from 600 healthy subjects across 3 hospitals | T1, T2, PD, DWI, MRA | [brain-development.org](https://brain-development.org/ixi-dataset/) |
 | **HCP (Human Connectome Project)** | High-resolution data from 1,200 adults for connectome mapping | T1, T2, fMRI, DWI | [humanconnectome.org](https://www.humanconnectome.org/study/hcp-young-adult/data-releases) |
 | **dHCP (Developing HCP)** | Neonatal MRI for studying early brain development | T1, T2, fMRI | [developingconnectome.org](https://www.developingconnectome.org/) |
