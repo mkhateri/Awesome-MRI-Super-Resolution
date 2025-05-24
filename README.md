@@ -33,17 +33,16 @@ This repository accompanies our survey paper:
 ---
 
 <details>
-<summary><strong>📄 Papers</strong></summary>
+<summary><strong> Papers</strong></summary>
 
 - [CycleINR (Fang et al., 2024)](https://arxiv.org/abs/2402.12345)  
 - [NESVoR (Xu et al., 2023)](https://arxiv.org/abs/2303.23456)
 
 </details>
 
----
 
 <details>
-<summary><strong>🧠 Methods and Architectures</strong></summary>
+<summary><strong> Methods and Architectures</strong></summary>
 
 **Generative AI**
 - Diffusion Models  
@@ -55,10 +54,9 @@ This repository accompanies our survey paper:
 
 </details>
 
----
 
 <details>
-<summary><strong>🗃️ Datasets</strong></summary>
+<summary><strong> Datasets</strong></summary>
 
 We highlight major public MRI datasets used in super-resolution research.
 
@@ -75,10 +73,9 @@ We highlight major public MRI datasets used in super-resolution research.
 
 </details>
 
----
 
 <details>
-<summary><strong>🧪 Applications</strong></summary>
+<summary><strong> Applications</strong></summary>
 
 ### Clinical Applications
 - Fetal and Pediatric MRI  
@@ -94,7 +91,6 @@ We highlight major public MRI datasets used in super-resolution research.
 
 </details>
 
----
 
 <details>
 <summary><strong>💻 Code and Tools</strong></summary>
@@ -103,7 +99,7 @@ We highlight major public MRI datasets used in super-resolution research.
 - [deepinv Toolbox](https://deepinv.github.io/deepinv/quickstart.html) – Plug-and-play, diffusion-based inverse problems
 
 <details>
-<summary><strong>🧼 Preprocessing Tools</strong></summary>
+<summary><strong> Preprocessing Tools</strong></summary>
 
 | Task | Tool | Description | Link |
 |------|------|-------------|------|
@@ -120,29 +116,29 @@ We highlight major public MRI datasets used in super-resolution research.
 
 </details>
 
----
+
 
 <details>
-<summary><strong>📚 Resources & Learning</strong></summary>
+<summary><strong> Resources & Learning</strong></summary>
 
-### 🎓 Tutorials
+###  Tutorials
 - [INR4MICCAI Tutorial](https://github.com/INR4MICCAI/INRTutorial)
 
-### 💻 Toolkits
+###  Toolkits
 - [MONAI](https://github.com/Project-MONAI/MONAI)
 - [deepinv Toolbox](https://deepinv.github.io/deepinv/quickstart.html)
 
-### 🎙️ Talks
+###  Talks
 - [Generative AI & Diffusion Models – Michael Elad](https://www.youtube.com/playlist?list=PL0H3pMD88m8XPBlWoWGyal45MtnwKLSkQ)
 - [MICCAI Tutorials – MRI SR](#)
 - [ECCV/MIDL Talks – Deep Learning for Imaging](#)
 
 </details>
 
----
+
 
 <details>
-<summary><strong>🏛️ Famous Groups & Labs</strong></summary>
+<summary><strong> Famous Groups & Labs</strong></summary>
 
 - MIT CSAIL - Medical Vision Group  
 - Facebook AI Research (fastMRI)  
@@ -153,7 +149,7 @@ We highlight major public MRI datasets used in super-resolution research.
 
 </details>
 
----
+
 
 <details>
 <summary><strong>🔗 Useful Links</strong></summary>
@@ -165,7 +161,7 @@ We highlight major public MRI datasets used in super-resolution research.
 
 </details>
 
----
+
 
 > 🧩 **Contribute**: Found something we missed? Open an issue or pull request!  
 > ⭐ Star this repo if you find it helpful.  
@@ -174,7 +170,7 @@ We highlight major public MRI datasets used in super-resolution research.
 ---
 
 <details open>
-<summary><strong>📖 Citation</strong></summary>
+<summary><strong> Citation</strong></summary>
 
 If you use this repository, please cite:
 
