@@ -88,8 +88,6 @@ We highlight major public MRI datasets used in super-resolution research.
 
 <details>
 <summary><strong> Code and Tools</strong></summary>
-
-- [MONAI](https://github.com/Project-MONAI/MONAI) – Deep learning in medical imaging  
 - [deepinv Toolbox](https://deepinv.github.io/deepinv/quickstart.html) – Plug-and-play, diffusion-based inverse problems
 
 <details>
@@ -113,7 +111,7 @@ We highlight major public MRI datasets used in super-resolution research.
 
 
 <details>
-<summary><strong> Toolkits & Tutorials </strong></summary>
+<summary><strong> Tutorials & Toolkits   </strong></summary>
 
 ###  Tutorials
 - [INR4MICCAI Tutorial](https://github.com/INR4MICCAI/INRTutorial)
