@@ -15,7 +15,7 @@ This repository accompanies our survey paper:
 ---
 
 <details open>
-<summary><strong>📂 Contents</strong></summary>
+<summary><strong> Contents</strong></summary>
 
 - [Papers](#papers)  
 - [Methods and Architectures](#methods-and-architectures)  
@@ -93,7 +93,7 @@ We highlight major public MRI datasets used in super-resolution research.
 
 
 <details>
-<summary><strong>💻 Code and Tools</strong></summary>
+<summary><strong> Code and Tools</strong></summary>
 
 - [MONAI](https://github.com/Project-MONAI/MONAI) – Deep learning in medical imaging  
 - [deepinv Toolbox](https://deepinv.github.io/deepinv/quickstart.html) – Plug-and-play, diffusion-based inverse problems
