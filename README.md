@@ -46,7 +46,6 @@ We highlight major public MRI datasets used in super-resolution research, coveri
 <details>
 <summary>📂 Click to expand dataset list</summary>
 
-<br>
 
 | Dataset | Description | Modality | Link |
 |--------|-------------|----------|------|
