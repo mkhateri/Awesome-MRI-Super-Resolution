@@ -15,7 +15,8 @@ This repository accompanies our survey paper:
 -  [Methods and Architectures](#methods-and-architectures)  
 -  [Datasets](#datasets)  
 -  [Clinical and Pre-clinical Applications](#applications)  
--  [Code and Tools](#code-and-tools)  
+-  [Code and Tools](#code-and-tools)
+  - [Preprocessing Tools](#preprocessing-tools) 
 -  [Related Talks](#related-talks)  
 -  [Famous Groups & Labs](#famous-groups--labs)  
 -  [Useful Links](#useful-links)  
@@ -76,36 +77,47 @@ We highlight major public MRI datasets used in super-resolution research, coveri
 - Ultra-High Field MRI  
 - Morphometric and Tractography Validation  
 
----
-##  Preprocessing Tools for MRI
+## 💻 Code and Tools
 
-Before applying super-resolution, MRI data often requires preprocessing to address motion artifacts, align volumes, and improve signal quality. Here are some widely used tools by task:
+- [MONAI (Medical Open Network for AI)](https://github.com/Project-MONAI/MONAI) – PyTorch framework for deep learning in medical imaging  
+- [deepinv Toolbox](https://deepinv.github.io/deepinv/quickstart.html) – Modular inverse problem solver with plug-and-play and diffusion support  
 
-###  Diffusion MRI
+### 🧼 Preprocessing Tools
+
+<details>
+<summary>Click to expand preprocessing tools</summary>
+
+<br>
+
+Before applying super-resolution, MRI data often requires preprocessing to correct motion, reduce noise, and align volumes. Below are widely used tools by task:
+
+#### 🧠 Diffusion MRI
 - **DIPY** — Diffusion MRI analysis and reconstruction  
-  *Garyfallidis, E. et al. Dipy, a library for the analysis of diffusion MRI data. Front. Neuroinform. 8, 8 (2014).*  
-   [https://dipy.org](https://dipy.org)
+  *Garyfallidis, E. et al. Dipy, Front. Neuroinform., 2014*  
+  🔗 [https://dipy.org](https://dipy.org)
 
-###  Motion Correction
-- **MCFLIRT** — Motion Correction FMRIB's Linear Image Registration Tool (from FSL)  
-   [https://fsl.fmrib.ox.ac.uk](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/MCFLIRT)
-- **SPM Realign** — Realignment of fMRI and structural series  
-   [https://www.fil.ion.ucl.ac.uk/spm/](https://www.fil.ion.ucl.ac.uk/spm/)
+#### 🚶 Motion Correction
+- **MCFLIRT (FSL)** – Motion correction for structural/fMRI  
+  🔗 [MCFLIRT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/MCFLIRT)  
+- **SPM Realign** – Realignment of fMRI and structural series  
+  🔗 [SPM](https://www.fil.ion.ucl.ac.uk/spm/)
 
-###  Image Registration
-- **ANTs** — Advanced Normalization Tools (rigid, affine, nonlinear registration)  
-   [https://stnava.github.io/ANTs/](https://stnava.github.io/ANTs/)
-- **Elastix** — Toolbox for rigid and nonrigid registration  
-   [https://elastix.lumc.nl](https://elastix.lumc.nl)
+#### 🔁 Registration
+- **ANTs** – Advanced non-linear image registration  
+  🔗 [ANTs](https://stnava.github.io/ANTs/)  
+- **Elastix** – Rigid and nonrigid registration toolbox  
+  🔗 [Elastix](https://elastix.lumc.nl)
 
-###  Bias Field Correction
-- **N4ITK** — Nonparametric bias correction (used in ANTs)  
-   [https://simpleitk.readthedocs.io/en/master/link_N4BiasFieldCorrection_docs.html](https://simpleitk.readthedocs.io)
+#### 🌫️ Bias Field Correction
+- **N4ITK** — Bias correction via ANTs/SimpleITK  
+  🔗 [N4ITK Docs](https://simpleitk.readthedocs.io)
 
-###  Artifact & Distortion Reduction
+#### 🌀 Artifact & Distortion Correction
 - **TOPUP & EDDY (FSL)** — Susceptibility and eddy-current correction in dMRI  
-   [FSL TOPUP](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/TOPUP)  
-   [FSL EDDY](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/EDDY)
+  🔗 [TOPUP](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/TOPUP)  
+  🔗 [EDDY](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/EDDY)
+
+</details>
 
 ---
 ## 📚 Resources & Learning
