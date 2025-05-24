@@ -3,14 +3,12 @@ A curated list of deep learning methods, datasets, papers, and tools for MRI Sup
 
 ---
 
-<details open>
 <summary><strong>📚 Survey Paper</strong></summary>
 
 This repository accompanies our survey paper:  
 **MRI Super-Resolution with Deep Learning: A Critical Review of Advances, Challenges, and Future Directions**  
 🔗 [Link to paper](#) (arXiv or journal link)
 
-</details>
 
 ---
 
