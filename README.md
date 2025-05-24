@@ -152,7 +152,7 @@ We highlight major public MRI datasets used in super-resolution research.
 
 
 <details>
-<summary><strong>🔗 Useful Links</strong></summary>
+<summary><strong> Useful Links</strong></summary>
 
 - [Papers With Code – MRI SR](https://paperswithcode.com/task/mri-super-resolution)  
 - [Awesome-Medical-Imaging](https://github.com/HzFu/Awesome-Medical-Imaging)  
