@@ -113,7 +113,7 @@ We highlight major public MRI datasets used in super-resolution research.
 
 
 <details>
-<summary><strong> Resources & Learning</strong></summary>
+<summary><strong> Toolkits & Tutorials </strong></summary>
 
 ###  Tutorials
 - [INR4MICCAI Tutorial](https://github.com/INR4MICCAI/INRTutorial)
