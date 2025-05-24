@@ -11,7 +11,6 @@ This repository accompanies our survey paper:
 
 ---
 
-<details open>
 <summary><strong> Contents</strong></summary>
 
 - [Papers](#papers)  
@@ -24,8 +23,6 @@ This repository accompanies our survey paper:
 - [Famous Groups & Labs](#famous-groups--labs)  
 - [Useful Links](#useful-links)  
 - [Citation](#citation)
-
-</details>
 
 ---
 
