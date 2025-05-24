@@ -81,43 +81,43 @@ We highlight major public MRI datasets used in super-resolution research, coveri
 
 - [MONAI (Medical Open Network for AI)](https://github.com/Project-MONAI/MONAI) – PyTorch framework for deep learning in medical imaging  
 - [deepinv Toolbox](https://deepinv.github.io/deepinv/quickstart.html) – Modular inverse problem solver with plug-and-play and diffusion support  
-
 ### 🧼 Preprocessing Tools
 
 <details>
-<summary>Click to expand preprocessing tools</summary>
+<summary>Click to expand list of tools</summary>
 
 <br>
 
-Before applying super-resolution, MRI data often requires preprocessing to correct motion, reduce noise, and align volumes. Below are widely used tools by task:
+MRI data often requires preprocessing before applying super-resolution to correct motion, reduce artifacts, and enhance signal quality. Below are commonly used tools by task:
 
 #### 🧠 Diffusion MRI
-- **DIPY** — Diffusion MRI analysis and reconstruction  
-  *Garyfallidis, E. et al. Dipy, Front. Neuroinform., 2014*  
-  🔗 [https://dipy.org](https://dipy.org)
+- **DIPY** – Diffusion analysis & denoising  
+  *Garyfallidis et al., Front. Neuroinform., 2014*  
+  🔗 [dipy.org](https://dipy.org)
 
 #### 🚶 Motion Correction
-- **MCFLIRT (FSL)** – Motion correction for structural/fMRI  
+- **MCFLIRT (FSL)** – Motion correction  
   🔗 [MCFLIRT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/MCFLIRT)  
-- **SPM Realign** – Realignment of fMRI and structural series  
+- **SPM Realign** – fMRI/structural series realignment  
   🔗 [SPM](https://www.fil.ion.ucl.ac.uk/spm/)
 
 #### 🔁 Registration
-- **ANTs** – Advanced non-linear image registration  
+- **ANTs** – Rigid/affine/nonlinear registration  
   🔗 [ANTs](https://stnava.github.io/ANTs/)  
-- **Elastix** – Rigid and nonrigid registration toolbox  
+- **Elastix** – Flexible image registration toolbox  
   🔗 [Elastix](https://elastix.lumc.nl)
 
 #### 🌫️ Bias Field Correction
-- **N4ITK** — Bias correction via ANTs/SimpleITK  
+- **N4ITK** – Nonparametric bias correction  
   🔗 [N4ITK Docs](https://simpleitk.readthedocs.io)
 
 #### 🌀 Artifact & Distortion Correction
-- **TOPUP & EDDY (FSL)** — Susceptibility and eddy-current correction in dMRI  
+- **TOPUP & EDDY (FSL)** – Susceptibility & eddy-current correction  
   🔗 [TOPUP](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/TOPUP)  
   🔗 [EDDY](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/EDDY)
 
 </details>
+
 
 ---
 ## 📚 Resources & Learning
