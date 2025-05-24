@@ -1,8 +1,6 @@
 # Awesome MRI Super-Resolution 
 A curated list of deep learning methods, datasets, papers, and tools for Magnetic Resonance Imaging (MRI) Super-Resolution.
 
-This repository is actively maintained and updated.  
-We welcome contributions from the community to help grow and refine this list.
 ---
 
 ## 📚 Survey Paper  
