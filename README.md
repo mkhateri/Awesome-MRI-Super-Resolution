@@ -23,20 +23,18 @@ This repository accompanies our survey paper:
 ---
 
 ##  Papers  
-- [CycleINR (Fang et al., 2024)](https://arxiv.org/abs/2402.12345)  
-- [NESVoR (Xu et al., 2023)](https://arxiv.org/abs/2303.23456)  
-- [Deep Plug-and-Play MRI SR (Wu et al., 2022)](https://arxiv.org/abs/2205.XXXX)  
-- [SelfMRI (McGinnis et al., 2023)](https://arxiv.org/abs/2304.XXXX)  
+
 
 ---
 
 ##  Methods and Architectures  
-- Implicit Neural Representations (INR)  
-- Plug-and-Play Optimization Models  
+Generative AI
 - Diffusion Models  
-- GAN-based Super-Resolution  
-- Self-supervised and Contrastive Learning  
-- Deep Unfolding & Physics-Informed SR  
+- GAN-based Super-Resolution
+
+Implicit Neural Representations (INR)
+Plug-and-Play Optimization Models  
+
 
 ---
 
@@ -79,7 +77,37 @@ We highlight major public MRI datasets used in super-resolution research, coveri
 - Morphometric and Tractography Validation  
 
 ---
+##  Preprocessing Tools for MRI
 
+Before applying super-resolution, MRI data often requires preprocessing to address motion artifacts, align volumes, and improve signal quality. Here are some widely used tools by task:
+
+###  Diffusion MRI
+- **DIPY** — Diffusion MRI analysis and reconstruction  
+  *Garyfallidis, E. et al. Dipy, a library for the analysis of diffusion MRI data. Front. Neuroinform. 8, 8 (2014).*  
+   [https://dipy.org](https://dipy.org)
+
+###  Motion Correction
+- **MCFLIRT** — Motion Correction FMRIB's Linear Image Registration Tool (from FSL)  
+   [https://fsl.fmrib.ox.ac.uk](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/MCFLIRT)
+- **SPM Realign** — Realignment of fMRI and structural series  
+   [https://www.fil.ion.ucl.ac.uk/spm/](https://www.fil.ion.ucl.ac.uk/spm/)
+
+###  Image Registration
+- **ANTs** — Advanced Normalization Tools (rigid, affine, nonlinear registration)  
+   [https://stnava.github.io/ANTs/](https://stnava.github.io/ANTs/)
+- **Elastix** — Toolbox for rigid and nonrigid registration  
+   [https://elastix.lumc.nl](https://elastix.lumc.nl)
+
+###  Bias Field Correction
+- **N4ITK** — Nonparametric bias correction (used in ANTs)  
+   [https://simpleitk.readthedocs.io/en/master/link_N4BiasFieldCorrection_docs.html](https://simpleitk.readthedocs.io)
+
+###  Artifact & Distortion Reduction
+- **TOPUP & EDDY (FSL)** — Susceptibility and eddy-current correction in dMRI  
+   [FSL TOPUP](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/TOPUP)  
+   [FSL EDDY](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/EDDY)
+
+---
 ## 📚 Resources & Learning
 
 ### 🎓 Tutorials
@@ -112,7 +140,7 @@ We highlight major public MRI datasets used in super-resolution research, coveri
 > 🧩 **Contribute**: Found something we missed? Open an issue or pull request!  
 > ⭐ Star this repo if you find it helpful.  
 > 📬 For feedback or collaboration, contact [@mkhateri](https://github.com/mkhateri)  
-> ✉️ If you have any questions or suggestions, feel free to email me directly.
+> ✉️ If you have any questions or suggestions, feel free to email me directly (mohammad.khateri@uef.fi).
 
 ---
 
@@ -128,7 +156,7 @@ If you use this repository or its resources in your work, please cite the follow
 ```bibtex
 @article{khateri2025mrisr,
   title = {MRI Super-Resolution with Deep Learning: A Critical Review of Advances, Challenges, and Future Directions},
-  author = {Khateri, Mohammad},
+  author = {Khateri, Mohammad and Vasylechko, Serge and Ghahremani, Morteza and Timms, Liam and Kocanaogullari, Deniz and Warfield, Simon K. and Karimi, Davood and Sierra, Alejandra and Tohka, Jussi and Kurugol, Sila and Afacan, Onur},
   journal = {arXiv preprint arXiv:XXXX.XXXXX},
   year = {2025}
 }
