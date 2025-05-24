@@ -162,12 +162,11 @@ We highlight major public MRI datasets used in super-resolution research.
 
 If you use this repository or its resources in your work, please cite the following paper:
 
-> *MRI Super-Resolution with Deep Learning: A Critical Review of Advances, Challenges, and Future Directions*, arXiv:XXXX.XXXXX, 2025  
-> 🔗 [View on arXiv](https://arxiv.org/abs/XXXX.XXXXX)
+> *Deep Learning for MRI Super-Resolution: A Survey*, arXiv:XXXX.XXXXX, 2025 [View on arXiv](https://arxiv.org/abs/XXXX.XXXXX)
 
 ```bibtex
 @article{khateri2025mrisr,
-  title   = {MRI Super-Resolution with Deep Learning: A Critical Review of Advances, Challenges, and Future Directions},
+  title   = {Deep Learning for MRI Super-Resolution: A Survey},
   author  = {Khateri, Mohammad and Vasylechko, Serge and Ghahremani, Morteza and Timms, Liam and Kocanaogullari, Deniz and Warfield, Simon K. and Karimi, Davood and Sierra, Alejandra and Tohka, Jussi and Kurugol, Sila and Afacan, Onur},
   journal = {arXiv preprint arXiv:XXXX.XXXXX},
   year    = {2025}
