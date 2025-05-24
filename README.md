@@ -83,11 +83,8 @@ We highlight major public MRI datasets used in super-resolution research, coveri
 ---
 
 ##  Code and Tools  
-- [fastMRI GitHub](https://github.com/facebookresearch/fastMRI)  
-- [NiftyNet](https://github.com/NifTK/NiftyNet)  
-- [USFetal](https://github.com/mkhateri/USFetal)  
-- [MONAI (Medical Open Network for AI)](https://github.com/Project-MONAI/MONAI)  
-
+- [INR4MICCAI tutorial on Implicit Neural Representations](https://github.com/INR4MICCAI/INRTutorial)
+- [MONAI (Medical Open Network for AI)](https://github.com/Project-MONAI/MONAI)
 ---
 
 ##  Related Talks  
@@ -98,11 +95,6 @@ We highlight major public MRI datasets used in super-resolution research, coveri
 ---
 
 ##  Famous Groups & Labs  
-- Facebook AI Research (fastMRI team)  
-- NYU Grossman School of Medicine  
-- University of Eastern Finland (Computational Imaging Group)  
-- King's College London (Imaging Sciences)  
-- Stanford AIMI (Artificial Intelligence in Medical Imaging)  
 - MIT CSAIL - Medical Vision Group  
 
 ---
