@@ -81,43 +81,24 @@ We highlight major public MRI datasets used in super-resolution research, coveri
 
 - [MONAI (Medical Open Network for AI)](https://github.com/Project-MONAI/MONAI) – PyTorch framework for deep learning in medical imaging  
 - [deepinv Toolbox](https://deepinv.github.io/deepinv/quickstart.html) – Modular inverse problem solver with plug-and-play and diffusion support  
-### 🧼 Preprocessing Tools
 
 <details>
-<summary>Click to expand list of tools</summary>
+<summary><strong>🧼 Preprocessing Tools (click to expand)</strong></summary>
 
 <br>
 
-MRI data often requires preprocessing before applying super-resolution to correct motion, reduce artifacts, and enhance signal quality. Below are commonly used tools by task:
-
-#### 🧠 Diffusion MRI
-- **DIPY** – Diffusion analysis & denoising  
-  *Garyfallidis et al., Front. Neuroinform., 2014*  
-  🔗 [dipy.org](https://dipy.org)
-
-#### 🚶 Motion Correction
-- **MCFLIRT (FSL)** – Motion correction  
-  🔗 [MCFLIRT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/MCFLIRT)  
-- **SPM Realign** – fMRI/structural series realignment  
-  🔗 [SPM](https://www.fil.ion.ucl.ac.uk/spm/)
-
-#### 🔁 Registration
-- **ANTs** – Rigid/affine/nonlinear registration  
-  🔗 [ANTs](https://stnava.github.io/ANTs/)  
-- **Elastix** – Flexible image registration toolbox  
-  🔗 [Elastix](https://elastix.lumc.nl)
-
-#### 🌫️ Bias Field Correction
-- **N4ITK** – Nonparametric bias correction  
-  🔗 [N4ITK Docs](https://simpleitk.readthedocs.io)
-
-#### 🌀 Artifact & Distortion Correction
-- **TOPUP & EDDY (FSL)** – Susceptibility & eddy-current correction  
-  🔗 [TOPUP](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/TOPUP)  
-  🔗 [EDDY](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/EDDY)
+| Task                      | Tool        | Description                                       | Link                                                   |
+| ------------------------- | ----------- | ------------------------------------------------- | ------------------------------------------------------ |
+| **Diffusion MRI**         | DIPY        | Diffusion MRI reconstruction and processing       | [dipy.org](https://dipy.org)                           |
+| **Motion Correction**     | MCFLIRT     | Linear motion correction (part of FSL)            | [Link](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/MCFLIRT) |
+|                           | SPM Realign | Realignment of fMRI/structural MRI                | [Link](https://www.fil.ion.ucl.ac.uk/spm/)             |
+| **Image Registration**    | ANTs        | Rigid, affine, and nonlinear registration         | [Link](https://stnava.github.io/ANTs/)                 |
+|                           | Elastix     | Toolbox for rigid/nonrigid image registration     | [Link](https://elastix.lumc.nl)                        |
+| **Bias Field Correction** | N4ITK       | Nonparametric intensity inhomogeneity correction  | [Link](https://simpleitk.readthedocs.io)               |
+| **Artifact Correction**   | TOPUP       | Susceptibility distortion correction (FSL)        | [Link](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/TOPUP)   |
+|                           | EDDY        | Eddy current and motion artifact correction (FSL) | [Link](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/EDDY)    |
 
 </details>
-
 
 ---
 ## 📚 Resources & Learning
