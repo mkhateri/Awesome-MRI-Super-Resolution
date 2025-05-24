@@ -117,7 +117,6 @@ We highlight major public MRI datasets used in super-resolution research.
 - [INR4MICCAI Tutorial](https://github.com/INR4MICCAI/INRTutorial)
 
 ###  Toolkits
-- [MONAI](https://github.com/Project-MONAI/MONAI)
 - [deepinv Toolbox](https://deepinv.github.io/deepinv/quickstart.html)
 
 ###  Talks
