@@ -62,8 +62,6 @@ We highlight major public MRI datasets used in super-resolution research, coveri
 
 </details>
 
-
-
 ---
 
 ##  Applications  
@@ -82,15 +80,20 @@ We highlight major public MRI datasets used in super-resolution research, coveri
 
 ---
 
-##  Code and Tools  
-- [INR4MICCAI tutorial on Implicit Neural Representations](https://github.com/INR4MICCAI/INRTutorial)
-- [MONAI (Medical Open Network for AI)](https://github.com/Project-MONAI/MONAI)
----
+## 📚 Resources & Learning
 
-##  Related Talks  
-- [A Course on Generative AI-Diffusion Models by Michael Elad](https://www.youtube.com/playlist?list=PL0H3pMD88m8XPBlWoWGyal45MtnwKLSkQ)  
-- [MICCAI Tutorials on MRI SR (YouTube)](#)  
-- [Deep Learning for Imaging (ECCV/MIDL Invited Talks)](#)
+### 🎓 Tutorials
+- [INR4MICCAI Tutorial: Implicit Neural Representations](https://github.com/INR4MICCAI/INRTutorial)
+
+### 💻 Code & Toolkits
+- [MONAI (Medical Open Network for AI)](https://github.com/Project-MONAI/MONAI) – PyTorch framework for deep learning in medical imaging
+- [deepinv Toolbox](https://deepinv.github.io/deepinv/quickstart.html) – Modular inverse problem solver with plug-and-play and diffusion support
+
+### 🎙️ Talks & Courses
+- [A Course on Generative AI & Diffusion Models (Michael Elad)](https://www.youtube.com/playlist?list=PL0H3pMD88m8XPBlWoWGyal45MtnwKLSkQ)
+- [MICCAI Tutorials on MRI Super-Resolution (YouTube)](#)
+- [Deep Learning for Imaging – ECCV/MIDL Invited Talks](#)
+
 
 ---
 
@@ -106,7 +109,27 @@ We highlight major public MRI datasets used in super-resolution research, coveri
 - [NeurIPS/ICLR Papers on MRI](https://openreview.net/)  
 
 ---
-
 > 🧩 **Contribute**: Found something we missed? Open an issue or pull request!  
 > ⭐ Star this repo if you find it helpful.  
-> 📬 For feedback or collaboration, contact [@mkhateri](https://github.com/mkhateri)
+> 📬 For feedback or collaboration, contact [@mkhateri](https://github.com/mkhateri)  
+> ✉️ If you have any questions or suggestions, feel free to email me directly.
+
+---
+
+## 📖 Citation
+
+If you use this repository or its resources in your work, please cite the following paper:
+
+> Mohammad Khateri, *MRI Super-Resolution with Deep Learning: A Critical Review of Advances, Challenges, and Future Directions*, arXiv:XXXX.XXXXX, 2025  
+> 🔗 [View on arXiv](https://arxiv.org/abs/XXXX.XXXXX)
+
+**BibTeX:**
+
+```bibtex
+@article{khateri2025mrisr,
+  title = {MRI Super-Resolution with Deep Learning: A Critical Review of Advances, Challenges, and Future Directions},
+  author = {Khateri, Mohammad},
+  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  year = {2025}
+}
+
