@@ -164,7 +164,6 @@ We highlight major public MRI datasets used in super-resolution research.
 > ⭐ If you find this repository helpful, give it a star!  
 > 📬 Contact [@mkhateri](https://github.com/mkhateri) or email: mohammad.khateri@uef.fi
 
-<details>
 <summary><strong>📖 Citation</strong></summary>
 
 If you use this repository or its resources in your work, please cite the following paper:
