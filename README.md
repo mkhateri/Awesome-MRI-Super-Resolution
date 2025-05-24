@@ -13,18 +13,18 @@ This repository accompanies our survey paper:
 ---
 
 ## 📂 Contents  
-- 🔬 [Papers](#papers)  
-- 🧠 [Methods and Architectures](#methods-and-architectures)  
-- 🗃️ [Datasets](#datasets)  
-- 🧪 [Clinical and Pre-clinical Applications](#applications)  
-- 🛠️ [Code and Tools](#code-and-tools)  
-- 🎙️ [Related Talks](#related-talks)  
-- 🧪 [Famous Groups & Labs](#famous-groups--labs)  
-- 🌐 [Useful Links](#useful-links)  
+-  [Papers](#papers)  
+-  [Methods and Architectures](#methods-and-architectures)  
+-  [Datasets](#datasets)  
+-  [Clinical and Pre-clinical Applications](#applications)  
+-  [Code and Tools](#code-and-tools)  
+-  [Related Talks](#related-talks)  
+-  [Famous Groups & Labs](#famous-groups--labs)  
+-  [Useful Links](#useful-links)  
 
 ---
 
-## 🔬 Papers  
+##  Papers  
 - [CycleINR (Fang et al., 2024)](https://arxiv.org/abs/2402.12345)  
 - [NESVoR (Xu et al., 2023)](https://arxiv.org/abs/2303.23456)  
 - [Deep Plug-and-Play MRI SR (Wu et al., 2022)](https://arxiv.org/abs/2205.XXXX)  
@@ -32,7 +32,7 @@ This repository accompanies our survey paper:
 
 ---
 
-## 🧠 Methods and Architectures  
+##  Methods and Architectures  
 - Implicit Neural Representations (INR)  
 - Plug-and-Play Optimization Models  
 - Diffusion Models  
@@ -42,7 +42,7 @@ This repository accompanies our survey paper:
 
 ---
 
-## 🗃️ Datasets  
+##  Datasets  
 - [fastMRI (Knee & Brain)](https://fastmri.org/)  
 - [IXI Dataset](https://brain-development.org/ixi-dataset/)  
 - [BrainWeb Simulated Data](http://brainweb.bic.mni.mcgill.ca/brainweb/)  
@@ -50,7 +50,7 @@ This repository accompanies our survey paper:
 
 ---
 
-## 🧪 Applications  
+##  Applications  
 
 ### Clinical Applications  
 - Fetal and Pediatric MRI  
@@ -66,7 +66,7 @@ This repository accompanies our survey paper:
 
 ---
 
-## 🛠️ Code and Tools  
+##  Code and Tools  
 - [fastMRI GitHub](https://github.com/facebookresearch/fastMRI)  
 - [NiftyNet](https://github.com/NifTK/NiftyNet)  
 - [USFetal](https://github.com/mkhateri/USFetal)  
@@ -74,14 +74,14 @@ This repository accompanies our survey paper:
 
 ---
 
-## 🎙️ Related Talks  
+##  Related Talks  
 - [MICCAI Tutorials on MRI SR (YouTube)](#)  
 - [Stanford AIMI: MRI Reconstruction Lectures](#)  
 - [Deep Learning for Imaging (ECCV/MIDL Invited Talks)](#)
 
 ---
 
-## 🧪 Famous Groups & Labs  
+##  Famous Groups & Labs  
 - Facebook AI Research (fastMRI team)  
 - NYU Grossman School of Medicine  
 - University of Eastern Finland (Computational Imaging Group)  
@@ -91,7 +91,7 @@ This repository accompanies our survey paper:
 
 ---
 
-## 🌐 Useful Links  
+##  Useful Links  
 - [Papers With Code – MRI SR](https://paperswithcode.com/task/mri-super-resolution)  
 - [Awesome-Medical-Imaging](https://github.com/HzFu/Awesome-Medical-Imaging)  
 - [ArXiv: Medical Imaging](https://arxiv.org/list/eess.IV/recent)  
