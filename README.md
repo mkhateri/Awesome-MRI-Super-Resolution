@@ -91,8 +91,8 @@ We highlight major public MRI datasets used in super-resolution research, coveri
 ---
 
 ##  Related Talks  
+- [A Course on Generative AI-Diffusion Models by Michael Elad](https://www.youtube.com/playlist?list=PL0H3pMD88m8XPBlWoWGyal45MtnwKLSkQ)  
 - [MICCAI Tutorials on MRI SR (YouTube)](#)  
-- [Stanford AIMI: MRI Reconstruction Lectures](#)  
 - [Deep Learning for Imaging (ECCV/MIDL Invited Talks)](#)
 
 ---
