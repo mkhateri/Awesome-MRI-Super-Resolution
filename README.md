@@ -47,12 +47,6 @@ We highlight major public MRI datasets used in super-resolution research, coveri
 
 🔗 **[Click here to view the full dataset table →](datasets.md)**
 
-Sample entries:
-- **fastMRI** – Large-scale knee and brain scans from NYU
-- **IXI** – 600+ clinical MRIs with multi-contrast sequences
-- **dHCP** – High-resolution neonatal brain MRI
-
-
 
 ---
 
