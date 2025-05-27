@@ -5,7 +5,12 @@
 
 ### 📚 Survey Paper
 
-#### 📖 Citation
+Link to our survey paper:  
+**[Deep Learning for MRI Super-Resolution: A Comprehensive Survey](https://arxiv.org/abs/XXXX.XXXXX)** ❤️
+
+---
+
+### 📖 Citation
 
 If you use this repository or its resources in your work, please cite:
 
@@ -16,6 +21,7 @@ If you use this repository or its resources in your work, please cite:
   journal = {arXiv preprint arXiv:XXXX.XXXXX},
   year    = {2025}
 }
+
 
 ## 📑 Table of Contents
 
