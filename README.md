@@ -1,5 +1,5 @@
 # Awesome MRI Super-Resolution 
-🔥🔥 This is a collection of awesome articles, datasets, tools, tutorial, and talks for MRI Super-Resolution.🔥🔥
+🔥🔥 This is a collection of awesome articles, datasets, tools, tutorials, and talks for MRI Super-Resolution.🔥🔥
 
 ---
 
