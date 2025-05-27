@@ -21,10 +21,11 @@ If you use this repository or its resources in your work, please cite:
   journal = {arXiv preprint arXiv:XXXX.XXXXX},
   year    = {2025}
 }
-<!-- Spacer -->
 
 
-## 📑 Table of Contents
+
+
+### 📑 Table of Contents
 
 - [Papers](#papers)  
 - [Methods and Architectures](#methods-and-architectures)  
