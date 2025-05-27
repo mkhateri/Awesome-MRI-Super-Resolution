@@ -3,10 +3,7 @@
 
 ---
 
-### 📚 Survey Paper
-
-Link to our survey paper:  
-**[Deep Learning for MRI Super-Resolution: A Comprehensive Survey](https://arxiv.org/abs/XXXX.XXXXX)** ❤️
+📚 Survey Paper: **[Deep Learning for MRI Super-Resolution: A Comprehensive Survey](https://arxiv.org/abs/XXXX.XXXXX)** ❤️
 
 ---
 
