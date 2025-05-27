@@ -8,8 +8,6 @@
 Our survey paper on arXiv:  
 **[Deep Learning for MRI Super-Resolution: A Comprehensive Survey](https://arxiv.org/abs/XXXX.XXXXX)** ❤️
 
----
-
 ### 📖 Citation
 
 ```bibtex
@@ -21,7 +19,7 @@ Our survey paper on arXiv:
 }
 
 ---
-
+---
 <summary><strong> Contents</strong></summary>
 
 - [Papers](#papers)  
