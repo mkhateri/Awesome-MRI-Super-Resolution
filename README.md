@@ -2,13 +2,10 @@
 🔥🔥 This is a collection of awesome articles, datasets, tools, tutorials, and talks for MRI Super-Resolution.🔥🔥
 
 ---
-
-
 <summary><strong>📚 Survey Paper</strong></summary>
 
-This repository accompanies our survey paper: 
-arXive: **[Deep Learning for MRI Super-Resolution: A Survey](https://arxiv.org/abs/XXXX.XXXXX)**  
-
+This repository contains code and resources related to our survey paper:  
+**[Deep Learning for MRI Super-Resolution: A Comprehensive Survey](https://arxiv.org/abs/XXXX.XXXXX)**, available on arXiv.
 
 ---
 
