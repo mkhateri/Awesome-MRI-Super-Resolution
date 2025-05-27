@@ -1,7 +1,6 @@
 # Awesome MRI Super-Resolution  
 🔥🔥 A curated collection of articles, datasets, tools, tutorials, and talks for MRI Super-Resolution. 🔥🔥
 
----
 
 📚 Survey Paper: **[Deep Learning for MRI Super-Resolution: A Comprehensive Survey](https://arxiv.org/abs/XXXX.XXXXX)** ❤️
 
