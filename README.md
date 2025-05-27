@@ -7,7 +7,13 @@
 
 Link to our survey paper:  
 **[Deep Learning for MRI Super-Resolution: A Comprehensive Survey](https://arxiv.org/abs/XXXX.XXXXX)** ❤️
-
+```bibtex
+@article{khateri2025mrisr,
+  title   = {Deep Learning for MRI Super-Resolution: A Comprehensive Survey},
+  author  = {Khateri, Mohammad and Vasylechko, Serge and Ghahremani, Morteza and Timms, Liam and Kocanaogullari, Deniz and Warfield, Simon K. and Karimi, Davood and Sierra, Alejandra and Tohka, Jussi and Kurugol, Sila and Afacan, Onur},
+  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  year    = {2025}
+}
 ---
 
 ## 📑 Table of Contents
@@ -23,20 +29,6 @@ Link to our survey paper:
 - [Useful Links](#useful-links)  
 - [Citation](#citation)
 
-## 📖 Citation
-
-If you use this repository or its resources in your work, please cite the following paper:
-
-> _**Deep Learning for MRI Super-Resolution: A Comprehensive Survey**, arXiv:XXXX.XXXXX, 2025_  
-> [arXiv Link](https://arxiv.org/abs/XXXX.XXXXX)
-
-```bibtex
-@article{khateri2025mrisr,
-  title   = {Deep Learning for MRI Super-Resolution: A Comprehensive Survey},
-  author  = {Khateri, Mohammad and Vasylechko, Serge and Ghahremani, Morteza and Timms, Liam and Kocanaogullari, Deniz and Warfield, Simon K. and Karimi, Davood and Sierra, Alejandra and Tohka, Jussi and Kurugol, Sila and Afacan, Onur},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
-  year    = {2025}
-}
 ---
 
 <details>
