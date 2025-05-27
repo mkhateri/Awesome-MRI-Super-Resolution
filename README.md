@@ -20,22 +20,28 @@ Our survey paper on arXiv:
   year    = {2025}
 }
 
-we must have somehign here to say we are yout of citation
 
-###
+eached the end of the citation section. The following sections include curated resources and tools for MRI Super-Resolution.
 
-<details> <summary><strong>📂 Click to expand</strong></summary>
+---
+
+## 📑 Table of Contents
+
+<details>
+<summary><strong>📂 Click to expand</strong></summary>
 
 - [Papers](#papers)  
 - [Methods and Architectures](#methods-and-architectures)  
 - [Datasets](#datasets)  
-- [Clinical and Pre-clinical Applications](#applications)  
+- [Clinical and Pre-clinical Applications](#clinical-and-pre-clinical-applications)  
 - [Code and Tools](#code-and-tools)  
   - [Preprocessing Tools](#preprocessing-tools)  
 - [Related Talks](#related-talks)  
 - [Famous Groups & Labs](#famous-groups--labs)  
 - [Useful Links](#useful-links)  
 - [Citation](#citation)
+
+</details>
 
 ---
 
