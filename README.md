@@ -12,8 +12,6 @@ Link to our survey paper:
 
 ### 📖 Citation
 
-If you use this repository or its resources in your work, please cite:
-
 ```bibtex
 @article{khateri2025mrisr,
   title   = {Deep Learning for MRI Super-Resolution: A Comprehensive Survey},
