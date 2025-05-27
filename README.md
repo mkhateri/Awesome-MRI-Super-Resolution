@@ -4,23 +4,6 @@ A curated list of deep learning methods, datasets, papers, and tools for MRI Sup
 
 ---
 
-> 🧩 **Contribute**: Found something we missed? Open an issue or pull request!  
-> ⭐ If you find this repository helpful, give it a star!  
-> 📬 Contact [@mkhateri](https://github.com/mkhateri) or email: mohammad.khateri@uef.fi
-
-<summary><strong> Citation</strong></summary>
-
-If you use this repository or its resources in your work, please cite the following paper:
-
-> *Deep Learning for MRI Super-Resolution: A Survey*, arXiv:XXXX.XXXXX, 2025 [arXiv](https://arxiv.org/abs/XXXX.XXXXX)
-
-```bibtex
-@article{khateri2025mrisr,
-  title   = {Deep Learning for MRI Super-Resolution: A Survey},
-  author  = {Khateri, Mohammad and Vasylechko, Serge and Ghahremani, Morteza and Timms, Liam and Kocanaogullari, Deniz and Warfield, Simon K. and Karimi, Davood and Sierra, Alejandra and Tohka, Jussi and Kurugol, Sila and Afacan, Onur},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
-  year    = {2025}
-}
 
 <summary><strong>📚 Survey Paper</strong></summary>
 
@@ -173,6 +156,23 @@ We highlight major public MRI datasets used in super-resolution research.
 
 ---
 
+> 🧩 **Contribute**: Found something we missed? Open an issue or pull request!  
+> ⭐ If you find this repository helpful, give it a star!  
+> 📬 Contact [@mkhateri](https://github.com/mkhateri) or email: mohammad.khateri@uef.fi
+
+<summary><strong> Citation</strong></summary>
+
+If you use this repository or its resources in your work, please cite the following paper:
+
+> *Deep Learning for MRI Super-Resolution: A Survey*, arXiv:XXXX.XXXXX, 2025 [arXiv](https://arxiv.org/abs/XXXX.XXXXX)
+
+```bibtex
+@article{khateri2025mrisr,
+  title   = {Deep Learning for MRI Super-Resolution: A Survey},
+  author  = {Khateri, Mohammad and Vasylechko, Serge and Ghahremani, Morteza and Timms, Liam and Kocanaogullari, Deniz and Warfield, Simon K. and Karimi, Davood and Sierra, Alejandra and Tohka, Jussi and Kurugol, Sila and Afacan, Onur},
+  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  year    = {2025}
+}
 
 
 
