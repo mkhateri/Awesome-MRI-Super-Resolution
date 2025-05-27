@@ -21,8 +21,9 @@ Our survey paper on arXiv:
 }
 
 
+
 ---
-<summary><strong> Contents</strong></summary>
+<details> <summary><strong>📂 Click to expand</strong></summary>
 
 - [Papers](#papers)  
 - [Methods and Architectures](#methods-and-architectures)  
