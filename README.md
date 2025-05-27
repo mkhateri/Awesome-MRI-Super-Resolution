@@ -1,14 +1,13 @@
 # Awesome MRI Super-Resolution 
-A curated list of deep learning methods, datasets, papers, and tools for MRI Super-Resolution.
-🔥🔥 This is a collection of awesome articles, datasets, and tools for MRI Super-Resolution.🔥🔥
+🔥🔥 This is a collection of awesome articles, datasets, tools, tutorial, and talks for MRI Super-Resolution.🔥🔥
 
 ---
 
 
 <summary><strong>📚 Survey Paper</strong></summary>
 
-This repository accompanies our survey paper:  
-**[Deep Learning for MRI Super-Resolution: A Survey](https://arxiv.org/abs/XXXX.XXXXX)**  
+This repository accompanies our survey paper: 
+arXive: **[Deep Learning for MRI Super-Resolution: A Survey](https://arxiv.org/abs/XXXX.XXXXX)**  
 
 
 ---
