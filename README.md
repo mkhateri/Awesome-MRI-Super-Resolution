@@ -12,8 +12,6 @@ Our survey paper on arXiv:
 
 ### 📖 Citation
 
-If you find this repository helpful in your research, please consider citing:
-
 ```bibtex
 @article{khateri2025mrisr,
   title   = {Deep Learning for MRI Super-Resolution: A Comprehensive Survey},
@@ -21,6 +19,18 @@ If you find this repository helpful in your research, please consider citing:
   journal = {arXiv preprint arXiv:XXXX.XXXXX},
   year    = {2025}
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 <summary><strong> Contents</strong></summary>
