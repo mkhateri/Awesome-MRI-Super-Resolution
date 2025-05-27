@@ -6,13 +6,11 @@
 <summary><strong>📚 Survey Paper</strong></summary>  
 
 Our survey paper on arXiv:  
-**[Deep Learning for MRI Super-Resolution: A Comprehensive Survey](https://arxiv.org/abs/XXXX.XXXXX)**
+**[Deep Learning for MRI Super-Resolution: A Comprehensive Survey](https://arxiv.org/abs/XXXX.XXXXX)** ❤️
 
-<summary><strong>📖 Citation</strong></summary>  
+---
 
-If you find this repository useful, please cite:
-
-> **Deep Learning for MRI Super-Resolution: A Comprehensive Survey**, arXiv:XXXX.XXXXX, 2025  [arXiv Link](https://arxiv.org/abs/XXXX.XXXXX)
+### 📖 Citation
 
 ```bibtex
 @article{khateri2025mrisr,
