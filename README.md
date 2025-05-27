@@ -9,10 +9,10 @@ Link to our survey paper:  **[Deep Learning for MRI Super-Resolution: A Comprehe
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
 <details>
-<summary><strong>📂 Click to expand</strong></summary>
+<summary><strong> </summary>
 
 - [Papers](#papers)  
 - [Methods and Architectures](#methods-and-architectures)  
