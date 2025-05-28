@@ -22,6 +22,10 @@
 ```
 
 
+### 📖 Citation
+
+First release: June 1, 2025
+
 
 
 ### 📑 Table of Contents
