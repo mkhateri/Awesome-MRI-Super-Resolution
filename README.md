@@ -23,10 +23,10 @@
 
 
 ###  Update
-We update this repository monthly. If we missed any publications, tools, or resources, please feel free to open an issue or submit a pull request.
+This repository is updated monthly.
+If we missed your paper, tool, or dataset, please open an issue or submit a pull request.
 
-First release: June 1, 2025
-
+ First release: June 1, 2025
 
 
 ###  Table of Contents
