@@ -23,6 +23,7 @@
 
 
 ###  Update
+We update this repository monthly. If we missed any publications, tools, or resources, please feel free to open an issue or submit a pull request.
 
 First release: June 1, 2025
 
