@@ -10,7 +10,7 @@
 
 ---
 
-### 📖 Citation
+###  Citation
 
 ```bibtex
 @article{khateri2025mrisr,
@@ -22,7 +22,7 @@
 ```
 
 
-### 📖 Citation
+###  Update
 
 First release: June 1, 2025
 
