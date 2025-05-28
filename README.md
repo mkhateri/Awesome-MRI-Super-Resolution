@@ -28,7 +28,7 @@ First release: June 1, 2025
 
 
 
-### 📑 Table of Contents
+###  Table of Contents
 
 - [Papers](#papers)  
 - [Methods and Architectures](#methods-and-architectures)  
