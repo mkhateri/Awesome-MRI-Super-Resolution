@@ -1,0 +1,9 @@
+### 🧠 Slice-to-Volume Reconstruction (SVR) Toolkits
+
+| Toolkit      | Description                                       | Link |
+|--------------|---------------------------------------------------|------|
+| **SUFFICIENT** | Self-supervised SVR with attention for fetal MRI | [GitHub](https://github.com/DeepBMI/SUFFICIENT) |
+| **SVRTK**      | Modular C++/MATLAB toolkit for classic SVR       | [GitHub](https://github.com/SVRTK/SVRTK) |
+| **NeSVoR**     | Deep learning–based SVR using implicit modeling  | [GitHub](https://github.com/daviddmc/NeSVoR) |
+| **NiftyMIC**   | Motion-corrected fetal brain segmentation + SVR  | [GitHub](https://github.com/gift-surg/NiftyMIC) |
+| **PAK-SRR**    | Transformer-based patch-wise SVR                 | [GitHub](https://github.com/sj-huang/PAK-SRR) |
