@@ -1,8 +1,66 @@
-BasicSR  https://github.com/XPixelGroup/BasicSR
-MMSR  https://github.com/open-mmlab/mmagic
+# General Super-Resolution Frameworks
 
+General-purpose SR toolkits that are useful baselines or building blocks for MRI SR.  
+*Fields:* **Type** (framework/library/repo), **Modality** (image/video), **Tasks**, **Notes**.
 
-super-resolution   https://github.com/soapisnotfat/super-resolution
-Single-Image-Super-Resolution    https://github.com/YapengTian/Single-Image-Super-Resolution
-VideoSuperResolution   https://github.com/LoSealL/VideoSuperResolution
-  
+---
+
+### BasicSR
+- **Link:** https://github.com/XPixelGroup/BasicSR  
+- **Type:** Framework / Library  
+- **Modality:** Image, Video  
+- **Tasks:** Super-resolution, Denoising, Deblurring, JPEG artifact removal, more  
+- **Description:** **BasicSR (Basic Super Restoration)** is an open-source image and video restoration toolbox based on PyTorch, such as super-resolution, denoise, deblurring, JPEG artifacts removal, etc.  
+- **Notes:** Widely used; modular training/inference pipelines.
+
+---
+
+### MMagic
+- **Link:** https://github.com/open-mmlab/mmagic  
+- **Type:** Framework / Library (AIGC)  
+- **Modality:** Image, Video  
+- **Tasks:** Editing, Generation, Super-resolution (via modules)  
+- **Description:** **MMagic (Multimodal Advanced, Generative, and Intelligent Creation)** is an advanced and comprehensive AIGC toolkit that inherits from MMEditing and MMGeneration. It is an open-source image and video editing & generating toolbox based on PyTorch. It is a part of the OpenMMLab project.  
+- **Notes:** Strong for GAN/diffusion; integrates with OpenMMLab ecosystem.
+
+---
+
+### soapisnotfat / super-resolution
+- **Link:** https://github.com/soapisnotfat/super-resolution  
+- **Type:** Repo / Implementations  
+- **Modality:** Image  
+- **Tasks:** Super-resolution (classic models, e.g., SRGAN and variants)  
+- **Notes:** Good reference implementations.
+
+---
+
+### YapengTian / Single-Image-Super-Resolution
+- **Link:** https://github.com/YapengTian/Single-Image-Super-Resolution  
+- **Type:** Repo / Collection  
+- **Modality:** Image  
+- **Tasks:** Single-image SR  
+- **Notes:** Curated implementations/pointers.
+
+---
+
+### LoSealL / VideoSuperResolution
+- **Link:** https://github.com/LoSealL/VideoSuperResolution  
+- **Type:** Repo / Implementations  
+- **Modality:** Video  
+- **Tasks:** Video SR  
+- **Notes:** Useful baselines for temporal models.
+
+---
+
+## How to add a new entry
+Copy and fill:
+
+```markdown
+### ProjectName
+- **Link:** https://...
+- **Type:** Framework / Library / Repo
+- **Modality:** Image | Video | 3D | Medical
+- **Tasks:** ...
+- **Description:** ...
+- **Notes:** ...
+
