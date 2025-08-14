@@ -1,8 +1,8 @@
 # General Super-Resolution Frameworks
 
 - **[BasicSR](https://github.com/XPixelGroup/BasicSR)** — Open source image/video restoration toolbox for super-resolution, deblurring, etc.
-- **[MMSR](https://github.com/open-mmlab/mmagic)** — OpenMMLab’s super-resolution and generative modeling framework.
-- **[super-resolution](https://github.com/soapisnotfat/super-resolution)** — PyTorch implementation of SRGAN and other SR models.
+- **[MMSR](https://github.com/open-mmlab/mmagic)** — OpenMMLab’s image/video super-resolution and generative modeling framework. 
 - **[Single-Image-Super-Resolution](https://github.com/YapengTian/Single-Image-Super-Resolution)** — PyTorch code for single image SR methods.
+- **[super-resolution](https://github.com/soapisnotfat/super-resolution)** — PyTorch implementation of SRGAN and other SR models.
 - **[VideoSuperResolution](https://github.com/LoSealL/VideoSuperResolution)** — Video super-resolution in PyTorch.
 
