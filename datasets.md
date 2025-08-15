@@ -12,4 +12,5 @@
 | **OpenNeuro** | BIDS archive with multi-site MRI datasets (incl. some 7T) | T1, T2, fMRI, DWI | [openneuro.org](https://openneuro.org/) |
 | **MSD (Medical Segmentation Decathlon)** | Ten-task 3D benchmark; MRI subsets useful for SR | MRI (various), CT | [medicaldecathlon.com](http://medicaldecathlon.com/) |
 | **ADNI** | Multi-site, longitudinal Alzheimer’s MRI cohort | T1, FLAIR; some T2/dMRI/fMRI/ASL | [adni.loni.usc.edu](https://adni.loni.usc.edu/data-samples/adni-data/) |
-
+| **CRL** | In-utero fetal brain atlas built from T2w MRI (spatiotemporal, 21–38 wks GA) | T2-weighted fetal MRI | [crl.med.harvard.edu](https://www.crl.med.harvard.edu/research/fetal_brain_atlas/) |
+| **Fetal EPI** | In-utero EPI/BOLD time series used in fetal/placental fMRI research | fMRI (EPI, BOLD) | [Scientific Reports 2017](https://www.nature.com/articles/s41598-017-03450-0) |
