@@ -1,9 +1,10 @@
-# General Super-Resolution Frameworks
+##  General Super-Resolution Frameworks
 
-- **[KAIR](https://github.com/cszn/KAIR)** — Open source image restoration toolbox for super-resolution, denoising, deblurring, etc.
-- **[BasicSR](https://github.com/XPixelGroup/BasicSR)** — Open source image/video restoration toolbox for super-resolution, deblurring, etc.
-- **[MMSR](https://github.com/open-mmlab/mmagic)** — OpenMMLab’s image/video super-resolution and generative modeling framework. 
-- **[Single-Image-Super-Resolution](https://github.com/YapengTian/Single-Image-Super-Resolution)** — PyTorch code for single image SR methods.
-- **[super-resolution](https://github.com/soapisnotfat/super-resolution)** — PyTorch implementation of SRGAN and other SR models.
-- **[VideoSuperResolution](https://github.com/LoSealL/VideoSuperResolution)** — Video super-resolution in PyTorch.
-
+| Framework | Description | Modality | Link |
+|---|---|---|---|
+| **KAIR** | Open-source image restoration toolbox for super-resolution, denoising, deblurring, etc. | Image | [github.com/cszn/KAIR](https://github.com/cszn/KAIR) |
+| **BasicSR** | Open-source image/video restoration toolbox for super-resolution, deblurring, etc. | Image, Video | [github.com/XPixelGroup/BasicSR](https://github.com/XPixelGroup/BasicSR) |
+| **MMagic (MMSR)** | OpenMMLab’s image/video super-resolution and generative modeling framework. | Image, Video | [github.com/open-mmlab/mmagic](https://github.com/open-mmlab/mmagic) |
+| **Single-Image-Super-Resolution** | PyTorch code for single-image SR methods. | Image | [github.com/YapengTian/Single-Image-Super-Resolution](https://github.com/YapengTian/Single-Image-Super-Resolution) |
+| **super-resolution (SRGAN)** | PyTorch implementation of SRGAN and other SR models. | Image | [github.com/soapisnotfat/super-resolution](https://github.com/soapisnotfat/super-resolution) |
+| **VideoSuperResolution** | Video super-resolution in PyTorch. | Video | [github.com/LoSealL/VideoSuperResolution](https://github.com/LoSealL/VideoSuperResolution) |
