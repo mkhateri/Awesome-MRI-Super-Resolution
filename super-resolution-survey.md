@@ -7,7 +7,7 @@
 | [Deep learning-based magnetic resonance image super-resolution: a survey](https://link.springer.com/article/10.1007/s00521-024-09890-w) | Neural Comput. & Applications, 2024 |
 | [Brain MRI Image Super-Resolution Reconstruction: A Systematic Review](https://ui.adsabs.harvard.edu/abs/2024IEEEA..12o6347M/abstract) | IEEE Access, 2024 |
 
-### Medical Image Super-Resolution (broader than MRI)
+### Medical Image Super-Resolution
 | Paper | Venue / Year |
 |---|---|
 | [Medical Image Super-Resolution for Smart Healthcare Applications: A Comprehensive Survey](https://www.sciencedirect.com/science/article/pii/S1566253523003913) | Information Fusion, 2023/24 | [Overview of Image-to-Image Translation in Medical Imaging (denoising, SR, modality conversion, reconstruction)](https://arxiv.org/abs/1905.08603) | Radiol. Phys. Technol., 2019 |
