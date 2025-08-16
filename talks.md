@@ -13,4 +13,4 @@
 ## Talks — Image Synthesis
 | Title | Speaker | Link |
 |---|---|---|
-| Generative AI, Stable Diffusion, and the Revolution in Visual Synthesis | Björn **Ommer** | Latent diffusion; text-to-image; generative priors for inverse problems | https://www.youtube.com/watch?v=j9nB_DttAlw |
+| Generative AI, Stable Diffusion, and the Revolution in Visual Synthesis | Björn **Ommer** | https://www.youtube.com/watch?v=j9nB_DttAlw |
