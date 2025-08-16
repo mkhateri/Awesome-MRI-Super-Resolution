@@ -1,5 +1,5 @@
 
-## Core Optimization (for Inverse Problems)
+## Convex Optimization (for Inverse Problems)
 
 | Course | Instructor | Focus | Format | Link |
 |------|------|------|------|------|
