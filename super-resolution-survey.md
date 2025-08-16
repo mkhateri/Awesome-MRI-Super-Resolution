@@ -29,5 +29,5 @@
 ### Diffusion Models & SR
 | Paper | Venue / Year |
 |---|---|
-| [Diffusion Models, Image Super-Resolution and Everything: A Survey](https://arxiv.org/abs/2401.00736) | arXiv, 2024 |
+| [Diffusion Models, Image Super-Resolution and Everything: A Survey](https://arxiv.org/abs/2401.00736) | IEEE TNNLS, 2024 |
 | [Diffusion Models for Image Super-Resolution: State-of-the-Art and Future Directions](https://doi.org/10.1016/j.neucom.2024.128911) | Neurocomputing, 2025 |
