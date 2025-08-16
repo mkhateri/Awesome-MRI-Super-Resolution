@@ -4,16 +4,15 @@
 | Paper | Venue / Year |
 |---|---|
 | [Super-Resolution in Magnetic Resonance Imaging: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/cmr.a.21249) | Concepts Magn. Reson. A, 2012 |
-| [Overview of Image-to-Image Translation in Medical Imaging (denoising, SR, modality conversion, reconstruction)](https://arxiv.org/abs/1905.08603) | Radiol. Phys. Technol., 2019 |
-| [A Review of the Deep Learning Methods for Medical Images Super-Resolution Problems](https://www.sciencedirect.com/science/article/abs/pii/S1959031820301408) | IRBM, 2021 |
-| [Deep Learning in Medical Image Super-Resolution: A Review](https://doi.org/10.1007/s10489-023-04566-9) | Applied Intelligence, 2023 |
 | [Deep learning-based magnetic resonance image super-resolution: a survey](https://link.springer.com/article/10.1007/s00521-024-09890-w) | Neural Comput. & Applications, 2024 |
 | [Brain MRI Image Super-Resolution Reconstruction: A Systematic Review](https://ui.adsabs.harvard.edu/abs/2024IEEEA..12o6347M/abstract) | IEEE Access, 2024 |
 
 ### Medical Image Super-Resolution (broader than MRI)
 | Paper | Venue / Year |
 |---|---|
-| [Medical Image Super-Resolution for Smart Healthcare Applications: A Comprehensive Survey](https://www.sciencedirect.com/science/article/pii/S1566253523003913) | Information Fusion, 2023/24 |
+| [Medical Image Super-Resolution for Smart Healthcare Applications: A Comprehensive Survey](https://www.sciencedirect.com/science/article/pii/S1566253523003913) | Information Fusion, 2023/24 | [Overview of Image-to-Image Translation in Medical Imaging (denoising, SR, modality conversion, reconstruction)](https://arxiv.org/abs/1905.08603) | Radiol. Phys. Technol., 2019 |
+| [A Review of the Deep Learning Methods for Medical Images Super-Resolution Problems](https://www.sciencedirect.com/science/article/abs/pii/S1959031820301408) | IRBM, 2021 |
+| [Deep Learning in Medical Image Super-Resolution: A Review](https://doi.org/10.1007/s10489-023-04566-9) | Applied Intelligence, 2023 |
 
 ### General Super-Resolution (computer vision)
 | Paper | Venue / Year |
