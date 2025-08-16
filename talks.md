@@ -16,8 +16,7 @@
 | Noise2Noise: Learning Image Restoration without Clean Data|Jaakko Lehtinen (Aalto University & NVIDIA) | https://www.youtube.com/watch?v=dcV0OfxjrPQ | 
 | Deep Learning for Inverse Problems in Medical Imaging| Chen Qin (Imperial College London)| https://www.youtube.com/watch?v=iLXdfKt8g0M | 
 | Image Denoising... Not what you Think | Michael Elad  (Technion & NVIDIA) | https://www.youtube.com/watch?v=Pk-Y83GZvQM |
-| Deep learning for medical image reconstruction, super-resolution, classification, and segmentation | Daniel Rueckert
-  (Technical University of Munich and Imperial College London) | https://www.youtube.com/watch?v=-0gmXn0M7bg |
+| Deep learning for medical image reconstruction, super-resolution, classification, and segmentation | Daniel Rueckert  (Technical University of Munich and Imperial College London) | https://www.youtube.com/watch?v=-0gmXn0M7bg |
 
 
 
