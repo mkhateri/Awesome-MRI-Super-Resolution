@@ -27,7 +27,7 @@
 | [Hitchhiker’s Guide to Super-Resolution: Introduction and Recent Advances](https://doi.org/10.1109/TPAMI.2023.3243794) ([arXiv](https://arxiv.org/abs/2209.13131)) | IEEE TPAMI, 2023 |
 | [Generative Adversarial Networks for Image Super-Resolution: A Survey](https://arxiv.org/abs/2204.13620) | arXiv, 2022 |
 
-### Diffusion Models & SR
+### Diffusion Models & Super-Resolution
 | Paper | Venue / Year |
 |---|---|
 | [Diffusion Models, Image Super-Resolution and Everything: A Survey](https://arxiv.org/abs/2401.00736) | IEEE TNNLS, 2024 |
