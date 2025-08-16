@@ -14,7 +14,7 @@
 ## Talks — Image Synthesis
 | Title | Speaker | Link |
 |---|---|---|
-| Generative AI, Stable Diffusion, and the Revolution in Visual Synthesis | Björn Ommer | https://www.youtube.com/watch?v=j9nB_DttAlw |
+| Generative AI, Stable Diffusion, and the Revolution in Visual Synthesis | Björn Ommer (University of Munich) | https://www.youtube.com/watch?v=j9nB_DttAlw |
 | Generative Diffusion Models for Medical Imaging | Hyungjin Chung (Stanford) | https://www.youtube.com/watch?v=1z5rwWr5tlI |
 
 
