@@ -14,3 +14,7 @@
 | Title | Speaker | Link |
 |---|---|---|
 | Generative AI, Stable Diffusion, and the Revolution in Visual Synthesis | Björn **Ommer** | https://www.youtube.com/watch?v=j9nB_DttAlw |
+
+
+
+
