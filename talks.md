@@ -12,7 +12,7 @@
 | A tutorial on score-based generative models with medical imaging applications| Jeffrey Fessler (University of Michigan) | https://www.youtube.com/watch?v=31o0dBZkuMc| 
 | Image Restoration through Inversion by Direct Iteration | Mauricio Delbracio (Google) | https://www.youtube.com/watch?v=B0hkJdM4jZo| 
 | Inverse Problems in Imaging: From Differential Equations to Deep Learning| Carola-Bibiane Schönlieb (University of Cambridge) | https://www.youtube.com/watch?v=Y064K_fVec4|
-
+| Posterior-Variance-Based Error Quantification for Inverse Problems in Imagin| Thomas Pock (TU Graz) | https://www.youtube.com/watch?v=-9btYNPvGz0 |
 
 
 
