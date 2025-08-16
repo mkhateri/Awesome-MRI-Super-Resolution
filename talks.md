@@ -21,6 +21,7 @@
 ## Talks — Image Synthesis
 | Title | Speaker | Link |
 |---|---|---|
+| Data replication in medical synthetic image generation using diffusion models | Vishal Patel (Johns Hopkins University) |  https://www.youtube.com/watch?v=w9_Aet98_OM |
 | Generative AI, Stable Diffusion, and the Revolution in Visual Synthesis | Björn Ommer (University of Munich) | https://www.youtube.com/watch?v=j9nB_DttAlw |
 | Generative Diffusion Models for Medical Imaging | Hyungjin Chung (KAIST) | https://www.youtube.com/watch?v=1z5rwWr5tlI |
 | Denoising Diffusion Models for Medical Image Analysis | Julia Wolleb (Stanford) | https://www.youtube.com/watch?v=US9CzPrT2H8 |
