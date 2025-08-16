@@ -17,6 +17,7 @@
 | Deep Learning for Inverse Problems in Medical Imaging| Chen Qin (Imperial College London)| https://www.youtube.com/watch?v=iLXdfKt8g0M | 
 | Image Denoising... Not what you Think | Michael Elad  (Technion & NVIDIA) | https://www.youtube.com/watch?v=Pk-Y83GZvQM |
 
+
 ## Talks — Image Synthesis
 | Title | Speaker | Link |
 |---|---|---|
@@ -25,3 +26,4 @@
 | Denoising Diffusion Models for Medical Image Analysis | Julia Wolleb (Stanford) | https://www.youtube.com/watch?v=US9CzPrT2H8 |
 | GANs in Medical Image Synthesis, Translation, and Augmentation |Jason Jeong (Stanford) | https://www.youtube.com/watch?v=cz3_ckbdiKw |
 | MICCAI Industrial Talk: Open-source Foundation Models for 3D Medical Image Segmentation & Generation | NVIDIA | https://www.youtube.com/watch?v=8-DxKogfBzs | 
+| Generative AI with MONAI| MONAI | https://www.youtube.com/watch?v=EQ-o60ljrmg | 
