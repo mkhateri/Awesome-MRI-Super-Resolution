@@ -23,5 +23,4 @@
 | Generative AI, Stable Diffusion, and the Revolution in Visual Synthesis | Björn Ommer (University of Munich) | https://www.youtube.com/watch?v=j9nB_DttAlw |
 | Generative Diffusion Models for Medical Imaging | Hyungjin Chung (Stanford) | https://www.youtube.com/watch?v=1z5rwWr5tlI |
 | Denoising Diffusion Models for Medical Image Analysis | Julia Wolleb (Stanford) | https://www.youtube.com/watch?v=US9CzPrT2H8 |
-
-
+| GANs in Medical Image Synthesis, Translation, and Augmentation |Jason Jeong (Stanford) | https://www.youtube.com/watch?v=cz3_ckbdiKw |
