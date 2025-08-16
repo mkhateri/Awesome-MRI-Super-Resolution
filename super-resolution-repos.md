@@ -1,5 +1,7 @@
 ##  General Super-Resolution Frameworks
 
+Open-source toolboxes for image/video restoration—covering super-resolution, denoising, deblurring, and more.
+
 | Framework | Description | Modality | Link |
 |---|---|---|---|
 | **KAIR** | Open-source image restoration toolbox for super-resolution, denoising, deblurring, etc. | Image | [github.com/cszn/KAIR](https://github.com/cszn/KAIR) |
