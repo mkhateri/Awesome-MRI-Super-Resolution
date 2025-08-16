@@ -14,7 +14,7 @@
 | Inverse Problems in Imaging: From Differential Equations to Deep Learning| Carola-Bibiane Schönlieb (University of Cambridge) | https://www.youtube.com/watch?v=Y064K_fVec4|
 | Posterior-Variance-Based Error Quantification for Inverse Problems in Imagin| Thomas Pock (TU Graz) | https://www.youtube.com/watch?v=-9btYNPvGz0 |
 | Noise2Noise: Learning Image Restoration without Clean Data|Jaakko Lehtinen (Aalto University & NVIDIA) | https://www.youtube.com/watch?v=dcV0OfxjrPQ | 
-
+| Deep Learning for Inverse Problems in Medical Imaging| Chen Qin (Imperial College London)| https://www.youtube.com/watch?v=iLXdfKt8g0M | 
 
 
 
