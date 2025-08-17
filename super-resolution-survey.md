@@ -1,4 +1,4 @@
-## 📚 Surveys & Reviews on Super-Resolution (General, Medical, and MRI)
+## 📚 Surveys & Reviews on Super-Resolution (MRI, General, and Medical)
 
 ### MRI Super-Resolution (MRI-specific)
 | Paper | Venue / Year |
