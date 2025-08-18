@@ -19,12 +19,18 @@
 
 ## MONAI — Downstream Task Metrics (Paper & Code)
 
-| Metric | Task | Paper (link) | Code |
+| Metric | Task | Paper | Code |
 |---|---|---|---|
-| **Dice (DSC)** | Segmentation | [Taha & Hanbury, 2015 — Metrics for evaluating 3D medical image segmentation](https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-015-0068-x) | [MONAI: `DiceMetric`](https://docs.monai.io/en/stable/metrics.html) |
-| **Jaccard / IoU** | Segmentation | [Taha & Hanbury, 2015](https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-015-0068-x) | [MONAI: `MeanIoU`](https://docs.monai.io/en/stable/metrics.html) |
-| **Hausdorff Distance (HD95)** | Segmentation | [Huttenlocher et al., 1993 — Comparing images using the Hausdorff distance](https://people.eecs.berkeley.edu/~malik/cs294/Huttenlocher93.pdf) | [MONAI: `HausdorffDistanceMetric`](https://docs.monai.io/en/stable/metrics.html) |
-| **ASSD (Avg. Symmetric Surface Dist.)** | Segmentation | [Taha & Hanbury, 2015](https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-015-0068-x) | [MONAI: `SurfaceDistanceMetric`](https://docs.monai.io/en/stable/metrics.html) |
-| **ROC AUC** | Classification | [Fawcett, 2006 — An introduction to ROC analysis](https://www.sciencedirect.com/science/article/pii/S016786550500303X) | [MONAI: `ROCAUCMetric`](https://docs.monai.io/en/stable/metrics.html) |
-| **Confusion Matrix / ACC / F1** | Classification | [Sokolova & Lapalme, 2009 — A systematic analysis of performance measures](https://www.sciencedirect.com/science/article/abs/pii/S0306457309000259) | [MONAI: `ConfusionMatrixMetric`](https://docs.monai.io/en/stable/metrics.html) |
+| Dice (DSC) | Segmentation | [Taha & Hanbury (2015)][taha15] | [MONAI][monai-metrics] |
+| Jaccard / IoU | Segmentation | [Taha & Hanbury (2015)][taha15] | [MONAI][monai-metrics] |
+| Hausdorff (HD95) | Segmentation | [Huttenlocher et al. (1993)][hutten93] | [MONAI][monai-metrics] |
+| ASSD | Segmentation | [Taha & Hanbury (2015)][taha15] | [MONAI][monai-metrics] |
+| ROC AUC | Classification | [Fawcett (2006)][fawcett06] | [MONAI][monai-metrics] |
+| Conf. Matrix / ACC / F1 | Classification | [Sokolova & Lapalme (2009)][sokolova09] | [MONAI][monai-metrics] |
+
+[taha15]: https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-015-0068-x
+[hutten93]: https://people.eecs.berkeley.edu/~malik/cs294/Huttenlocher93.pdf
+[fawcett06]: https://www.sciencedirect.com/science/article/pii/S016786550500303X
+[sokolova09]: https://www.sciencedirect.com/science/article/abs/pii/S0306457309000259
+[monai-metrics]: https://docs.monai.io/en/stable/metrics.html
 
