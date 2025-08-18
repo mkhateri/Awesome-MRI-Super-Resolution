@@ -7,7 +7,7 @@
 | DiffusionFastForward | Video + Colab | Mikolaj Czerkawski (Asterisk Labs)| https://github.com/mikonvergence/DiffusionFastForward |
 | Introduction to Diffusion Models | Colab | Juil Koo & Nguyen Minh Hieu (KAIST)|https://github.com/min-hieu/Tutorial_4?tab=readme-ov-file |
 | Diffusion models tutorial | Colab |Filippo Maria Bianchi (Arctic University of Norway)| https://github.com/FilippoMB/Diffusion_models_tutorial |
-| deepinv Toolbox | easy library for developing imaging inverse problems, e.g., Plug-and-play, diffusion-based inverse problems | Julián Tachella (CNRS & ENS de Lyon)| https://deepinv.github.io/deepinv/quickstart.html |
+| deepinv Toolbox | library for imaging inverse problems (Plug-and-Play, unrolled, diffusion-based methods)  | Julián Tachella (CNRS & ENS de Lyon)| https://deepinv.github.io/deepinv/quickstart.html |
 
 
 
