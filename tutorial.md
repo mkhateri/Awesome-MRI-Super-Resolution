@@ -9,6 +9,8 @@
 | Diffusion models tutorial | Colab |Filippo Maria Bianchi (Arctic University of Norway)| https://github.com/FilippoMB/Diffusion_models_tutorial |
 
 
+| deepinv Toolbox | Plug-and-play, diffusion-based inverse problems | Julián Tachella (CNRS & ENS de Lyon)| https://deepinv.github.io/deepinv/quickstart.html |
+
 
 
 
