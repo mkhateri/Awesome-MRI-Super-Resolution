@@ -24,7 +24,7 @@
 | [Deep Learning-Based Single-Image Super-Resolution: A Comprehensive Review](https://doi.org/10.1109/ACCESS.2023.3251396) | IEEE Access, 2023 |
 | [From Beginner to Master: A Survey for Deep Learning-Based Single-Image Super-Resolution](https://arxiv.org/abs/2109.14335) | arXiv, 2021 |
 | [Image Super-Resolution: A Comprehensive Review—Recent Trends, Challenges and Applications](https://doi.org/10.1016/j.inffus.2022.10.007) | Information Fusion, 2023 |
-| [Hitchhiker’s Guide to Super-Resolution: Introduction and Recent Advances](https://doi.org/10.1109/TPAMI.2023.3243794) ((https://arxiv.org/abs/2209.13131)) | IEEE TPAMI, 2023 |
+| [Hitchhiker’s Guide to Super-Resolution: Introduction and Recent Advances](https://doi.org/10.1109/TPAMI.2023.3243794) ([arXiv](https://arxiv.org/abs/2209.13131)) | IEEE TPAMI, 2023 |
 | [Generative Adversarial Networks for Image Super-Resolution: A Survey](https://arxiv.org/abs/2204.13620) | arXiv, 2022 |
 
 ### Diffusion Models & Super-Resolution
