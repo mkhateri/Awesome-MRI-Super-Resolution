@@ -18,7 +18,7 @@
 ### General Super-Resolution (computer vision)
 | Paper | Venue / Year |
 |---|---|
-| [Deep Learning for Image Super-Resolution: A Survey](https://arxiv.org/abs/1902.06068) | IEEE TPAMI, 2020 |
+| [Deep Learning for Image Super-Resolution: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9044873) | IEEE TPAMI, 2020 |
 | [Real-World Single Image Super-Resolution: A Brief Review](https://www.sciencedirect.com/science/article/pii/S1566253521002306) | Information Fusion, 2022 |
 | [Blind Image Super-Resolution: A Survey and Beyond](https://doi.org/10.1109/TPAMI.2022.3203009) | IEEE TPAMI, 2023 |
 | [Deep Learning-Based Single-Image Super-Resolution: A Comprehensive Review](https://doi.org/10.1109/ACCESS.2023.3251396) | IEEE Access, 2023 |
