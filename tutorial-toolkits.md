@@ -1,7 +1,7 @@
 
 
 
-## Tutorial — Computational Imaging Tools
+## Tutorial-Toolkit for Computational Imaging
 
 | Title | Description | Speaker | Link |
 |---|---|---|---|
