@@ -37,7 +37,7 @@
 ## 
 | Title | Speaker | Link |
 |---|---|---|
-| New Horizons in MRI|  Michael Lustig (UC Berkeley) | https://www.youtube.com/watch?v=bd0PJ1qDwuE | 
+| New Horizons in MRI|  Michael Lustig (UC Berkeley) | https://www.youtube.com/watch?v=bd0PJ1qDwuE |    
 
 
 
