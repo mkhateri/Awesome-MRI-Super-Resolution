@@ -22,7 +22,6 @@
 
 
 
-
 ## Talks — Image Synthesis
 | Title | Speaker | Link |
 |---|---|---|
@@ -33,3 +32,12 @@
 | GANs in Medical Image Synthesis, Translation, and Augmentation |Jason Jeong (Stanford) | https://www.youtube.com/watch?v=cz3_ckbdiKw |
 | MICCAI Industrial Talk: Open-source Foundation Models for 3D Medical Image Segmentation & Generation | NVIDIA | https://www.youtube.com/watch?v=8-DxKogfBzs | 
 | Generative AI with MONAI| MONAI | https://www.youtube.com/watch?v=EQ-o60ljrmg | 
+
+
+## 
+| Title | Speaker | Link |
+|---|---|---|
+| New Horizons in MRI|  Michael Lustig (UC Berkeley) | https://www.youtube.com/watch?v=bd0PJ1qDwuE | 
+
+
+
