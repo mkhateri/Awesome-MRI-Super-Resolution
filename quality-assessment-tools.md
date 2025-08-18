@@ -1,11 +1,8 @@
 
 ## Image Quality Assessment — Papers & Code
 
-### Full-reference & Perceptual Metrics
 
-## Image Quality Assessment — Papers & Code
-
-### Full-reference / Perceptual Metrics
+### Full-reference
 | Metric | Paper (link) | Code (reliable impls) |
 |---|---|---|
 | **PSNR** | — | [scikit-image](https://scikit-image.org/docs/stable/api/skimage.metrics.html#skimage.metrics.peak_signal_noise_ratio) · [TorchMetrics](https://lightning.ai/docs/torchmetrics/stable/image/peak_signal_noise_ratio.html) |
