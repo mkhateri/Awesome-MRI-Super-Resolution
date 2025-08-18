@@ -1,4 +1,4 @@
-## Courses (Inverse Problems, Imaging, Probability, Information Theory)
+## Courses (MRI, Generative AI, Inverse Problems, Imaging, sparse representation)
 
 Course | Instructor | Link |
 |---|---|---|
