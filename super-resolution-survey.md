@@ -32,3 +32,6 @@
 |---|---|
 | [Diffusion Models, Image Super-Resolution and Everything: A Survey](https://ieeexplore.ieee.org/abstract/document/10737883) | IEEE TNNLS, 2024 |
 | [Diffusion Models for Image Super-Resolution: State-of-the-Art and Future Directions](https://doi.org/10.1016/j.neucom.2024.128911) | Neurocomputing, 2025 |
+| [A Survey on Diffusion Models for Inverse Problems](https://arxiv.org/abs/2410.00083) | arxiv, 2025 |
+
+
