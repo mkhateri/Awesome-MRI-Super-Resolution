@@ -21,12 +21,13 @@
 | **NIMA** | [Talebi & Milanfar, 2018 (CVPR)](https://arxiv.org/abs/1709.05424) | [idealo/image-quality-assessment (PyTorch)](https://github.com/idealo/image-quality-assessment) · [Keras ref impl](https://github.com/kentsyx/Neural-IMage-Assessment) |
 
 ## MONAI — Downstream Task Metrics (Paper & Code)
+
 | Metric | Task | Paper (link) | Code |
 |---|---|---|---|
-| **Dice (DSC)** | Segmentation | [Taha & Hanbury, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147491) | [MONAI: `DiceMetric`](https://docs.monai.io/en/stable/metrics.html) |
-| **Jaccard / IoU** | Segmentation | [Taha & Hanbury, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147491) | [MONAI: `MeanIoU`](https://docs.monai.io/en/stable/metrics.html) |
-| **Hausdorff Distance (HD95)** | Segmentation | [Huttenlocher et al., 1993](https://ieeexplore.ieee.org/document/238279) | [MONAI: `HausdorffDistanceMetric`](https://docs.monai.io/en/stable/metrics.html) |
-| **ASSD (Avg. Symmetric Surface Dist.)** | Segmentation | [Taha & Hanbury, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147491) | [MONAI: `SurfaceDistanceMetric`](https://docs.monai.io/en/stable/metrics.html) |
-| **ROC AUC** | Classification | [Fawcett, 2006](https://www.sciencedirect.com/science/article/pii/S016786550500303X) | [MONAI: `ROCAUCMetric`](https://docs.monai.io/en/stable/metrics.html) |
-| **Confusion Matrix / ACC / F1** | Classification | [Sokolova & Lapalme, 2009](https://www.sciencedirect.com/science/article/pii/S0306457308002166) | [MONAI: `ConfusionMatrixMetric`](https://docs.monai.io/en/stable/metrics.html) |
+| **Dice (DSC)** | Segmentation | [Taha & Hanbury, 2015 — Metrics for evaluating 3D medical image segmentation](https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-015-0068-x) | [MONAI: `DiceMetric`](https://docs.monai.io/en/stable/metrics.html) |
+| **Jaccard / IoU** | Segmentation | [Taha & Hanbury, 2015](https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-015-0068-x) | [MONAI: `MeanIoU`](https://docs.monai.io/en/stable/metrics.html) |
+| **Hausdorff Distance (HD95)** | Segmentation | [Huttenlocher et al., 1993 — Comparing images using the Hausdorff distance](https://people.eecs.berkeley.edu/~malik/cs294/Huttenlocher93.pdf) | [MONAI: `HausdorffDistanceMetric`](https://docs.monai.io/en/stable/metrics.html) |
+| **ASSD (Avg. Symmetric Surface Dist.)** | Segmentation | [Taha & Hanbury, 2015](https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-015-0068-x) | [MONAI: `SurfaceDistanceMetric`](https://docs.monai.io/en/stable/metrics.html) |
+| **ROC AUC** | Classification | [Fawcett, 2006 — An introduction to ROC analysis](https://www.sciencedirect.com/science/article/pii/S016786550500303X) | [MONAI: `ROCAUCMetric`](https://docs.monai.io/en/stable/metrics.html) |
+| **Confusion Matrix / ACC / F1** | Classification | [Sokolova & Lapalme, 2009 — A systematic analysis of performance measures](https://www.sciencedirect.com/science/article/abs/pii/S0306457309000259) | [MONAI: `ConfusionMatrixMetric`](https://docs.monai.io/en/stable/metrics.html) |
 
