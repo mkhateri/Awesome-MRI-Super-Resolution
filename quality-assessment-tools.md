@@ -21,7 +21,7 @@
 | **NIQE** | [Mittal et al., 2013](https://ieeexplore.ieee.org/document/6353522) | [PIQ: NIQE](https://github.com/photosynthesis-team/piq) | No-ref naturalness; may not reflect clinical relevance. |
 | **PIQE / BRISQUE** | [Saad et al., 2012](https://ieeexplore.ieee.org/document/6272356) / [Mittal et al., 2012](https://ieeexplore.ieee.org/document/6272356) | Popular Python impls exist; for PyTorch prefer the aggregated library below | Use with caution for MRI; consider task-aware eval. |
 
-> ✅ For **medical downstream** evaluation (segmentation/classification), use **MONAI metrics** (e.g., Dice, Hausdorff, AUC) alongside IQA.
+> For **medical downstream** evaluation (segmentation/classification), use **MONAI metrics** (e.g., Dice, Hausdorff, AUC) alongside IQA.
 
 ### Downstream Clinical / Task-based Metrics (for SR impact)
 
