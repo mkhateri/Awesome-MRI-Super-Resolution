@@ -7,5 +7,5 @@ Course | Instructor | Link |
 | Model-Based Image Processing (ECE641) | Charles Bouman (Purdue University) | https://www.youtube.com/playlist?list=PL3ZrjaBngMS0mTSoMsy7P6rTFSgsmsMw3 |
 | Convex Optimization (EE364A) | Stephen Boyd (Stanford) | https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h |
 | Sparse and Redundant Representations and their Applications in Signal and Image Processing | Michael Elad ( Technion & NVIDIA) | https://elad.cs.technion.ac.il/236862-course-webpage-winter-semester-2020-2021/ |
-| Intro to Probability for Data Science | Stanley H. Chan (Purdue University) | https://probability4datascience.com/lecture.html |
+%%| Intro to Probability for Data Science | Stanley H. Chan (Purdue University) | https://probability4datascience.com/lecture.html |
 
