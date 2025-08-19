@@ -6,25 +6,25 @@
 | Diffusioin for Inverse Problems | Michael Elad  (Technion & NVIDIA)| [Link](https://www.youtube.com/watch?v=Te5kibGjsUU&t=3709s) |
 | Diffusion Models for Computational Imaging Problems | Jong Chul Ye (KAIST) | [Link](https://www.youtube.com/watch?v=9vyL0tYjeP0) |
 | Advanced computational imaging: "Chassez le naturel, il revient au galop" | Michael Unser (EPFL) | [Link](https://www.youtube.com/watch?v=knfJu3R4CNc) |
-| Making Computational Imaging Useful | Charles Bouman (Purdue University) | https://www.imsi.institute/videos/making-computational-imaging-useful/ |
-| Learning to Solve Inverse Problems in Imaging | Rebecca Willett (University of Chicago)  | https://www.youtube.com/watch?v=IMnjiYyHnpg&list=PLcntFj46o5pFBKIGgKJ55q10D5pYc8JOu&index=12 |
-| Computational Imaging: Reconciling Models and Learning | Ulugbek Kamilov (Washington University) | https://www.youtube.com/watch?v=dVAT7F8Rhho |
-| Computational Imaging: Restoration Deep Networks as Implicit Priors | Ulugbek Kamilov (Washington University) | https://www.youtube.com/watch?v=oCoRSC9BMPI |
-| Plug-and-Play Models for Large-Scale Computational Imaging | Ulugbek Kamilov (Washington University) | https://www.youtube.com/watch?v=8CvM3zmo14E |
-| A tutorial on score-based generative models with medical imaging applications| Jeffrey Fessler (University of Michigan) | https://www.youtube.com/watch?v=31o0dBZkuMc| 
-| Image Restoration through Inversion by Direct Iteration | Mauricio Delbracio (Google) | https://www.youtube.com/watch?v=B0hkJdM4jZo| 
-| Inverse Problems in Imaging: From Differential Equations to Deep Learning| Carola-Bibiane Schönlieb (University of Cambridge) | https://www.youtube.com/watch?v=Y064K_fVec4|
-| Posterior-Variance-Based Error Quantification for Inverse Problems in Imagin| Thomas Pock (TU Graz) | https://www.youtube.com/watch?v=-9btYNPvGz0 |
-| Noise2Noise: Learning Image Restoration without Clean Data|Jaakko Lehtinen (Aalto University & NVIDIA) | https://www.youtube.com/watch?v=dcV0OfxjrPQ | 
-| Deep Learning for Inverse Problems in Medical Imaging| Chen Qin (Imperial College London)| https://www.youtube.com/watch?v=iLXdfKt8g0M | 
-| Image Denoising... Not what you Think | Michael Elad  (Technion & NVIDIA) | https://www.youtube.com/watch?v=Pk-Y83GZvQM |
-| Deep learning for medical image reconstruction, super-resolution, classification, and segmentation | Daniel Rueckert  (Technical University of Munich and Imperial College London) | https://www.youtube.com/watch?v=-0gmXn0M7bg |
-| Diffusion Models for Inverse Problems | KAIST | https://www.youtube.com/watch?v=F5S8VBBncGw |
-| Adapting and Regularizing Diffusion Models for Inverse Problems | Hyungjin Chung (UCLA) | https://www.youtube.com/watch?v=9Y8NKkuPhC0 |
-| Computational Imaging: Integrating Physical and Learned Models | Ulugbek Kamilov (Washington University) | https://www.youtube.com/watch?v=Fz29yiuAc7Y |
-|Optimal Transport-driven CycleGAN for Unsupervised Learning in Inverse Problems|Jong Chul Ye (KAIST)| https://www.youtube.com/watch?v=DZG2ObAPS94 |
-|Physics-inspired imaging principles for the benefit of computer vision | Dmitry Dylov (Skoltech)| https://www.youtube.com/watch?v=aKfyuCL4wXY |
-|Continuous Signal Processing using Implicit Neural Representation | Kyong Hwan Jin (Korea university)| https://www.imsi.institute/videos/continuous-signal-processing-using-implicit-neural-representation/ |
+| Making Computational Imaging Useful | Charles Bouman (Purdue University) | [Link](https://www.imsi.institute/videos/making-computational-imaging-useful/) |
+| Learning to Solve Inverse Problems in Imaging | Rebecca Willett (University of Chicago)  | [Link](https://www.youtube.com/watch?v=IMnjiYyHnpg&list=PLcntFj46o5pFBKIGgKJ55q10D5pYc8JOu&index=12) |
+| Computational Imaging: Reconciling Models and Learning | Ulugbek Kamilov (Washington University) | [Link](https://www.youtube.com/watch?v=dVAT7F8Rhho) |
+| Computational Imaging: Restoration Deep Networks as Implicit Priors | Ulugbek Kamilov (Washington University) | [Link](https://www.youtube.com/watch?v=oCoRSC9BMPI) |
+| Plug-and-Play Models for Large-Scale Computational Imaging | Ulugbek Kamilov (Washington University) | [Link](https://www.youtube.com/watch?v=8CvM3zmo14E) |
+| A tutorial on score-based generative models with medical imaging applications| Jeffrey Fessler (University of Michigan) | [Link](https://www.youtube.com/watch?v=31o0dBZkuMc)| 
+| Image Restoration through Inversion by Direct Iteration | Mauricio Delbracio (Google) | [Link](https://www.youtube.com/watch?v=B0hkJdM4jZo)| 
+| Inverse Problems in Imaging: From Differential Equations to Deep Learning| Carola-Bibiane Schönlieb (University of Cambridge) | [Link](https://www.youtube.com/watch?v=Y064K_fVec4)|
+| Posterior-Variance-Based Error Quantification for Inverse Problems in Imagin| Thomas Pock (TU Graz) | [Link](https://www.youtube.com/watch?v=-9btYNPvGz0) |
+| Noise2Noise: Learning Image Restoration without Clean Data|Jaakko Lehtinen (Aalto University & NVIDIA) | [Link](https://www.youtube.com/watch?v=dcV0OfxjrPQ) | 
+| Deep Learning for Inverse Problems in Medical Imaging| Chen Qin (Imperial College London)| [Link](https://www.youtube.com/watch?v=iLXdfKt8g0M) | 
+| Image Denoising... Not what you Think | Michael Elad  (Technion & NVIDIA) | [Link](https://www.youtube.com/watch?v=Pk-Y83GZvQM) |
+| Deep learning for medical image reconstruction, super-resolution, classification, and segmentation | Daniel Rueckert  (Technical University of Munich and Imperial College London) | [Link](https://www.youtube.com/watch?v=-0gmXn0M7bg) |
+| Diffusion Models for Inverse Problems | KAIST | [Link](https://www.youtube.com/watch?v=F5S8VBBncGw) |
+| Adapting and Regularizing Diffusion Models for Inverse Problems | Hyungjin Chung (UCLA) | [Link](https://www.youtube.com/watch?v=9Y8NKkuPhC0) |
+| Computational Imaging: Integrating Physical and Learned Models | Ulugbek Kamilov (Washington University) | [Link](https://www.youtube.com/watch?v=Fz29yiuAc7Y) |
+|Optimal Transport-driven CycleGAN for Unsupervised Learning in Inverse Problems|Jong Chul Ye (KAIST)| [Link](https://www.youtube.com/watch?v=DZG2ObAPS94) |
+|Physics-inspired imaging principles for the benefit of computer vision | Dmitry Dylov (Skoltech)| [Link](https://www.youtube.com/watch?v=aKfyuCL4wXY) |
+|Continuous Signal Processing using Implicit Neural Representation | Kyong Hwan Jin (Korea university)| [Link](https://www.imsi.institute/videos/continuous-signal-processing-using-implicit-neural-representation/) |
 
 
 
