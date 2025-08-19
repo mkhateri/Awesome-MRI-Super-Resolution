@@ -59,6 +59,8 @@
 |---|---|---|
 | New Horizons in MRI|  Michael Lustig (UC Berkeley) | [Link](https://www.youtube.com/watch?v=bd0PJ1qDwuE) |    
 | Computational MRI in the deep learning era with applications to FMRI |  (Instituto de Radiologia) | [Link](https://www.youtube.com/watch?v=7Jy2LgsRk-E) |    
+| Machine learning meets medical imaging: From signals to clinically useful information |  Daniel Rueckert  (Technical University of Munich and Imperial College London) | [Link](https://www.youtube.com/watch?v=7vtpWbrVdDY) |    
+
 
 
 
