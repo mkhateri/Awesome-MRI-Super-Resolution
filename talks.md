@@ -40,6 +40,9 @@
 | Title | Speaker | Link |
 |---|---|---|
 | New Horizons in MRI|  Michael Lustig (UC Berkeley) | https://www.youtube.com/watch?v=bd0PJ1qDwuE |    
+| Computational MRI in the deep learning era with applications to FMRI |  (Instituto de Radiologia) | https://www.youtube.com/watch?v=7Jy2LgsRk-E |    
+
+
 
 
 
