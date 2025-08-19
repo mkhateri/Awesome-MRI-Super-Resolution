@@ -45,20 +45,20 @@
 ## Talks — Image Synthesis
 | Title | Speaker | Link |
 |---|---|---|
-| Data replication in medical synthetic image generation using diffusion models | Vishal Patel (Johns Hopkins University) |  https://www.youtube.com/watch?v=w9_Aet98_OM |
-| Generative AI, Stable Diffusion, and the Revolution in Visual Synthesis | Björn Ommer (University of Munich) | https://www.youtube.com/watch?v=j9nB_DttAlw |
-| Generative Diffusion Models for Medical Imaging | Hyungjin Chung (KAIST) | https://www.youtube.com/watch?v=1z5rwWr5tlI |
-| Denoising Diffusion Models for Medical Image Analysis | Julia Wolleb (Stanford) | https://www.youtube.com/watch?v=US9CzPrT2H8 |
-| GANs in Medical Image Synthesis, Translation, and Augmentation |Jason Jeong (Stanford) | https://www.youtube.com/watch?v=cz3_ckbdiKw |
-| MICCAI Industrial Talk: Open-source Foundation Models for 3D Medical Image Segmentation & Generation | NVIDIA | https://www.youtube.com/watch?v=8-DxKogfBzs | 
+| Data replication in medical synthetic image generation using diffusion models | Vishal Patel (Johns Hopkins University) |  [Link](https://www.youtube.com/watch?v=w9_Aet98_OM) |
+| Generative AI, Stable Diffusion, and the Revolution in Visual Synthesis | Björn Ommer (University of Munich) | [Link](https://www.youtube.com/watch?v=j9nB_DttAlw) |
+| Generative Diffusion Models for Medical Imaging | Hyungjin Chung (KAIST) | [Link](https://www.youtube.com/watch?v=1z5rwWr5tlI) |
+| Denoising Diffusion Models for Medical Image Analysis | Julia Wolleb (Stanford) | [Link](https://www.youtube.com/watch?v=US9CzPrT2H8) |
+| GANs in Medical Image Synthesis, Translation, and Augmentation |Jason Jeong (Stanford) | [Link](https://www.youtube.com/watch?v=cz3_ckbdiKw) |
+| MICCAI Industrial Talk: Open-source Foundation Models for 3D Medical Image Segmentation & Generation | NVIDIA | [Link](https://www.youtube.com/watch?v=8-DxKogfBzs) | 
 | Generative AI with MONAI| MONAI | https://www.youtube.com/watch?v=EQ-o60ljrmg | 
 
 
 ## Talks — MRI
 | Title | Speaker | Link |
 |---|---|---|
-| New Horizons in MRI|  Michael Lustig (UC Berkeley) | https://www.youtube.com/watch?v=bd0PJ1qDwuE |    
-| Computational MRI in the deep learning era with applications to FMRI |  (Instituto de Radiologia) | https://www.youtube.com/watch?v=7Jy2LgsRk-E |    
+| New Horizons in MRI|  Michael Lustig (UC Berkeley) | [Link](https://www.youtube.com/watch?v=bd0PJ1qDwuE) |    
+| Computational MRI in the deep learning era with applications to FMRI |  (Instituto de Radiologia) | [Link](https://www.youtube.com/watch?v=7Jy2LgsRk-E) |    
 
 
 
