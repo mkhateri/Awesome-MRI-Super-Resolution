@@ -10,16 +10,7 @@
 
 ---
 
-###  Citation
 
-```bibtex
-@article{khateri2025mrisr,
-  title   = {Deep Learning for MRI Super-Resolution: A Comprehensive Survey},
-  author  = {Khateri, Mohammad and Vasylechko, Serge and Ghahremani, Morteza and Timms, Liam and Kocanaogullari, Deniz and Warfield, Simon K. and Karimi, Davood and Sierra, Alejandra and Tohka, Jussi and Kurugol, Sila and Afacan, Onur},
-  journal = {arXiv preprint arXiv:XXXX.XXXXX},
-  year    = {2025}
-}
-```
 
 
 ###  Update
@@ -35,17 +26,22 @@ If we missed your paper, tool, or dataset, please open an issue or submit a pull
 - [Papers & Code](svr-tools.md)  
 - [Repositories](super-resolution-repos.md)  
 - [Datasets](datasets.md)  
-- [Applications](applications.md)  
 - [Preprocessing Tools](preprocessing-tools.md)  
 - [Quality Assessment Tools](quality-assessment-tools.md)  
 - [Tutorials & Toolkits](tutorial-toolkit.md)  
 - [Courses](courses.md)  
 - [Talks](talks.md)  
-- [Famous Groups & Labs](famous-groups.md)  
-- [Useful Links](useful-links.md)  
 - [License](LICENCE)  
-- [Citation](#citation)
 
 
 
+###  Citation
 
+```bibtex
+@article{khateri2025mrisr,
+  title   = {Deep Learning for MRI Super-Resolution: A Comprehensive Survey},
+  author  = {Khateri, Mohammad and Vasylechko, Serge and Ghahremani, Morteza and Timms, Liam and Kocanaogullari, Deniz and Warfield, Simon K. and Karimi, Davood and Sierra, Alejandra and Tohka, Jussi and Kurugol, Sila and Afacan, Onur},
+  journal = {arXiv preprint arXiv:XXXX.XXXXX},
+  year    = {2025}
+}
+```
