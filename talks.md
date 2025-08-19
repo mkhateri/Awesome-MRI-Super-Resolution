@@ -20,7 +20,13 @@
 | Diffusion Models for Inverse Problems | KAIST | https://www.youtube.com/watch?v=F5S8VBBncGw |
 | Adapting and Regularizing Diffusion Models for Inverse Problems | Hyungjin Chung (UCLA) | https://www.youtube.com/watch?v=9Y8NKkuPhC0 |
 | Computational Imaging: Integrating Physical and Learned Models | Ulugbek Kamilov (Washington University) | https://www.youtube.com/watch?v=Fz29yiuAc7Y |
+|Optimal Transport-driven CycleGAN for Unsupervised Learning in Inverse Problems|Jong Chul Ye (KAIST)| https://www.youtube.com/watch?v=DZG2ObAPS94 |
 
+
+## Webinar Series
+| Title | Organizer | Description | Link |
+|---|---|---|---|
+| Computational Imaging Webinar Series | IEEE SPS | High-quality talks on computational imaging| [https://www.youtube.com/watch?v=v4lVSKMn4zE](https://sites.google.com/view/sps-space) |
 
 
 
