@@ -19,6 +19,8 @@
 | Deep learning for medical image reconstruction, super-resolution, classification, and segmentation | Daniel Rueckert  (Technical University of Munich and Imperial College London) | https://www.youtube.com/watch?v=-0gmXn0M7bg |
 | Diffusion Models for Inverse Problems | KAIST | https://www.youtube.com/watch?v=F5S8VBBncGw |
 | Adapting and Regularizing Diffusion Models for Inverse Problems | Hyungjin Chung (UCLA) | https://www.youtube.com/watch?v=9Y8NKkuPhC0 |
+| Computational Imaging: Integrating Physical and Learned Models | Ulugbek Kamilov (Washington University) | https://www.youtube.com/watch?v=Fz29yiuAc7Y |
+
 
 
 
