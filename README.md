@@ -13,11 +13,13 @@
 
 
 ### Update & Disclaimer  
-This repository is updated quarterly. If you would like to suggest a paper, tool, or dataset, please open an issue or submit a pull request.  
 
-This list is not intended to be exhaustive. MRI super-resolution is a rapidly evolving field with a large and growing body of literature, tools, and datasets. The resources included here are those we find most relevant for introducing key concepts, methods, and applications.  
+This repository is updated quarterly. To suggest a paper, tool, dataset, resource, talk, or course, please open an issue or submit a pull request.  
 
-First release: August 20, 2025
+The list is not intended to be exhaustive. MRI super-resolution is a rapidly evolving field with an expanding body of literature, tools, and datasets. The resources included here emphasize key concepts, methods, and applications that we consider most relevant.  
+
+*First release: August 20, 2025*  
+
 
 
 ### Table of Contents
