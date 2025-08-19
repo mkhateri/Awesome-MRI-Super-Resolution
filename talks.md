@@ -27,8 +27,7 @@
 | Title | Organizer | Description | Link |
 |---|---|---|---|
 | Computational Imaging Webinar Series | IEEE SPS | High-quality talks on computational imaging| [https://www.youtube.com/watch?v=v4lVSKMn4zE](https://sites.google.com/view/sps-space) |
-| EPFL Seminar Series in Imaging | EPFL | High-quality talks on computational imaging and more| https://www.youtube.com/playlist?list=PLii-VuaV-wB0nWa56h3wmRIA98Tic3KuI
- |
+| EPFL Seminar Series in Imaging | EPFL | High-quality talks on computational imaging and more| https://www.youtube.com/playlist?list=PLii-VuaV-wB0nWa56h3wmRIA98Tic3KuI |
 
 
 
