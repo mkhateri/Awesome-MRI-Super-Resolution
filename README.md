@@ -24,7 +24,7 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
 
 
 ### Table of Contents
-- [Survey](super-resolution-survey.md)  
+- [Surveys](super-resolution-survey.md)  
 - [Papers & Code](svr-tools.md)  
 - [Repositories](super-resolution-repos.md)  
 - [Datasets](datasets.md)  
