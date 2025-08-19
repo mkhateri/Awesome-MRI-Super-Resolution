@@ -12,7 +12,6 @@
 
 
 
-
 ###  Update
 This repo is updated quarterly.
 If we missed your paper, tool, or dataset, please open an issue or submit a pull request.
@@ -31,7 +30,6 @@ First release: August 20, 2025
   - [Tutorials](tutorial-toolkit.md)  
   - [Talks](talks.md)  
   - [Courses](courses.md)  
-
 
 
 
