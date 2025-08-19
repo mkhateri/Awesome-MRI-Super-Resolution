@@ -25,7 +25,7 @@ First release: August 20, 2025
 - [Papers & Code](svr-tools.md)  
 - [Repositories](super-resolution-repos.md)  
 - [Datasets](datasets.md)  
-- [Preprocessing Tools](preprocessing-tools.md)  
+- [Preprocessing Tools](tools-quality-assessment.md)  
 - [Quality Assessment Tools](quality-assessment-tools.md)  
 - [Learning Resources](learning-resources.md)  
   - [Tutorials](tutorial-toolkit.md)  
