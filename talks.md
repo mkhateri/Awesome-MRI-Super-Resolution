@@ -7,10 +7,6 @@
 | Diffusion Models for Computational Imaging Problems | Jong Chul Ye (KAIST) | https://www.youtube.com/watch?v=9vyL0tYjeP0 |
 | Advanced computational imaging: "Chassez le naturel, il revient au galop" | Michael Unser (EPFL) | https://www.youtube.com/watch?v=knfJu3R4CNc |
 | Making Computational Imaging Useful | Charles Bouman (Purdue University) | https://www.imsi.institute/videos/making-computational-imaging-useful/ |
-
-
-
-
 | Learning to Solve Inverse Problems in Imaging | Rebecca Willett (University of Chicago)  | https://www.youtube.com/watch?v=IMnjiYyHnpg&list=PLcntFj46o5pFBKIGgKJ55q10D5pYc8JOu&index=12 |
 | Computational Imaging: Reconciling Models and Learning | Ulugbek Kamilov (Washington University) | https://www.youtube.com/watch?v=dVAT7F8Rhho |
 | Computational Imaging: Restoration Deep Networks as Implicit Priors | Ulugbek Kamilov (Washington University) | https://www.youtube.com/watch?v=oCoRSC9BMPI |
