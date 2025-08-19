@@ -1,4 +1,4 @@
-## Talks — Imaging Inverse Problems
+## Talks on Imaging Inverse Problems & Computational Imaging
 
 | Title | Speaker | Link |
 |---|---|---|
