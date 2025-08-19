@@ -51,7 +51,7 @@
 | Denoising Diffusion Models for Medical Image Analysis | Julia Wolleb (Stanford) | [Link](https://www.youtube.com/watch?v=US9CzPrT2H8) |
 | GANs in Medical Image Synthesis, Translation, and Augmentation |Jason Jeong (Stanford) | [Link](https://www.youtube.com/watch?v=cz3_ckbdiKw) |
 | MICCAI Industrial Talk: Open-source Foundation Models for 3D Medical Image Segmentation & Generation | NVIDIA | [Link](https://www.youtube.com/watch?v=8-DxKogfBzs) | 
-| Generative AI with MONAI| MONAI | https://www.youtube.com/watch?v=EQ-o60ljrmg | 
+| Generative AI with MONAI| MONAI | [Link](https://www.youtube.com/watch?v=EQ-o60ljrmg) | 
 
 
 ## Talks — MRI
