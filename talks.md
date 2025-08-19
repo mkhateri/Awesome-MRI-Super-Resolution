@@ -23,7 +23,7 @@
 |Optimal Transport-driven CycleGAN for Unsupervised Learning in Inverse Problems|Jong Chul Ye (KAIST)| https://www.youtube.com/watch?v=DZG2ObAPS94 |
 
 
-## Webinar Series
+## Webinar/Seminar Series
 | Title | Organizer | Description | Link |
 |---|---|---|---|
 | Computational Imaging Webinar Series | IEEE SPS | High-quality talks on computational imaging| [https://www.youtube.com/watch?v=v4lVSKMn4zE](https://sites.google.com/view/sps-space) |
