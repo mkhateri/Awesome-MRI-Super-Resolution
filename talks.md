@@ -34,7 +34,7 @@
 | Generative AI with MONAI| MONAI | https://www.youtube.com/watch?v=EQ-o60ljrmg | 
 
 
-## 
+## Talks — MRI
 | Title | Speaker | Link |
 |---|---|---|
 | New Horizons in MRI|  Michael Lustig (UC Berkeley) | https://www.youtube.com/watch?v=bd0PJ1qDwuE |    
