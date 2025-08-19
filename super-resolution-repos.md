@@ -1,4 +1,4 @@
-##  Super-Resolution Toolbox
+##  Super-Resolution Respository
 
 Open-source toolboxes for image/video restoration—covering super-resolution, denoising, deblurring, and more.
 
