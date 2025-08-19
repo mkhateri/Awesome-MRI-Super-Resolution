@@ -1,4 +1,4 @@
-##  General Super-Resolution Frameworks
+##  Super-Resolution Toolbox
 
 Open-source toolboxes for image/video restoration—covering super-resolution, denoising, deblurring, and more.
 
