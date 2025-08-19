@@ -1,4 +1,4 @@
-## Courses (MRI, Generative AI, Inverse Problems, Optimization, sparse representation)
+## Courses (MRI, Generative AI, Inverse Problems, Optimization, Computational Imaging, Sparse Representation)
 
 Course | Instructor | Link |
 |---|---|---|
