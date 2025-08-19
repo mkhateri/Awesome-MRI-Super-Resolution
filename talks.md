@@ -24,6 +24,8 @@
 | Computational Imaging: Integrating Physical and Learned Models | Ulugbek Kamilov (Washington University) | https://www.youtube.com/watch?v=Fz29yiuAc7Y |
 |Optimal Transport-driven CycleGAN for Unsupervised Learning in Inverse Problems|Jong Chul Ye (KAIST)| https://www.youtube.com/watch?v=DZG2ObAPS94 |
 |Physics-inspired imaging principles for the benefit of computer vision | Dmitry Dylov (Skoltech)| https://www.youtube.com/watch?v=aKfyuCL4wXY |
+|Continuous Signal Processing using Implicit Neural Representation | Kyong Hwan Jin (Korea university)| https://www.imsi.institute/videos/continuous-signal-processing-using-implicit-neural-representation/ |
+
 
 
 
