@@ -37,6 +37,7 @@
 | Super-Resolution: Computational and Deep Learning-Based Approaches | Majid Rabbani (Rochester Institute of Technology) | [Link](https://www.youtube.com/watch?v=czlEG-QkKRI)| 
 | Microscopy Image Restoration: Physics driven or Data driven Models |Daniel Sage (EPFL) | [Link](https://www.youtube.com/watch?v=xfNOtk1wtJk)| 
 | A Walk Through Image Deblurring: From Model-Based to Generative Restoration | Mauricio Delbracio (Google) | [Link](https://www.youtube.com/watch?v=7ZkB3ASPlms)| 
+| Projected Distribution Loss for Image Enhancement | Mauricio Delbracio (Google) | [Link](https://www.youtube.com/watch?v=7ZkB3ASPlms)| 
 
 
 
