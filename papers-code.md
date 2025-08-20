@@ -9,7 +9,7 @@
 |Autoencoding low-resolution MRI for semantically smooth interpolation of anisotropic MRI| Res-SRDiff|Medical image analysis / 2022 |	[Link](https://github.com/qurAI-amsterdam/SuperResolution_aniso_MRI) |
 |Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution| DiffMSR | CVPR/ 2024 |	[Link](https://github.com/GuangYuanKK/DiffMSR) |
 |Deep Attention Super-Resolution of Brain Magnetic Resonance Images Acquired Under Clinical Protocols| - | Frontiers in Computational Neuroscience / 2022 |	[Link](https://github.com/bryanlimy/clinical-super-mri) |
-|SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution| superformer | MICCAI/ 2022 |	[Link](https://github.com/BCV-Uniandes/SuperFormer) |
+|SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution| SuperFormer | MICCAI/ 2022 |	[Link](https://github.com/BCV-Uniandes/SuperFormer) |
 
 
 |Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution| DiffMSR | CVPR/ 2024 |	[Link](https://github.com/GuangYuanKK/DiffMSR) |
