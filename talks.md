@@ -25,7 +25,7 @@
 |Continuous Signal Processing using Implicit Neural Representation | Kyong Hwan Jin (Korea university)| [Link](https://www.imsi.institute/videos/continuous-signal-processing-using-implicit-neural-representation/) |
 
 
-## Talks — Image Restoration
+## Talks — Image Restoration & Quality Assessment
 
 | Title | Speaker | Link |
 |---|---|---|
