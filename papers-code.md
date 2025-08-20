@@ -7,7 +7,7 @@
 |---|---|---|---|
 
 |Title |	Model |	Published	| Code |
-CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution|	CLIP-SR|	arxiv|	
+|CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution|	CLIP-SR|	arxiv|	
 
 
 
