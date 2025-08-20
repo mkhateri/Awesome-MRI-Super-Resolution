@@ -12,7 +12,6 @@
 | Computational Imaging: Restoration Deep Networks as Implicit Priors | Ulugbek Kamilov (Washington University) | [Link](https://www.youtube.com/watch?v=oCoRSC9BMPI) |
 | Plug-and-Play Models for Large-Scale Computational Imaging | Ulugbek Kamilov (Washington University) | [Link](https://www.youtube.com/watch?v=8CvM3zmo14E) |
 | A tutorial on score-based generative models with medical imaging applications| Jeffrey Fessler (University of Michigan) | [Link](https://www.youtube.com/watch?v=31o0dBZkuMc)| 
-| Image Restoration through Inversion by Direct Iteration | Mauricio Delbracio (Google) | [Link](https://www.youtube.com/watch?v=B0hkJdM4jZo)| 
 | Inverse Problems in Imaging: From Differential Equations to Deep Learning| Carola-Bibiane Schönlieb (University of Cambridge) | [Link](https://www.youtube.com/watch?v=Y064K_fVec4)|
 | Posterior-Variance-Based Error Quantification for Inverse Problems in Imagin| Thomas Pock (TU Graz) | [Link](https://www.youtube.com/watch?v=-9btYNPvGz0) |
 | Noise2Noise: Learning Image Restoration without Clean Data|Jaakko Lehtinen (Aalto University & NVIDIA) | [Link](https://www.youtube.com/watch?v=dcV0OfxjrPQ) | 
@@ -25,6 +24,32 @@
 |Optimal Transport-driven CycleGAN for Unsupervised Learning in Inverse Problems|Jong Chul Ye (KAIST)| [Link](https://www.youtube.com/watch?v=DZG2ObAPS94) |
 |Physics-inspired imaging principles for the benefit of computer vision | Dmitry Dylov (Skoltech)| [Link](https://www.youtube.com/watch?v=aKfyuCL4wXY) |
 |Continuous Signal Processing using Implicit Neural Representation | Kyong Hwan Jin (Korea university)| [Link](https://www.imsi.institute/videos/continuous-signal-processing-using-implicit-neural-representation/) |
+
+
+
+
+## Talks — Super-Resolution
+
+| Title | Speaker | Link |
+|---|---|---|
+| Image Restoration through Inversion by Direct Iteration | Mauricio Delbracio (Google) | [Link](https://www.youtube.com/watch?v=B0hkJdM4jZo)| 
+| Super-Resolution: Computational and Deep Learning-Based Approaches | Majid Rabbani (Rochester Institute of Technology) | [Link](https://www.youtube.com/watch?v=czlEG-QkKRI)| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
