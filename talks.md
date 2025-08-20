@@ -25,8 +25,6 @@
 |Continuous Signal Processing using Implicit Neural Representation | Kyong Hwan Jin (Korea university)| [Link](https://www.imsi.institute/videos/continuous-signal-processing-using-implicit-neural-representation/) |
 
 
-
-
 ## Talks — Image Restoration
 
 | Title | Speaker | Link |
@@ -34,12 +32,19 @@
 | Image Super-Resolution via Iterative Refinement | Google (Brain Team) | [Link](https://www.youtube.com/watch?v=DJpjPVksc1A)| 
 | Image Restoration through Inversion by Direct Iteration | Mauricio Delbracio (Google) | [Link](https://www.youtube.com/watch?v=B0hkJdM4jZo)| 
 | Super-Resolution: Computational and Deep Learning-Based Approaches | Majid Rabbani (Rochester Institute of Technology) | [Link](https://www.youtube.com/watch?v=czlEG-QkKRI)| 
+| Blind Video Quality |Alan Bovik (University of Colorado Boulder) | [Link](https://www.youtube.com/watch?v=B4DpI6iHWp4)| 
 | Image Denoising... Not what you Think | Michael Elad  (Technion & NVIDIA) | [Link](https://www.youtube.com/watch?v=Pk-Y83GZvQM) |
 | A Walk Through Image Deblurring: From Model-Based to Generative Restoration | Mauricio Delbracio (Google) | [Link](https://www.youtube.com/watch?v=7ZkB3ASPlms)| 
 | Projected Distribution Loss for Image Enhancement | Mauricio Delbracio (Google) | [Link](https://www.youtube.com/watch?v=7ZkB3ASPlms)| 
 | Microscopy Image Restoration: Physics driven or Data driven Models |Daniel Sage (EPFL) | [Link](https://www.youtube.com/watch?v=xfNOtk1wtJk)| 
 | Image Denoising and the Generative Accumulation of Photons | Alexander Krull (University of Birmingham) | [Link](https://www.youtube.com/watch?v=QLScVYUzDZQ)| 
 | Inpainting using Deep Learning: from theory to practice |Michał Kudelski (TCL) | [Link](https://www.youtube.com/watch?v=kbwfYMlVCps)| 
+
+
+
+
+
+
 
 
 
@@ -52,8 +57,6 @@
 | Warren Grundfest Lectures in Computational Imaging | UCLA & Caltech | Distinguished lecture series highlighting recent advances in computational imaging. | [Link](https://visual.ee.ucla.edu/web_series/) |
 | Purdue Computational Imaging Seminar | Purdue University | Academic seminar series showcasing cutting-edge research in computational imaging. | [Link](https://engineering.purdue.edu/ChanGroup/comp_imaging_seminar.html?utm_source=chatgpt.com) |
 | Computational Imaging Workshop | IMSI Institute | Workshop on the theory, methods, and applications of computational imaging. | [Link](https://www.imsi.institute/activities/computational-imaging/?utm_source=chatgpt.com) |
-
-
 
 
 
