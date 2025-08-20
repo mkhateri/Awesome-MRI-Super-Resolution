@@ -28,7 +28,7 @@
 
 
 
-## Talks — Super-Resolution
+## Talks — Image Restoration
 
 | Title | Speaker | Link |
 |---|---|---|
