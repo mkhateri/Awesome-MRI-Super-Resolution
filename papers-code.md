@@ -3,7 +3,7 @@
 
 | Paper | Model | Venue / Year | Code |
 |---|---|---|---|
-|Self-supervised ultrasound to MRI fetal brain image synthesis|	CLIP-SR|	arXiv/2021 |	[Link](https://github.com/DeepBMI/SUFFICIENT) |
+|An Arbitrary Scale Super-Resolution Approach for 3D MR Images via Implicit Neural Representation| ArSSR|	IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS/2022 |	[Link](https://github.com/iwuqing/ArSSR) |
 
 
 
