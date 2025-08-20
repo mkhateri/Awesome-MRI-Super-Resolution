@@ -1,7 +1,8 @@
 
 ## MRI Super-Resolution (In Progress…)
 
-## MRI Super-Resolution (In Progress..) | Paper | Model | Venue / Year | Code | |---|---|---|---| 
+## MRI Super-Resolution (In Progress..) | Paper | Model | Venue / Year | Code |
+|---|---|---|---| 
 |An Arbitrary Scale Super-Resolution Approach for 3D MR Images via Implicit Neural Representation| ArSSR| IEEE JBHI / 2022 | [Link](https://github.com/iwuqing/ArSSR) |
 |All-In-One Medical Image Restoration via Task-Adaptive Routing| AMIR| MICCAI / 2024 | [Link](https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing) |
 |MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting| Res-SRDiff|Physics in Medicine \& Biology / 2024 | [Link](https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing) |
