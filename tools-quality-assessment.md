@@ -1,5 +1,5 @@
 
-## Image Quality Assessment — Papers & Code
+## Image Quality Assessment
 
 ### Full-reference
 | Metric | Paper (link) | Code (reliable impls) |
