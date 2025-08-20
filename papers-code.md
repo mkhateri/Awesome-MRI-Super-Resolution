@@ -14,8 +14,7 @@
 |3D isotropic high-resolution fetal brain MRI reconstruction from motion corrupted thick data based on physical-informed unsupervised learning| SUFFICIENT | IEEE JBHI/ 2025 |	[Link](https://github.com/DeepBMI/SUFFICIENT) |
 |NeSVoR: Implicit Neural Representation for Slice-to-Volume Reconstruction in MRI | NeSVoR | IEEE TMI/ 2023 |	[Link](https://github.com/daviddmc/NeSVoR) |
 |Super-resolution reconstruction of fetal brain MRI with prior anatomical knowledge| PAK-SRR | Springer ICIPMI/ 2023 |	[Link](https://github.com/sj-huang/PAK-SRR) |
-
-
+|Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV| Restore-RWKV | IEEE/ 2025 |	[Link](https://github.com/Yaziwel/Restore-RWKV) |
 
 
 
