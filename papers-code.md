@@ -3,7 +3,7 @@
 
 | Paper | Model | Published | Code |
 |---|---|---|---|
-|CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution|	CLIP-SR|	arxiv|	
+|Self-supervised ultrasound to MRI fetal brain image synthesis|	CLIP-SR|	[Link](https://github.com/DeepBMI/SUFFICIENT) |	
 
 
 
