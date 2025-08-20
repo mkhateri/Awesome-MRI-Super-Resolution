@@ -33,6 +33,7 @@
 | Image Restoration through Inversion by Direct Iteration | Mauricio Delbracio (Google) | [Link](https://www.youtube.com/watch?v=B0hkJdM4jZo)| 
 | Super-Resolution: Computational and Deep Learning-Based Approaches | Majid Rabbani (Rochester Institute of Technology) | [Link](https://www.youtube.com/watch?v=czlEG-QkKRI)| 
 | Blind Video Quality |Alan Bovik (University of Colorado Boulder) | [Link](https://www.youtube.com/watch?v=B4DpI6iHWp4)| 
+| Secrets of Video Quality |Alan Bovik (University of Colorado Boulder) | [Link](https://www.youtube.com/watch?v=9pre8EhfLj8)| 
 | Image Denoising... Not what you Think | Michael Elad  (Technion & NVIDIA) | [Link](https://www.youtube.com/watch?v=Pk-Y83GZvQM) |
 | A Walk Through Image Deblurring: From Model-Based to Generative Restoration | Mauricio Delbracio (Google) | [Link](https://www.youtube.com/watch?v=7ZkB3ASPlms)| 
 | Projected Distribution Loss for Image Enhancement | Mauricio Delbracio (Google) | [Link](https://www.youtube.com/watch?v=7ZkB3ASPlms)| 
