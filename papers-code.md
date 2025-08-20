@@ -1,9 +1,9 @@
 
 ## MRI Super-Resolution
 
-| Paper | Model | Published | Code |
+| Paper | Model | Venue / Year | Code |
 |---|---|---|---|
-|Self-supervised ultrasound to MRI fetal brain image synthesis|	CLIP-SR|	arXiv |	[Link](https://github.com/DeepBMI/SUFFICIENT) |
+|Self-supervised ultrasound to MRI fetal brain image synthesis|	CLIP-SR|	arXiv/2021 |	[Link](https://github.com/DeepBMI/SUFFICIENT) |
 
 
 
