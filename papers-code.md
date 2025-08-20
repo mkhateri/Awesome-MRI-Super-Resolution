@@ -3,7 +3,7 @@
 
 | Paper | Model | Published | Code |
 |---|---|---|---|
-|Self-supervised ultrasound to MRI fetal brain image synthesis|	CLIP-SR|	[Link](https://github.com/DeepBMI/SUFFICIENT) |	
+|Self-supervised ultrasound to MRI fetal brain image synthesis|	CLIP-SR|	[Link](https://github.com/DeepBMI/SUFFICIENT) |	[Link](https://github.com/DeepBMI/SUFFICIENT) |
 
 
 
