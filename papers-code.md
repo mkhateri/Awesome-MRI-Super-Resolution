@@ -5,8 +5,6 @@
 
 | Paper | Model | Published | Code |
 |---|---|---|---|
-
-|Title |	Model |	Published	| Code |
 |CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution|	CLIP-SR|	arxiv|	
 
 
