@@ -3,7 +3,8 @@
 
 | Paper | Model | Venue / Year | Code |
 |---|---|---|---|
-|An Arbitrary Scale Super-Resolution Approach for 3D MR Images via Implicit Neural Representation| ArSSR|	IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS/2022 |	[Link](https://github.com/iwuqing/ArSSR) |
+|An Arbitrary Scale Super-Resolution Approach for 3D MR Images via Implicit Neural Representation| ArSSR|	IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS / 2022 |	[Link](https://github.com/iwuqing/ArSSR) |
+|All-In-One Medical Image Restoration via Task-Adaptive Routing| AMIR|	MICCAI / 2024 |	[Link](https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing) |
 
 
 
