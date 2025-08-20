@@ -35,6 +35,8 @@
 | Image Super-Resolution via Iterative Refinement | Google (Brain Team) | [Link](https://www.youtube.com/watch?v=DJpjPVksc1A)| 
 | Image Restoration through Inversion by Direct Iteration | Mauricio Delbracio (Google) | [Link](https://www.youtube.com/watch?v=B0hkJdM4jZo)| 
 | Super-Resolution: Computational and Deep Learning-Based Approaches | Majid Rabbani (Rochester Institute of Technology) | [Link](https://www.youtube.com/watch?v=czlEG-QkKRI)| 
+| Microscopy Image Restoration: Physics driven or Data driven Models |Daniel Sage (EPFL) | [Link](https://www.youtube.com/watch?v=xfNOtk1wtJk)| 
+
 
 
 
