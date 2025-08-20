@@ -1,7 +1,5 @@
 
-## SVR
-
-### MRI Super-Resolution
+## MRI Super-Resolution
 
 | Paper | Model | Published | Code |
 |---|---|---|---|
