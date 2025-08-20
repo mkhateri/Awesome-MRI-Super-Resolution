@@ -13,20 +13,11 @@
 |Self-supervised SVR with attention for fetal MRI| DiffMSR | IEEE TMI / 2024 |	[Link](https://github.com/GuangYuanKK/DiffMSR) |
 |3D isotropic high-resolution fetal brain MRI reconstruction from motion corrupted thick data based on physical-informed unsupervised learning| SUFFICIENT | IEEE JBHI/ 2025 |	[Link](https://github.com/DeepBMI/SUFFICIENT) |
 |NeSVoR: Implicit Neural Representation for Slice-to-Volume Reconstruction in MRI | NeSVoR | IEEE TMI/ 2023 |	[Link](https://github.com/daviddmc/NeSVoR) |
-
-
-|Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution| DiffMSR | CVPR/ 2024 |	[Link](https://github.com/GuangYuanKK/DiffMSR) |
-|Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution| DiffMSR | CVPR/ 2024 |	[Link](https://github.com/GuangYuanKK/DiffMSR) |
-|Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution| DiffMSR | CVPR/ 2024 |	[Link](https://github.com/GuangYuanKK/DiffMSR) |
-|Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution| DiffMSR | CVPR/ 2024 |	[Link](https://github.com/GuangYuanKK/DiffMSR) |
-|Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution| DiffMSR | CVPR/ 2024 |	[Link](https://github.com/GuangYuanKK/DiffMSR) |
+|Super-resolution reconstruction of fetal brain MRI with prior anatomical knowledge| PAK-SRR | Springer ICIPMI/ 2023 |	[Link](https://github.com/sj-huang/PAK-SRR) |
 
 
 
 
-| **NeSVoR** | Deep learning–based SVR using implicit modeling | [https://github.com/daviddmc/NeSVoR](https://github.com/daviddmc/NeSVoR) |
-| **NiftyMIC** | Motion-corrected fetal brain segmentation + SVR | [https://github.com/gift-surg/NiftyMIC](https://github.com/gift-surg/NiftyMIC) |
-| **PAK-SRR** | Transformer-based patch-wise SVR | [https://github.com/sj-huang/PAK-SRR](https://github.com/sj-huang/PAK-SRR) |
 
 
 
