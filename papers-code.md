@@ -17,7 +17,7 @@
 
 ## SVR
 
-### 🧠 Slice-to-Volume Reconstruction (SVR) Toolkits
+### Slice-to-Volume Reconstruction (SVR) Toolkits
 
 | Toolkit | Description | Link |
 |---|---|---|
