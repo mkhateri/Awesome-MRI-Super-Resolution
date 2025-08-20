@@ -39,23 +39,7 @@
 | Projected Distribution Loss for Image Enhancement | Mauricio Delbracio (Google) | [Link](https://www.youtube.com/watch?v=7ZkB3ASPlms)| 
 | Microscopy Image Restoration: Physics driven or Data driven Models |Daniel Sage (EPFL) | [Link](https://www.youtube.com/watch?v=xfNOtk1wtJk)| 
 | Image Denoising and the Generative Accumulation of Photons | Alexander Krull (University of Birmingham) | [Link](https://www.youtube.com/watch?v=QLScVYUzDZQ)| 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Inpainting using Deep Learning: from theory to practice |Michał Kudelski (TCL) | [Link](https://www.youtube.com/watch?v=kbwfYMlVCps)| 
 
 
 
