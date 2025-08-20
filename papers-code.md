@@ -8,7 +8,6 @@
 |MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting| Res-SRDiff|Physics in Medicine \& Biology / 2024 |	[Link](https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing) |
 |Autoencoding low-resolution MRI for semantically smooth interpolation of anisotropic MRI| Res-SRDiff|Medical image analysis / 2022 |	[Link](https://github.com/qurAI-amsterdam/SuperResolution_aniso_MRI) |
 |Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution| DiffMSR | CVPR/ 2024 |	[Link](https://github.com/GuangYuanKK/DiffMSR) |
-
 |Deep Attention Super-Resolution of Brain Magnetic Resonance Images Acquired Under Clinical Protocols| - | Frontiers in Computational Neuroscience / 2022 |	[Link](https://github.com/bryanlimy/clinical-super-mri) |
 
 |Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution| DiffMSR | CVPR/ 2024 |	[Link](https://github.com/GuangYuanKK/DiffMSR) |
