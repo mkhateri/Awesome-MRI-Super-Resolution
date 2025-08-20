@@ -28,7 +28,7 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
 - [Papers & Code](svr-tools.md)  
 - [Repositories](super-resolution-repos.md)  
 - [Datasets](datasets.md)  
-- [Preprocessing Tools](tools-quality-assessment.md)  
+- [Preprocessing Tools](tools-preprocessing.md)  
 - [Quality Assessment Tools](quality-assessment-tools.md)  
 - [Learning Resources](learning-resources.md)  
   - [Tutorials](tutorial-toolkit.md)  
