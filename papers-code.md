@@ -56,6 +56,9 @@
 |---|:---:|---|---|:---:|
 | Generative Models for Inverse Imaging Problems: From mathematical foundations to physics-driven applications| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10004774) | ––– |
 | Foundations of computational imaging: a model-based approach| ––– | SIAM/ 2022 | [Book](https://books.google.fi/books/about/Foundations_of_Computational_Imaging.html?id=TiJ6EAAAQBAJ&redir_esc=y) | ––– |
+| Physics-Driven Deep Learning for Computational Magnetic Resonance Imaging: Combining physics and machine learning for improved medical imaging| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10004819) | ––– |
+
+
 
 
 
