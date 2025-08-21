@@ -92,10 +92,11 @@
 | Cross-contrast mutual fusion network for joint MRI reconstruction and super-resolution| CMF-Net | Pattern Recognition/ 2024 | [paper](https://www.sciencedirect.com/science/article/pii/S0031320324003509) | ––– |
 | Joint MR image reconstruction and super-resolution via mutual co-attention network | MCAN |Computational Design and Engineering/ 2024 | [paper](https://academic.oup.com/jcde/article/11/1/288/7582275) | ––– |
 | MHAN: Multi-Stage Hybrid Attention Network for MRI reconstruction and super-resolution| MHAN | Computers in Biology and Medicine/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523006467?via%3Dihub) | ––– |
+| Motion Correction and Super-Resolution for Multi-slice Cardiac Magnetic Resonance Imaging via a Multi-stage Deep Learning Approach|   | IEEE ISBI/ 2024 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635315) | ––– |
+| MoCoSR: Respiratory Motion Correction and Super-Resolution for 3D Abdominal MRI| MoCoSR | MICCAI/ 2023 | [paper](https://www.springerprofessional.de/en/mocosr-respiratory-motion-correction-and-super-resolution-for-3d/26112778) | [code](https://github.com/vito1820/MoCoSR) |
 
 
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
+
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
