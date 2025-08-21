@@ -43,11 +43,14 @@
 | Scan-Specific Generative Neural Network for MRI Super-Resolution Reconstruction| SMORE | IEEE TMI/ 2022 | [paper](https://ieeexplore.ieee.org/document/9678968) | ––– |
 | Robust Super-Resolution Volume Reconstruction From Slice Acquisitions: Application to Fetal Brain MRI| --- | TMI/ 2010 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5482022) | ––– |
 | STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
-
-
 | High-Resolution 3D MRI With Deep Generative Networks via Novel Slice-Profile Transformation Super-Resolution| SP-DS | IEEE Access/ 2024 | [paper](https://ieeexplore.ieee.org/document/10226181) | --- |
+| Deformable Slice-to-Volume Registration for Motion Correction of Fetal Body and Placenta MRI | DSVR | IEEE TMI/ 2020 | [paper](https://ieeexplore.ieee.org/document/9001020) | [code](https://github.com/SVRTK/SVRTK) |
 
 
+
+| STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
+| STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
+| STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
 | STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
 | STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
 
@@ -99,3 +102,8 @@
 | **NeSVoR** | Deep learning–based SVR using implicit modeling | [https://github.com/daviddmc/NeSVoR](https://github.com/daviddmc/NeSVoR) |
 | **NiftyMIC** | Motion-corrected fetal brain segmentation + SVR | [https://github.com/gift-surg/NiftyMIC](https://github.com/gift-surg/NiftyMIC) |
 | **PAK-SRR** | Transformer-based patch-wise SVR | [https://github.com/sj-huang/PAK-SRR](https://github.com/sj-huang/PAK-SRR) |
+
+
+2MIRTK: https://github.com/BioMedIA/MIRTK
+3IRTK: https://github.com/BioMedIA/IRTK
+4SVRTK: https://github.com/SVRTK/SVRTK
