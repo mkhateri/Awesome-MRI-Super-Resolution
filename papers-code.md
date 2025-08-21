@@ -35,11 +35,11 @@
 | DISGAN: Wavelet-informed Discriminator Guides GAN to MRI Super-resolution with Noise Cleaning| DISGAN | IEEE ICCV/ 2023 | [paper](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Wang_DISGAN_Wavelet-Informed_Discriminator_Guides_GAN_to_MRI_Super-Resolution_with_Noise_ICCVW_2023_paper.pdf) | [code](https://github.com/wqlevi/DISGAN) |
 |Decomposition-Based Variational Network for Multi-Contrast MRI Super-Resolution and Reconstruction| MC-VarNet | IEEE ICCV/ 2023 | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lei_Decomposition-Based_Variational_Network_for_Multi-Contrast_MRI_Super-Resolution_and_Reconstruction_ICCV_2023_paper.pdf) | [code](https://github.com/lpcccc-cv/MC-VarNet) 
 | Physics-informed deep learning for T2-deblurred superresolution turbo spin echo MRI | T2-deblurring | Wiley Magnetic Resonance in Medicine/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523010971) | ––– |
+| PI-GNN: Physics-Informed Graph Neural Network for Super-Resolution of 4D Flow MRI | PI-GNN |IEEE ISBI/ 2024 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635128) | ––– |
 
 
 
-
-| MGDUN: An interpretable network for multi-contrast MRI image super-resolution reconstruction| MGDUN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523010703?via%3Dihub) | ––– |
+| MGDUN: An interpretable network for multi-contrast MRI image super-resolution reconstruction| MGDUN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635128) | ––– |
 
 
 
@@ -59,8 +59,7 @@
 | Physics-Driven Deep Learning for Computational Magnetic Resonance Imaging: Combining physics and machine learning for improved medical imaging| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10004819) | ––– |
 | The Foundations of Computational Imaging: A signal processing perspective| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10188909) | ––– |
 | Physics-Driven Deep Learning Methods for Fast Quantitative Magnetic Resonance Imaging: Performance improvements through integration with deep neural networks| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10054204) | ––– |
-
-
+| Solving Inverse Problems with Latent Diffusion Models via Hard Data Consistency | ––– | arXiv/ 2024 | [paper](https://arxiv.org/pdf/2307.08123) | [code](https://github.com/soominkwon/resample) |
 
 
 
