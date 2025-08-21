@@ -42,9 +42,12 @@
 | SMORE: A Self-Supervised Anti-Aliasing and Super-Resolution Algorithm for MRI Using Deep Learning| SMORE | IEEE TMI/ 2021 | [paper](https://ieeexplore.ieee.org/document/9253710) | [code](https://github.com/volcanofly/SMORE-Super-resolution-for-3D-medical-images-MRI) |
 | Scan-Specific Generative Neural Network for MRI Super-Resolution Reconstruction| SMORE | IEEE TMI/ 2022 | [paper](https://ieeexplore.ieee.org/document/9678968) | ––– |
 | Robust Super-Resolution Volume Reconstruction From Slice Acquisitions: Application to Fetal Brain MRI| --- | TMI/ 2010 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5482022) | ––– |
+| STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
 
 
-| MGDUN: An interpretable network for multi-contrast MRI image super-resolution reconstruction| MGDUN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635128) | ––– |
+| STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
+| STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
+| STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
 
 
 
