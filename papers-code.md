@@ -39,7 +39,7 @@
 
 
 
-| RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising| RIRGAN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523010971) | ––– |
+| MGDUN: An interpretable network for multi-contrast MRI image super-resolution reconstruction| MGDUN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523010703?via%3Dihub) | ––– |
 
 
 
@@ -58,6 +58,7 @@
 | Foundations of computational imaging: a model-based approach| ––– | SIAM/ 2022 | [Book](https://books.google.fi/books/about/Foundations_of_Computational_Imaging.html?id=TiJ6EAAAQBAJ&redir_esc=y) | ––– |
 | Physics-Driven Deep Learning for Computational Magnetic Resonance Imaging: Combining physics and machine learning for improved medical imaging| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10004819) | ––– |
 | The Foundations of Computational Imaging: A signal processing perspective| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10188909) | ––– |
+| Physics-Driven Deep Learning Methods for Fast Quantitative Magnetic Resonance Imaging: Performance improvements through integration with deep neural networks| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10054204) | ––– |
 
 
 
