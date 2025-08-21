@@ -45,7 +45,9 @@
 | STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
 
 
-| STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
+| High-Resolution 3D MRI With Deep Generative Networks via Novel Slice-Profile Transformation Super-Resolution| SP-DS | IEEE Access/ 2024 | [paper](https://ieeexplore.ieee.org/document/10226181) | --- |
+
+
 | STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
 | STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
 
