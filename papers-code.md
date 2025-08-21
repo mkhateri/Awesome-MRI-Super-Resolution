@@ -36,9 +36,7 @@
 |Decomposition-Based Variational Network for Multi-Contrast MRI Super-Resolution and Reconstruction| MC-VarNet | IEEE ICCV/ 2023 | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lei_Decomposition-Based_Variational_Network_for_Multi-Contrast_MRI_Super-Resolution_and_Reconstruction_ICCV_2023_paper.pdf) | [code](https://github.com/lpcccc-cv/MC-VarNet) 
 | Physics-informed deep learning for T2-deblurred superresolution turbo spin echo MRI | T2-deblurring | Wiley Magnetic Resonance in Medicine/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523010971) | ––– |
 | PI-GNN: Physics-Informed Graph Neural Network for Super-Resolution of 4D Flow MRI | PI-GNN |IEEE ISBI/ 2024 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635128) | ––– |
-
-
-
+| CT-Guided, Unsupervised Super-Resolution Reconstruction of Single 3D Magnetic Resonance Image | ––– | MICCAI/ 2024 | [paper](https://link.springer.com/epdf/10.1007/978-3-031-43907-0_48?sharing_token=1HLCfQD6V1IaVg35ey0-3_e4RwlQNchNByi7wbcMAY6JZllqJCh4E_RiZuoa_atqKnew50OkmuFnUr8BGxjeXrnuKliW0KxeqvkPBstP3NG_wNd5v-SnGHjUFCWqTLBoYxsi2h7ZNlz-g56lj_OkkNfXWfaQJa2zmPmaE2QahfM%3D) | ––– |
 | MGDUN: An interpretable network for multi-contrast MRI image super-resolution reconstruction| MGDUN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635128) | ––– |
 
 
@@ -63,7 +61,6 @@
 | Deep Equilibrium Architectures for Inverse Problems in Imaging | ––– | IEEE TCI/ 2021 | [paper](https://ieeexplore.ieee.org/document/9565378) | ––– |
 | Multi-Scale Energy (MuSE) Framework for Inverse Problems in Imaging | ––– | IEEE TCI/ 2024 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10645311) | ––– |
 | Deep Diffusion Image Prior for Efficient OOD Adaptation in 3D Inverse Problems | ––– | Springer European Conference on Computer Vision/ 2024 | [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09637.pdf) | [code](https://github.com/hyungjin-chung/DDIP3D) |
-| CT-Guided, Unsupervised Super-Resolution Reconstruction of Single 3D Magnetic Resonance Image | ––– | MICCAI/ 2024 | [paper](https://link.springer.com/epdf/10.1007/978-3-031-43907-0_48?sharing_token=1HLCfQD6V1IaVg35ey0-3_e4RwlQNchNByi7wbcMAY6JZllqJCh4E_RiZuoa_atqKnew50OkmuFnUr8BGxjeXrnuKliW0KxeqvkPBstP3NG_wNd5v-SnGHjUFCWqTLBoYxsi2h7ZNlz-g56lj_OkkNfXWfaQJa2zmPmaE2QahfM%3D) | ––– |
 
 
 | Solving Inverse Problems with Latent Diffusion Models via Hard Data Consistency | ––– | arXiv/ 2024 | [paper](https://arxiv.org/pdf/2307.08123) | [code](https://github.com/soominkwon/resample) |
