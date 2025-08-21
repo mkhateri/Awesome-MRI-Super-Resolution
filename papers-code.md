@@ -76,6 +76,12 @@
 
 
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 
 
@@ -103,7 +109,8 @@
 | Deep Equilibrium Architectures for Inverse Problems in Imaging | ––– | IEEE TCI/ 2021 | [paper](https://ieeexplore.ieee.org/document/9565378) | ––– |
 | Multi-Scale Energy (MuSE) Framework for Inverse Problems in Imaging | ––– | IEEE TCI/ 2024 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10645311) | ––– |
 | Deep Diffusion Image Prior for Efficient OOD Adaptation in 3D Inverse Problems | ––– | Springer European Conference on Computer Vision/ 2024 | [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09637.pdf) | [code](https://github.com/hyungjin-chung/DDIP3D) |
-| Deep Image Prior| ––– | CVPR/ 2018 | [paper](https://ieeexplore.ieee.org/document/8579082) | ––– |
+| Deep Image Prior | ––– | CVPR/ 2018 | [paper](https://ieeexplore.ieee.org/document/8579082) | ––– |
+| Plug-and-Play Image Restoration With Deep Denoiser Prior | DPIR | IEEE PAMI/ 2022 | [paper](https://ieeexplore.ieee.org/document/9454311) | [code](https://github.com/cszn/DPIR) |
 
 
 
