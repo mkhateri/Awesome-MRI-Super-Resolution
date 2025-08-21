@@ -8,7 +8,7 @@
 | Autoencoding low-resolution MRI for semantically smooth interpolation of anisotropic MRI| Res-SRDiff |Medical image analysis / 2022 | paper |[Link](https://github.com/qurAI-amsterdam/SuperResolution_aniso_MRI) |
 | Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution| DiffMSR | CVPR/ 2024 | paper |[Link](https://github.com/GuangYuanKK/DiffMSR) |
 | Deep Attention Super-Resolution of Brain Magnetic Resonance Images Acquired Under Clinical Protocols| - | Frontiers in Computational Neuroscience / 2022 | paper |[Link](https://github.com/bryanlimy/clinical-super-mri) | 
-| SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution| SuperFormer | MICCAI/ 2022 | [Link](https://github.com/BCV-Uniandes/SuperFormer) |
+| SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution| SuperFormer | MICCAI/ 2022 | paper |[Link](https://github.com/BCV-Uniandes/SuperFormer) |
 | 3D isotropic high-resolution fetal brain MRI reconstruction from motion corrupted thick data based on physical-informed unsupervised learning| SUFFICIENT | IEEE JBHI/ 2025 | paper |[Link](https://github.com/DeepBMI/SUFFICIENT) |
 | NeSVoR: Implicit Neural Representation for Slice-to-Volume Reconstruction in MRI | NeSVoR | IEEE TMI/ 2023 | paper |[Link](https://github.com/daviddmc/NeSVoR) | 
 | Super-resolution reconstruction of fetal brain MRI with prior anatomical knowledge| PAK-SRR | Springer ICIPMI/ 2023 | paper |[Link](https://github.com/sj-huang/PAK-SRR) | 
