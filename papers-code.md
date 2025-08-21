@@ -84,10 +84,14 @@
 | SynthSR: A public AI tool to turn heterogeneous clinical brain scans into high-resolution T1-weighted images for 3D morphometry| SynthSR | Science Advances/ 2023 | [paper](https://www.science.org/doi/10.1126/sciadv.add3607?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) | [code](https://surfer.nmr.mgh.harvard.edu/fswiki/DownloadAndInstall) |
 | Blind Super-Resolution of 3D MRI via Unsupervised Domain Transformation | ––– | IEEE JBHI/ 2023 | [paper](https://ieeexplore.ieee.org/document/9999498) | ––– |
 | Unsupervised MRI Super Resolution Using Deep External Learning and Guided Residual Dense Network With Multimodal Image Priors| –––  | IEEE TETCI/ 2023| [paper](https://ieeexplore.ieee.org/document/9939661) | ––– |
+| Self-supervised multicontrast super-resolution for diffusion-weighted prostate MRI | –––  | Wiley Magnetic Resonance in Medicine/ 2024 | [paper](https://onlinelibrary.wiley.com/doi/10.1002/mrm.30047) | [code](https://github.com/batuhan-gundogdu/INR) |
 
 
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
 
 
 
