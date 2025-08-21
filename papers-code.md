@@ -85,8 +85,18 @@
 | Blind Super-Resolution of 3D MRI via Unsupervised Domain Transformation | ––– | IEEE JBHI/ 2023 | [paper](https://ieeexplore.ieee.org/document/9999498) | ––– |
 | Unsupervised MRI Super Resolution Using Deep External Learning and Guided Residual Dense Network With Multimodal Image Priors| –––  | IEEE TETCI/ 2023| [paper](https://ieeexplore.ieee.org/document/9939661) | ––– |
 | Self-supervised multicontrast super-resolution for diffusion-weighted prostate MRI | –––  | Wiley Magnetic Resonance in Medicine/ 2024 | [paper](https://onlinelibrary.wiley.com/doi/10.1002/mrm.30047) | [code](https://github.com/batuhan-gundogdu/INR) |
+| MRI Super-Resolution Through Generative Degradation Learning | –––  |MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_42) | ––– |
+| MR Image Denoising and Super-Resolution Using Regularized Reverse Diffusion| ––– | IEEE TMI/ 2023 | [paper](https://ieeexplore.ieee.org/document/9941138) | ––– |
+| Super-resolution and denoising of 4D-Flow MRI using physics-Informed deep neural nets| –––  | Computer Methods and Programs in Biomedicine/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0169260720315625) | ––– |
+| Task Transformer Network for Joint MRI Reconstruction and Super-Resolution| T^{2}Net  | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_30) | [code](https://github.com/chunmeifeng/T2Net) |
+| Cross-contrast mutual fusion network for joint MRI reconstruction and super-resolution| CMF-Net | Pattern Recognition/ 2024 | [paper](https://www.sciencedirect.com/science/article/pii/S0031320324003509) | ––– |
+| Joint MR image reconstruction and super-resolution via mutual co-attention network | MCAN |Computational Design and Engineering/ 2024 | [paper](https://academic.oup.com/jcde/article/11/1/288/7582275) | ––– |
+| MHAN: Multi-Stage Hybrid Attention Network for MRI reconstruction and super-resolution| MHAN | Computers in Biology and Medicine/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523006467?via%3Dihub) | ––– |
 
 
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
