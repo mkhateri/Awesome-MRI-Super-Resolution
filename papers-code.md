@@ -6,7 +6,6 @@
 | All-In-One Medical Image Restoration via Task-Adaptive Routing | AMIR| MICCAI / 2024 | [paper](https://arxiv.org/pdf/2405.19769)| [code](https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing) |
 | MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting| Res-SRDiff| Physics in Medicine \& Biology / 2024 | [paper](https://iopscience.iop.org/article/10.1088/1361-6560/ade049)| [code](https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing) |
 | Autoencoding low-resolution MRI for semantically smooth interpolation of anisotropic MRI| ––– |Medical image analysis / 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841522000457)|  [code](https://github.com/qurAI-amsterdam/SuperResolution_aniso_MRI) |
-| Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution| DiffMSR | CVPR/ 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Rethinking_Diffusion_Model_for_Multi-Contrast_MRI_Super-Resolution_CVPR_2024_paper.pdf) |  [code](https://github.com/GuangYuanKK/DiffMSR) |
 | Deep Attention Super-Resolution of Brain Magnetic Resonance Images Acquired Under Clinical Protocols| ––– | Frontiers in Computational Neuroscience / 2022 | [paper](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2022.887633/full) |  [code](https://github.com/bryanlimy/clinical-super-mri) | 
 | SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution| SuperFormer | MICCAI/ 2022 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-16980-9_13) | [code](https://github.com/BCV-Uniandes/SuperFormer) |
 | 3D isotropic high-resolution fetal brain MRI reconstruction from motion corrupted thick data based on physical-informed unsupervised learning| SUFFICIENT | IEEE JBHI/ 2025 | [paper](https://ieeexplore.ieee.org/document/11080313) |  [code](https://github.com/DeepBMI/SUFFICIENT) |
@@ -66,11 +65,16 @@
 | Single-subject Multi-contrast MRI Super-resolution via Implicit Neural Representations| –––  | MICCAI/ 2023| [paper](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_17) | [code](https://github.com/jqmcginnis/multi_contrast_inr/) |
 | Multi-scale deformable transformer for multi-contrast knee MRI super-resolution | MSDT | Science Direct Biomedical Signal Processing and Control/ 2022| [paper](https://www.sciencedirect.com/science/article/pii/S1746809422006085) | ––– |
 | Joint Under-Sampling Pattern and Dual-Domain Reconstruction for Accelerating Multi-Contrast MRI | MC-DuDoNet | IEEE TIP/ 2024| [paper](https://ieeexplore.ieee.org/abstract/document/10645705) | [code](https://github.com/lpcccc-cv/MC-DuDoNet) |
+| Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution| DiffMSR | CVPR/ 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Rethinking_Diffusion_Model_for_Multi-Contrast_MRI_Super-Resolution_CVPR_2024_paper.pdf) |  [code](https://github.com/GuangYuanKK/DiffMSR) |
+| SGSR: Structure-Guided Multi-Contrast MRI Super-Resolution via Spatio-Frequency Co-Query Attention| SGSR | MLMI/ 2024 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-73284-3_38) | ––– |
 
 
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
-
-
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
