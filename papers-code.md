@@ -98,11 +98,17 @@
 | Variational multi-task MRI reconstruction: Joint reconstruction, registration and super-resolution|   | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841520303054) | ––– |
 | Multimodal MRI Reconstruction Assisted With Spatial Alignment Network|   | Wiley Magnetic Resonance in Medicine/ 2022 | [paper](https://ieeexplore.ieee.org/document/9745968) | [code](https://github.com/woxuankai/SpatialAlignmentNetwork) |
 | MoEDiff-SR: Mixture of Experts-Guided Diffusion Model for Region-Adaptive MRI Super-Resolution | MoEDiff-SR | arXiv/ 2025 | [paper](https://arxiv.org/abs/2504.07308) | ––– |
+| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
 
 
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
-
-
+| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
+| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
+| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
+| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
+| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
+| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
+| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
+| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
 
 
 ## Pre-clinical MRI Super-Resolution (In Progress..)
@@ -143,10 +149,7 @@
 | Algorithm Unrolling: Interpretable, Efficient Deep Learning for Signal and Image Processing| Algorithm Unrolling | IEEE Signal Processing Magazine/ 2021 | [paper](https://ieeexplore.ieee.org/document/9363511) | ––– |
 | Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
 | Deep Unfolding Network for Image Super-Resolution | DU | CVPR/ 2020 | [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Deep_Unfolding_Network_for_Image_Super-Resolution_CVPR_2020_paper.pdf) | [code](https://github.com/cszn/USRNet) |
-
-
-
-| Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
+| CuNeRF: Cube-Based Neural Radiance Field for Zero-Shot Medical Image Arbitrary-Scale Super Resolution| CuNeRF | IEEE CVPR/ 2023 | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_CuNeRF_Cube-Based_Neural_Radiance_Field_for_Zero-Shot_Medical_Image_Arbitrary-Scale_ICCV_2023_paper.pdf) | [code](https://github.com/NarcissusEx/CuNeRF) |
 
 
 | Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
