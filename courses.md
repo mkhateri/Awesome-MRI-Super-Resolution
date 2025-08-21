@@ -8,4 +8,5 @@ Course | Instructor | Link |
 | Convex Optimization (EE364A) | Stephen Boyd (Stanford) |  [link](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h) |
 | Computational Imaging Codebase | David J Brady (University of Arizona) |  [link](https://github.com/djbradyAtOpticalSciencesArizona/computationalImaging) |
 | Sparse and Redundant Representations and their Applications in Signal and Image Processing | Michael Elad ( Technion & NVIDIA) |  [link](https://elad.cs.technion.ac.il/236862-course-webpage-winter-semester-2020-2021/) |
+| Principles of fMRI| Martin Lindquist (Johns Hopkins University) Tor Wager (University of Colorado) | [Link](https://www.youtube.com/@principlesoffmri6920) |    
 
