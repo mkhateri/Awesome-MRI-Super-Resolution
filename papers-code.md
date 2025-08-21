@@ -27,6 +27,9 @@
 | Isotropic Reconstruction of MR Images Using 3D Patch-Based Self-Similarity Learning| ––– | IEEE TMI/ 2015 | [paper](https://ieeexplore.ieee.org/document/8294199) |  ––– |
 | Deep MR Brain Image Super-Resolution Using Spatio-Structural Priors| ––– | IEEE TIP/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  ––– |
 | Isotropic MRI Super-Resolution Reconstruction with Multi-scale Gradient Field Prior| ––– | MICCAI/ 2019 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) | ––– |
+| Unsupervised Representation Learning for 3-D Magnetic Resonance Imaging Superresolution With Degradation Adaptation| UDEAN | IEEE TAI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10521849) | ––– |
+
+
 
 
 
