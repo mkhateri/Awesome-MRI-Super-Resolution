@@ -72,12 +72,10 @@
 | MedGAN: Medical image translation using GANs| MedGAN |Elsevier Computerized medical imaging and graphics/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0895611119300990) | ––– |
 | Bridging MRI Cross-Modality Synthesis and Multi-Contrast Super-Resolution by Fine-Grained Difference Learning | FGDL | IEEE TMI/ 2025| [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10639436) | [code](https://github.com/papshare/FGDL) |
 | Unsupervised Medical Image Translation With Adversarial Diffusion Models| SynDiff  | IEEE TMI/ 2023| [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10167641) | [code](https://github.com/icon-lab/SynDiff) |
+| Time-Dependent Deep Image Prior for Dynamic MRI|   | IEEE TMI/ 2021 | [paper](https://ieeexplore.ieee.org/document/9442767) | [code](https://github.com/jaejun-yoo/TDDIP) |
+| Provable Probabilistic Imaging Using Score-Based Generative Priors | PMC | IEEE TCI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10645293) | [code](https://github.com/sunyumark/PnP-MonteCarlo) |
 
 
-
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
-
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
