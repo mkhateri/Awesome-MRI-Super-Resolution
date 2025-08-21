@@ -1,7 +1,7 @@
 
 ## MRI Super-Resolution (In Progress.., will be sorted.., )
 | Title | Model | Venue / Year | Paper | Code |
-|---|:---:|---|---|:---:|
+|–––|:–––:|–––|–––|:–––:|
 | An Arbitrary Scale Super-Resolution Approach for 3D MR Images via Implicit Neural Representation | ArSSR| IEEE JBHI / 2022 | [paper](https://ieeexplore.ieee.org/document/9954892)| [code](https://github.com/iwuqing/ArSSR) |
 | All-In-One Medical Image Restoration via Task-Adaptive Routing | AMIR| MICCAI / 2024 | [paper](https://arxiv.org/pdf/2405.19769)| [code](https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing) |
 | MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting| Res-SRDiff| Physics in Medicine \& Biology / 2024 | [paper](https://iopscience.iop.org/article/10.1088/1361-6560/ade049)| [code](https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing) |
@@ -41,37 +41,37 @@
 | Spatial-Intensity Transforms for Medical Image-to-Image Translation| SIT |IEEE TMI/ 2023 | [paper](https://ieeexplore.ieee.org/document/10145414) | ––– |
 | SMORE: A Self-Supervised Anti-Aliasing and Super-Resolution Algorithm for MRI Using Deep Learning| SMORE | IEEE TMI/ 2021 | [paper](https://ieeexplore.ieee.org/document/9253710) | [code](https://github.com/volcanofly/SMORE-Super-resolution-for-3D-medical-images-MRI) |
 | Scan-Specific Generative Neural Network for MRI Super-Resolution Reconstruction| SMORE | IEEE TMI/ 2022 | [paper](https://ieeexplore.ieee.org/document/9678968) | ––– |
-| Robust Super-Resolution Volume Reconstruction From Slice Acquisitions: Application to Fetal Brain MRI| --- | TMI/ 2010 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5482022) | ––– |
+| Robust Super-Resolution Volume Reconstruction From Slice Acquisitions: Application to Fetal Brain MRI| ––– | TMI/ 2010 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5482022) | ––– |
 | STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
-| High-Resolution 3D MRI With Deep Generative Networks via Novel Slice-Profile Transformation Super-Resolution| SP-DS | IEEE Access/ 2024 | [paper](https://ieeexplore.ieee.org/document/10226181) | --- |
+| High-Resolution 3D MRI With Deep Generative Networks via Novel Slice-Profile Transformation Super-Resolution| SP-DS | IEEE Access/ 2024 | [paper](https://ieeexplore.ieee.org/document/10226181) | ––– |
 | Deformable Slice-to-Volume Registration for Motion Correction of Fetal Body and Placenta MRI | DSVR | IEEE TMI/ 2020 | [paper](https://ieeexplore.ieee.org/document/9001020) | [code](https://github.com/SVRTK/SVRTK) |
-| Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations| SSVR-Meta | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.09565) | --- |
-| Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI | --- | CVPR/ 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Young_Fully_Convolutional_Slice-to-Volume_Reconstruction_for_Single-Stack_MRI_CVPR_2024_paper.pdf) | [code](https://github.com/seannz/svr) |
-| Reconstruction of 7T-Like Images From 3T MRI| --- | IEEE TMI/ 2024 | [paper](https://ieeexplore.ieee.org/document/7445872) | --- |
-| Improving MRI Resolution: A Cycle Consistent Generative Adversarial Network-Based Approach for 3T to 7T Translation | --- | IEEE Access/ 2024 | [paper](https://ieeexplore.ieee.org/document/10614315) | --- |
-| High-resolution 3T to 7T ADC map synthesis with a hybrid CNN-transformer model| VCT  | Medical Physics/ 2024 | [paper](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17079) | --- |
-| TrGaNet: Transforming 3T to 7T dMRI using Trapezoidal Rule and Graph-based Attention Modules | TrGaNet | Medical Image Analysis/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841523000671) | --- |
-| Ultra Low-Field to High-Field MRI Translation Using Adversarial Diffusion| --- | IEEE ISBI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10635808) | --- |
-| Super-Resolution Reconstruction of 3T-Like Images From 0.35T MRI Using a Hybrid Attention Residual Network| HARN | IEEE Access/ 2022 | [paper](https://ieeexplore.ieee.org/document/9722854) | --- |
-| Improving portable low-field MRI image quality through image-to-image translation using paired low- and high-field images| LoHiResGAN  | Nature Scientific Reports/ 2023 | [paper](https://www.nature.com/articles/s41598-023-48438-1) | --- |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer| --- | Medical Image Analysis/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841523000683?via%3Dihub) | --- |
-| A super-resolution framework for the reconstruction of T2-weighted (T2w) time-resolved (TR) 4DMRI using T1w TR-4DMRI as the guidance| --- |Medical Physics/ 2020 | [paper](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14136) | --- |
-| Deep Physics-Informed Super-Resolution of Cardiac 4D-Flow MRI| ---  |Springer IPMI/ 2023 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_39) | --- |
-| Generalized Super-Resolution 4D Flow MRI Using Ensemble Learning to Extend Across the Cardiovascular System | --- | IEEE JBHI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10599799) | [code](https://github.com/LeonEricsson/Ensemble4DFlowNet) |
-| Multi-Contrast Super-Resolution MRI Through a Progressive Network | MCSR | IEEE TMI/ 2020| [paper](https://ieeexplore.ieee.org/document/9001105) | --- |
+| Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations| SSVR-Meta | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.09565) | ––– |
+| Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI | ––– | CVPR/ 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Young_Fully_Convolutional_Slice-to-Volume_Reconstruction_for_Single-Stack_MRI_CVPR_2024_paper.pdf) | [code](https://github.com/seannz/svr) |
+| Reconstruction of 7T-Like Images From 3T MRI| ––– | IEEE TMI/ 2024 | [paper](https://ieeexplore.ieee.org/document/7445872) | ––– |
+| Improving MRI Resolution: A Cycle Consistent Generative Adversarial Network-Based Approach for 3T to 7T Translation | ––– | IEEE Access/ 2024 | [paper](https://ieeexplore.ieee.org/document/10614315) | ––– |
+| High-resolution 3T to 7T ADC map synthesis with a hybrid CNN-transformer model| VCT  | Medical Physics/ 2024 | [paper](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17079) | ––– |
+| TrGaNet: Transforming 3T to 7T dMRI using Trapezoidal Rule and Graph-based Attention Modules | TrGaNet | Medical Image Analysis/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841523000671) | ––– |
+| Ultra Low-Field to High-Field MRI Translation Using Adversarial Diffusion| ––– | IEEE ISBI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10635808) | ––– |
+| Super-Resolution Reconstruction of 3T-Like Images From 0.35T MRI Using a Hybrid Attention Residual Network| HARN | IEEE Access/ 2022 | [paper](https://ieeexplore.ieee.org/document/9722854) | ––– |
+| Improving portable low-field MRI image quality through image-to-image translation using paired low- and high-field images| LoHiResGAN  | Nature Scientific Reports/ 2023 | [paper](https://www.nature.com/articles/s41598-023-48438-1) | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer| ––– | Medical Image Analysis/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841523000683?via%3Dihub) | ––– |
+| A super-resolution framework for the reconstruction of T2-weighted (T2w) time-resolved (TR) 4DMRI using T1w TR-4DMRI as the guidance| ––– |Medical Physics/ 2020 | [paper](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14136) | ––– |
+| Deep Physics-Informed Super-Resolution of Cardiac 4D-Flow MRI| –––  |Springer IPMI/ 2023 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_39) | ––– |
+| Generalized Super-Resolution 4D Flow MRI Using Ensemble Learning to Extend Across the Cardiovascular System | ––– | IEEE JBHI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10599799) | [code](https://github.com/LeonEricsson/Ensemble4DFlowNet) |
+| Multi-Contrast Super-Resolution MRI Through a Progressive Network | MCSR | IEEE TMI/ 2020| [paper](https://ieeexplore.ieee.org/document/9001105) | ––– |
 
 
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 
 
 
@@ -82,13 +82,13 @@
 
 ## MRI Super-Resolution Quality Assessment (In Progress.., will be sorted.., )
 | Title | Model | Venue / Year | Paper | Code |
-|---|:---:|---|---|:---:|
+|–––|:–––:|–––|–––|:–––:|
 | Exploring the impact of super-resolution deep learning on MR angiography image quality| ––– | Springer Advanced Neuroimaging/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/32832937/) | ––– |
 
 
 ## Computational Imaging (In Progress.., will be sorted.., )
 | Title | Model | Venue / Year | Paper | Code |
-|---|:---:|---|---|:---:|
+|–––|:–––:|–––|–––|:–––:|
 | Generative Models for Inverse Imaging Problems: From mathematical foundations to physics-driven applications| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10004774) | ––– |
 | Foundations of computational imaging: a model-based approach| ––– | SIAM/ 2022 | [Book](https://books.google.fi/books/about/Foundations_of_Computational_Imaging.html?id=TiJ6EAAAQBAJ&redir_esc=y) | ––– |
 | Physics-Driven Deep Learning for Computational Magnetic Resonance Imaging: Combining physics and machine learning for improved medical imaging| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10004819) | ––– |
@@ -116,7 +116,7 @@
 ### Slice-to-Volume Reconstruction (SVR) Toolkits
 
 | Toolkit | Description | code |
-|---|---|---|
+|–––|–––|–––|
 | **SUFFICIENT** | Self-supervised SVR with attention for fetal MRI | [https://github.com/DeepBMI/SUFFICIENT](https://github.com/DeepBMI/SUFFICIENT) |
 | **SVRTK** | Modular C++/MATLAB toolkit for classic SVR | [https://github.com/SVRTK/SVRTK](https://github.com/SVRTK/SVRTK) |
 | **NeSVoR** | Deep learning–based SVR using implicit modeling | [https://github.com/daviddmc/NeSVoR](https://github.com/daviddmc/NeSVoR) |
