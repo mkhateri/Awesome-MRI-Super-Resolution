@@ -115,6 +115,10 @@
 | Provable Probabilistic Imaging Using Score-Based Generative Priors | PMC | IEEE TCI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10645293) | [code](https://github.com/sunyumark/PnP-MonteCarlo) |
 | Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels | DPSR | IEEE CVPR/ 2019 | [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deep_Plug-And-Play_Super-Resolution_for_Arbitrary_Blur_Kernels_CVPR_2019_paper.pdf) | [code](https://github.com/cszn/DPSR) |
 | FiRe: Fixed-points of Restoration Priors for Solving Inverse Problems| FiRe | CVPR/ 2025 | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Terris_FiRe_Fixed-points_of_Restoration_Priors_for_Solving_Inverse_Problems_CVPR_2025_paper.pdf) | [code](https://github.com/matthieutrs/fire) |
+| Algorithm Unrolling: Interpretable, Efficient Deep Learning for Signal and Image Processing| Algorithm Unrolling | IEEE Signal Processing Magazine/ 2021 | [paper](https://ieeexplore.ieee.org/document/9363511) | ––– |
+
+
+| FiRe: Fixed-points of Restoration Priors for Solving Inverse Problems| FiRe | CVPR/ 2025 | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Terris_FiRe_Fixed-points_of_Restoration_Priors_for_Solving_Inverse_Problems_CVPR_2025_paper.pdf) | [code](https://github.com/matthieutrs/fire) |
 
 
 
