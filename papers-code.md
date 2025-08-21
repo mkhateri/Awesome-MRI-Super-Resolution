@@ -64,10 +64,9 @@
 | MAPANet: A Multi-Scale Attention-Guided Progressive Aggregation Network for Multi-Contrast MRI Super-Resolution| MAPANet | IEEE TCI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10543098) | ––– |
 | DDFormer: Dual-domain and Dual-aggregation Transformer for Multi-contrast MRI Super-Resolution| DDFormer  | IEEE BIBM/ 2023| [paper](https://ieeexplore.ieee.org/document/10386025) | ––– |
 | Single-subject Multi-contrast MRI Super-resolution via Implicit Neural Representations| –––  | MICCAI/ 2023| [paper](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_17) | [code](https://github.com/jqmcginnis/multi_contrast_inr/) |
+| Multi-scale deformable transformer for multi-contrast knee MRI super-resolution | MSDT | Science Direct Biomedical Signal Processing and Control/ 2022| [paper](https://www.sciencedirect.com/science/article/pii/S1746809422006085) | ––– |
 
 
-
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
