@@ -1,5 +1,5 @@
 
-## MRI Super-Resolution (In Progress..)
+## MRI Super-Resolution (In Progress.., will be sorted.., )
 | Title | Model | Venue / Year | Paper | Code |
 |---|---|---|---|---|
 | An Arbitrary Scale Super-Resolution Approach for 3D MR Images via Implicit Neural Representation | ArSSR| IEEE JBHI / 2022 | [paper](https://ieeexplore.ieee.org/document/9954892)| [code](https://github.com/iwuqing/ArSSR) |
