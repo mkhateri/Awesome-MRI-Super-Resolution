@@ -14,6 +14,12 @@
 | [A Review of the Deep Learning Methods for Medical Images Super-Resolution Problems](https://www.sciencedirect.com/science/article/abs/pii/S1959031820301408) | IRBM, 2021 |
 | [Deep Learning in Medical Image Super-Resolution: A Review](https://doi.org/10.1007/s10489-023-04566-9) | Applied Intelligence, 2023 |
 | [Overview of Image-to-Image Translation in Medical Imaging (denoising, SR, modality conversion, reconstruction)](https://arxiv.org/abs/1905.08603) | Radiol. Phys. Technol., 2019 |
+| [Deep learning based synthesis of MRI, CT and PET: Review and analysis](https://www.sciencedirect.com/science/article/pii/S1361841523003067) | Medical Image Analysis, 2024 |
+
+
+
+
+
 
 ### General Super-Resolution (computer vision)
 | Paper | Venue / Year |
