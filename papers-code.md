@@ -79,6 +79,8 @@
 
 
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+
+
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 
@@ -112,10 +114,7 @@
 | Plug-and-Play Image Restoration With Deep Denoiser Prior | DPIR | IEEE PAMI/ 2022 | [paper](https://ieeexplore.ieee.org/document/9454311) | [code](https://github.com/cszn/DPIR) |
 | Provable Probabilistic Imaging Using Score-Based Generative Priors | PMC | IEEE TCI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10645293) | [code](https://github.com/sunyumark/PnP-MonteCarlo) |
 | Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels | DPSR | IEEE CVPR/ 2019 | [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deep_Plug-And-Play_Super-Resolution_for_Arbitrary_Blur_Kernels_CVPR_2019_paper.pdf) | [code](https://github.com/cszn/DPSR) |
-
-
-
-| Solving Inverse Problems with Latent Diffusion Models via Hard Data Consistency | ––– | arXiv/ 2024 | [paper](https://arxiv.org/pdf/2307.08123) | [code](https://github.com/soominkwon/resample) |
+| FiRe: Fixed-points of Restoration Priors for Solving Inverse Problems| FiRe | CVPR/ 2025 | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Terris_FiRe_Fixed-points_of_Restoration_Priors_for_Solving_Inverse_Problems_CVPR_2025_paper.pdf) | [code](https://github.com/matthieutrs/fire) |
 
 
 
