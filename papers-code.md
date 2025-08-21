@@ -45,10 +45,8 @@
 | STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
 | High-Resolution 3D MRI With Deep Generative Networks via Novel Slice-Profile Transformation Super-Resolution| SP-DS | IEEE Access/ 2024 | [paper](https://ieeexplore.ieee.org/document/10226181) | --- |
 | Deformable Slice-to-Volume Registration for Motion Correction of Fetal Body and Placenta MRI | DSVR | IEEE TMI/ 2020 | [paper](https://ieeexplore.ieee.org/document/9001020) | [code](https://github.com/SVRTK/SVRTK) |
+| Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations| SSVR-Meta | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.09565) | --- |
 
-
-
-| STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
 | STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
 | STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
 | STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
