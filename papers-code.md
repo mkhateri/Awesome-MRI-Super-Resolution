@@ -55,10 +55,11 @@
 | Super-Resolution Reconstruction of 3T-Like Images From 0.35T MRI Using a Hybrid Attention Residual Network| HARN | IEEE Access/ 2022 | [paper](https://ieeexplore.ieee.org/document/9722854) | --- |
 | Improving portable low-field MRI image quality through image-to-image translation using paired low- and high-field images| LoHiResGAN  | Nature Scientific Reports/ 2023 | [paper](https://www.nature.com/articles/s41598-023-48438-1) | --- |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer| --- | Medical Image Analysis/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841523000683?via%3Dihub) | --- |
-| A super-resolution framework for the reconstruction of T2-weighted (T2w) time-resolved (TR) 4DMRI using T1w TR-4DMRI as the guidance|--- |Medical Physics/ 2020 | [paper](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14136) | --- |
+| A super-resolution framework for the reconstruction of T2-weighted (T2w) time-resolved (TR) 4DMRI using T1w TR-4DMRI as the guidance| --- |Medical Physics/ 2020 | [paper](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14136) | --- |
+
+| Deep Physics-Informed Super-Resolution of Cardiac 4D-Flow MRI| ---  | | [paper]() | --- |
 
 
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
