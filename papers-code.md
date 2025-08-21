@@ -38,6 +38,14 @@
 | PI-GNN: Physics-Informed Graph Neural Network for Super-Resolution of 4D Flow MRI | PI-GNN |IEEE ISBI/ 2024 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635128) | ––– |
 | CT-Guided, Unsupervised Super-Resolution Reconstruction of Single 3D Magnetic Resonance Image | ––– | MICCAI/ 2024 | [paper](https://link.springer.com/epdf/10.1007/978-3-031-43907-0_48?sharing_token=1HLCfQD6V1IaVg35ey0-3_e4RwlQNchNByi7wbcMAY6JZllqJCh4E_RiZuoa_atqKnew50OkmuFnUr8BGxjeXrnuKliW0KxeqvkPBstP3NG_wNd5v-SnGHjUFCWqTLBoYxsi2h7ZNlz-g56lj_OkkNfXWfaQJa2zmPmaE2QahfM%3D) | ––– |
 | MGDUN: An interpretable network for multi-contrast MRI image super-resolution reconstruction| MGDUN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635128) | ––– |
+| Spatial-Intensity Transforms for Medical Image-to-Image Translation| SIT |IEEE TMI/ 2023 | [paper](https://ieeexplore.ieee.org/document/10145414) | ––– |
+
+
+| MGDUN: An interpretable network for multi-contrast MRI image super-resolution reconstruction| MGDUN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635128) | ––– |
+| MGDUN: An interpretable network for multi-contrast MRI image super-resolution reconstruction| MGDUN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635128) | ––– |
+| MGDUN: An interpretable network for multi-contrast MRI image super-resolution reconstruction| MGDUN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635128) | ––– |
+
+
 
 
 
