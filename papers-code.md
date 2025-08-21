@@ -11,7 +11,7 @@
 | SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution| SuperFormer | MICCAI/ 2022 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-16980-9_13) | [code](https://github.com/BCV-Uniandes/SuperFormer) |
 | 3D isotropic high-resolution fetal brain MRI reconstruction from motion corrupted thick data based on physical-informed unsupervised learning| SUFFICIENT | IEEE JBHI/ 2025 | [paper](https://ieeexplore.ieee.org/document/11080313) |  [code](https://github.com/DeepBMI/SUFFICIENT) |
 | NeSVoR: Implicit Neural Representation for Slice-to-Volume Reconstruction in MRI | NeSVoR | IEEE TMI/ 2023 | [paper](https://ieeexplore.ieee.org/document/10015091) |  [code](https://github.com/daviddmc/NeSVoR) | 
-| Super-resolution reconstruction of fetal brain MRI with prior anatomical knowledge| PAK-SRR | Springer ICIPMI/ 2023 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_33) |  [code](https://github.com/sj-huang/PAK-SRR) | 
+| Super-resolution reconstruction of fetal brain MRI with prior anatomical knowledge| PAK-SRR | Springer IPMI/ 2023 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_33) |  [code](https://github.com/sj-huang/PAK-SRR) | 
 | Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV| Restore-RWKV | IEEE JBHI/ 2025 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11078783) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
 | Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
 | Super-resolution methods in MRI: Can they improve the trade-off between resolution, signal-to-noise ratio, and acquisition time?| ––– | Wiley/ 2012 | [paper](https://onlinelibrary.wiley.com/doi/10.1002/mrm.24187) | ––– |
@@ -56,7 +56,6 @@
 | Improving portable low-field MRI image quality through image-to-image translation using paired low- and high-field images| LoHiResGAN  | Nature Scientific Reports/ 2023 | [paper](https://www.nature.com/articles/s41598-023-48438-1) | --- |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer| --- | Medical Image Analysis/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841523000683?via%3Dihub) | --- |
 | A super-resolution framework for the reconstruction of T2-weighted (T2w) time-resolved (TR) 4DMRI using T1w TR-4DMRI as the guidance| --- |Medical Physics/ 2020 | [paper](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14136) | --- |
-| Super-Resolution Reconstruction of Fetal Brain MRI with Prior Anatomical Knowledge| PAKSSR  |Springer IPMI/ 2023| [paper](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_33) | [code](https://github.com/sj-huang/PAK-SRR) |
 | Deep Physics-Informed Super-Resolution of Cardiac 4D-Flow MRI| ---  |Springer IPMI/ 2023 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_39) | --- |
 
 
