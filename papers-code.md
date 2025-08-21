@@ -118,9 +118,22 @@
 | Super-resolution of brain tumor MRI images based on deep learning| MRBT-SR-GAN | Journal of Applied Clinical Medical Physics/ 2022 | [paper](https://pubmed.ncbi.nlm.nih.gov/36107021/) | ––– |
 | Residual dense network for medical magnetic resonance images super-resolution| MRDN | Computer Methods and Programs in Biomedicine/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S0169260721004041?via%3Dihub) | ––– |
 | Brain MRI Super-Resolution Using 3D Dilated Convolutional Encoder–Decoder Network| DCED | IEEE Access/ 2020 | [paper](https://ieeexplore.ieee.org/document/8967055) | ––– |
+| Spatio-Angular Convolutions for Super-resolution in Diffusion MRI| ––– | NeurIPS/ 2023 | [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/294de0fa7149adcb88aa3119c239c63e-Paper-Conference.pdf) | [code](https://github.com/m-lyon/dmri-pcconv) |
+| Multicontrast MRI Super-Resolution via Transformer-Empowered Multiscale Contextual Matching and Aggregation| McMRSR ++  | IEEE TNNLS/ 2024 | [paper](https://ieeexplore.ieee.org/document/10063231) | [code](https://github.com/XAIMI-Lab/McMRSR++) |
+| Deep attention super-resolution of brain magnetic resonance images acquired under clinical protocols| ––– | Frontiers in Computational Neuroscience/ 2022 | [paper](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2022.887633/full) | ––– |
+| Deform-Mamba Network for MRI Super-Resolution | ––– | arXiv/ 2024 | [paper](https://arxiv.org/pdf/2407.05969) | ––– |
+| Self-Prior Guided Mamba-UNet Networks for Medical Image Super-Resolution| ––– | arXiv/ 2024 | [paper](https://arxiv.org/pdf/2407.05993) | ––– |
+| Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV | Restore-RWKV | IEEE JBHI/ 2025 | [paper](https://ieeexplore.ieee.org/document/11078783) | [code](https://github.com/Yaziwel/Restore-RWKV) |
+| SOUP-GAN: Super-Resolution MRI Using Generative Adversarial Networks | SOUP-GAN | MDPI Tomography/ 2022 | [paper](https://pubmed.ncbi.nlm.nih.gov/35448707/) | [code](https://github.com/Mayo-Radiology-Informatics-Lab/SOUP-GAN) |
 
 
 
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 
 
