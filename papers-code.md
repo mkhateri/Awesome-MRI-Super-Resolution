@@ -4,7 +4,7 @@
 |---|---|---|---|
 | [An Arbitrary Scale Super-Resolution Approach for 3D MR Images via Implicit Neural Representation](https://ieeexplore.ieee.org/document/9954892) | ArSSR| IEEE JBHI / 2022 |   [code](https://github.com/iwuqing/ArSSR) |
 | All-In-One Medical Image Restoration via Task-Adaptive Routing | AMIR| MICCAI / 2024 |   [code](https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing) |
-| [MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting| Res-SRDiff](https://iopscience.iop.org/article/10.1088/1361-6560/ade049)| Physics in Medicine \& Biology / 2024 |  [code](https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing) |
+| [MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting](https://iopscience.iop.org/article/10.1088/1361-6560/ade049)| Res-SRDiff| Physics in Medicine \& Biology / 2024 |  [code](https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing) |
 | Autoencoding low-resolution MRI for semantically smooth interpolation of anisotropic MRI| Res-SRDiff |Medical image analysis / 2022 |  [code](https://github.com/qurAI-amsterdam/SuperResolution_aniso_MRI) |
 | Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution| DiffMSR | CVPR/ 2024 |  [code](https://github.com/GuangYuanKK/DiffMSR) |
 | Deep Attention Super-Resolution of Brain Magnetic Resonance Images Acquired Under Clinical Protocols| - | Frontiers in Computational Neuroscience / 2022 |  [code](https://github.com/bryanlimy/clinical-super-mri) | 
