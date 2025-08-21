@@ -31,7 +31,13 @@
 | Super-resolution of magnetic resonance images using Generative Adversarial Networks| SRResCycGAN | Elsevier Computerized Medical Imaging and Graphics/ 2024 | [paper](https://ieeexplore.ieee.org/document/10521849) | ––– |
 | Channel Splitting Network for Single MR Image Super-Resolution| CSN | IEEE TIP/ 2019 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8736987) | ––– |
 | RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising| RIRGAN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523010971) | ––– |
+| Coarse–Super-Resolution–Fine Network (CoSF-Net): A Unified End-to-End Neural Network for 4D-MRI With Simultaneous Motion Estimation and Super-Resolution| CoSF-Net | IEEE TMI/ 2023 | [paper](https://ieeexplore.ieee.org/document/10177965) | ––– |
 
+
+| RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising| RIRGAN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523010971) | ––– |
+| RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising| RIRGAN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523010971) | ––– |
+| RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising| RIRGAN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523010971) | ––– |
+| RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising| RIRGAN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523010971) | ––– |
 
 
 
