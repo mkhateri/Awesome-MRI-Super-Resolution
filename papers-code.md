@@ -21,9 +21,9 @@
 | Accuracy and precision in super-resolution MRI: Enabling spherical tensor diffusion encoding at ultra-high b-values and high resolution| ––– |  NeuroImage/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1053811921009460) | ––– |
 | Spatial Information Regularized Tensor Decomposition Framework for Super-Resolution Reconstruction of Medical MRI and Radiographs | ––– | IEEE TCI/ 2022 | [paper](https://ieeexplore.ieee.org/document/9900445) |  ––– |
 | Brain MRI super-resolution using coupled-projection residual network| ––– | Neurocomputing/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231221002502) | ––– |
+| Fast and High-Resolution Neonatal Brain MRI Through Super-Resolution Reconstruction From Acquisitions With Variable Slice Selection Direction| ––– | Frontiers in Neuroscience/ 2021 | [paper](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.636268/full) | ––– |
 
 
-| Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
 | Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
 | Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
 | Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
