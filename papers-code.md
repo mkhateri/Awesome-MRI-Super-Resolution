@@ -94,16 +94,21 @@
 | MHAN: Multi-Stage Hybrid Attention Network for MRI reconstruction and super-resolution| MHAN | Computers in Biology and Medicine/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523006467?via%3Dihub) | ––– |
 | Motion Correction and Super-Resolution for Multi-slice Cardiac Magnetic Resonance Imaging via a Multi-stage Deep Learning Approach|   | IEEE ISBI/ 2024 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635315) | ––– |
 | MoCoSR: Respiratory Motion Correction and Super-Resolution for 3D Abdominal MRI| MoCoSR | MICCAI/ 2023 | [paper](https://www.springerprofessional.de/en/mocosr-respiratory-motion-correction-and-super-resolution-for-3d/26112778) | [code](https://github.com/vito1820/MoCoSR) |
+| SegSRGAN: Super-resolution and segmentation using generative adversarial networks — Application to neonatal brain MRI| SegSRGAN | Computers in Biology and Medicine/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482520301311?via%3Dihub) | [code](https://github.com/koopa31/SegSRGAN) |
+| Variational multi-task MRI reconstruction: Joint reconstruction, registration and super-resolution|   | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841520303054) | ––– |
+| Multimodal MRI Reconstruction Assisted With Spatial Alignment Network|   | Wiley Magnetic Resonance in Medicine/ 2022 | [paper](https://ieeexplore.ieee.org/document/9745968) | [code](https://github.com/woxuankai/SpatialAlignmentNetwork) |
+| MoEDiff-SR: Mixture of Experts-Guided Diffusion Model for Region-Adaptive MRI Super-Resolution | MoEDiff-SR | arXiv/ 2025 | [paper](https://arxiv.org/abs/2504.07308) | ––– |
+
+
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
 
 
 
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | Wiley Magnetic Resonance in Medicine/ 2024 | [paper]() | ––– |
 
+## Pre-clinical MRI Super-Resolution (In Progress..)
+| Title | Model | Venue / Year | Paper | Code |
+|---|:---:|---|---|:---:|
+| Mouse brain MR super-resolution using a deep learning network trained with optical imaging data| –––  | Frontiers in Radiology/ 2023 | [paper](https://www.frontiersin.org/journals/radiology/articles/10.3389/fradi.2023.1155866/full) | ––– |
 
 
 
