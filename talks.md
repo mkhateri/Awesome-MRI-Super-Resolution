@@ -16,7 +16,6 @@
 | Posterior-Variance-Based Error Quantification for Inverse Problems in Imagin| Thomas Pock (TU Graz) | [Link](https://www.youtube.com/watch?v=-9btYNPvGz0) |
 | Noise2Noise: Learning Image Restoration without Clean Data|Jaakko Lehtinen (Aalto University & NVIDIA) | [Link](https://www.youtube.com/watch?v=dcV0OfxjrPQ) | 
 | Deep Learning for Inverse Problems in Medical Imaging| Chen Qin (Imperial College London)| [Link](https://www.youtube.com/watch?v=iLXdfKt8g0M) | 
-| Deep learning for medical image reconstruction, super-resolution, classification, and segmentation | Daniel Rueckert  (Technical University of Munich and Imperial College London) | [Link](https://www.youtube.com/watch?v=-0gmXn0M7bg) |
 | Diffusion Models for Inverse Problems | KAIST | [Link](https://www.youtube.com/watch?v=F5S8VBBncGw) |
 | Adapting and Regularizing Diffusion Models for Inverse Problems | Hyungjin Chung (UCLA) | [Link](https://www.youtube.com/watch?v=9Y8NKkuPhC0) |
 | Computational Imaging: Integrating Physical and Learned Models | Ulugbek Kamilov (Washington University) | [Link](https://www.youtube.com/watch?v=Fz29yiuAc7Y) |
@@ -40,6 +39,7 @@
 | Microscopy Image Restoration: Physics driven or Data driven Models |Daniel Sage (EPFL) | [Link](https://www.youtube.com/watch?v=xfNOtk1wtJk)| 
 | Image Denoising and the Generative Accumulation of Photons | Alexander Krull (University of Birmingham) | [Link](https://www.youtube.com/watch?v=QLScVYUzDZQ)| 
 | Inpainting using Deep Learning: from theory to practice |Michał Kudelski (TCL) | [Link](https://www.youtube.com/watch?v=kbwfYMlVCps)| 
+| Deep learning for medical image reconstruction, super-resolution, classification, and segmentation | Daniel Rueckert  (Technical University of Munich and Imperial College London) | [Link](https://www.youtube.com/watch?v=-0gmXn0M7bg) |
 
 
 
