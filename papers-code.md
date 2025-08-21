@@ -57,10 +57,10 @@
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer| --- | Medical Image Analysis/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841523000683?via%3Dihub) | --- |
 | A super-resolution framework for the reconstruction of T2-weighted (T2w) time-resolved (TR) 4DMRI using T1w TR-4DMRI as the guidance| --- |Medical Physics/ 2020 | [paper](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.14136) | --- |
 | Deep Physics-Informed Super-Resolution of Cardiac 4D-Flow MRI| ---  |Springer IPMI/ 2023 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_39) | --- |
-| Generalized Super-Resolution 4D Flow MRI Using Ensemble Learning to Extend Across the Cardiovascular System |   | IEEE JBHI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10599799) | [code](https://github.com/LeonEricsson/Ensemble4DFlowNet) |
+| Generalized Super-Resolution 4D Flow MRI Using Ensemble Learning to Extend Across the Cardiovascular System | --- | IEEE JBHI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10599799) | [code](https://github.com/LeonEricsson/Ensemble4DFlowNet) |
+| Multi-Contrast Super-Resolution MRI Through a Progressive Network | MCSR | IEEE TMI/ 2020| [paper](https://ieeexplore.ieee.org/document/9001105) | --- |
 
 
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | --- |
