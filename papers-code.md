@@ -73,9 +73,9 @@
 | Bridging MRI Cross-Modality Synthesis and Multi-Contrast Super-Resolution by Fine-Grained Difference Learning | FGDL | IEEE TMI/ 2025| [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10639436) | [code](https://github.com/papshare/FGDL) |
 | Unsupervised Medical Image Translation With Adversarial Diffusion Models| SynDiff  | IEEE TMI/ 2023| [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10167641) | [code](https://github.com/icon-lab/SynDiff) |
 | Time-Dependent Deep Image Prior for Dynamic MRI|   | IEEE TMI/ 2021 | [paper](https://ieeexplore.ieee.org/document/9442767) | [code](https://github.com/jaejun-yoo/TDDIP) |
+| TransMRSR: transformer-based self-distilled generative prior for brain MRI super-resolution|––– | Springer The Visual Computer/ 2023 | [paper](https://link.springer.com/article/10.1007/s00371-023-02938-3) | ––– |
 
 
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
