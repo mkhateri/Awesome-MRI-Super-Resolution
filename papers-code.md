@@ -62,9 +62,10 @@
 | Multi-Contrast MRI Super-Resolution via a Multi-Stage Integration Network| MINet  | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_14) | [code](https://github.com/chunmeifeng/MINet) |
 | Exploring Separable Attention for Multi-Contrast MR Image Super-Resolution| SANet  | IEEE TNNLS/ 2024 | [paper](https://ieeexplore.ieee.org/document/10443261) | [code](https://github.com/chunmeifeng/SANet) |
 | MAPANet: A Multi-Scale Attention-Guided Progressive Aggregation Network for Multi-Contrast MRI Super-Resolution| MAPANet | IEEE TCI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10543098) | ––– |
+| DDFormer: Dual-domain and Dual-aggregation Transformer for Multi-contrast MRI Super-Resolution| DDFormer  | IEEE BIBM/ 2023| [paper](https://ieeexplore.ieee.org/document/10386025) | ––– |
 
 
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
