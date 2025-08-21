@@ -68,11 +68,12 @@
 | Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution| DiffMSR | CVPR/ 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Rethinking_Diffusion_Model_for_Multi-Contrast_MRI_Super-Resolution_CVPR_2024_paper.pdf) |  [code](https://github.com/GuangYuanKK/DiffMSR) |
 | SGSR: Structure-Guided Multi-Contrast MRI Super-Resolution via Spatio-Frequency Co-Query Attention| SGSR | MLMI/ 2024 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-73284-3_38) | ––– |
 | Robust Deep Convolutional Dictionary Model With Alignment Assistance for Multi-Contrast MRI Super-Resolution | A2-CDic | IEEE TMI/ 2025 | [paper](https://ieeexplore.ieee.org/document/10975066) | [code](https://github.com/lpcccc-cv/A2-CDic) |
+| High-Frequency Modulated Transformer for Multi-Contrast MRI Super-Resolution | HFMT | IEEE TMI/ 2025 | [paper](https://ieeexplore.ieee.org/document/10949290) | ––– |
+| MedGAN: Medical image translation using GANs| MedGAN |Elsevier Computerized medical imaging and graphics/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0895611119300990) | ––– |
 
 
+Armanious, Karim, et al. "."  79 (2020): 101684.
 
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
