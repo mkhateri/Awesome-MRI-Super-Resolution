@@ -33,10 +33,12 @@
 | RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising| RIRGAN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523010971) | ––– |
 | Coarse–Super-Resolution–Fine Network (CoSF-Net): A Unified End-to-End Neural Network for 4D-MRI With Simultaneous Motion Estimation and Super-Resolution| CoSF-Net | IEEE TMI/ 2023 | [paper](https://ieeexplore.ieee.org/document/10177965) | ––– |
 | DISGAN: Wavelet-informed Discriminator Guides GAN to MRI Super-resolution with Noise Cleaning| DISGAN | IEEE ICCV/ 2023 | [paper](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Wang_DISGAN_Wavelet-Informed_Discriminator_Guides_GAN_to_MRI_Super-Resolution_with_Noise_ICCVW_2023_paper.pdf) | [code](https://github.com/wqlevi/DISGAN) |
-|Decomposition-Based Variational Network for Multi-Contrast MRI Super-Resolution and Reconstruction| MC-VarNet | IEEE ICCV/ 2023 | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lei_Decomposition-Based_Variational_Network_for_Multi-Contrast_MRI_Super-Resolution_and_Reconstruction_ICCV_2023_paper.pdf) | [code](https://github.com/lpcccc-cv/MC-VarNet) |
+|Decomposition-Based Variational Network for Multi-Contrast MRI Super-Resolution and Reconstruction| MC-VarNet | IEEE ICCV/ 2023 | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lei_Decomposition-Based_Variational_Network_for_Multi-Contrast_MRI_Super-Resolution_and_Reconstruction_ICCV_2023_paper.pdf) | [code](https://github.com/lpcccc-cv/MC-VarNet) 
+| Physics-informed deep learning for T2-deblurred superresolution turbo spin echo MRI | T2-deblurring | Wiley Magnetic Resonance in Medicine/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523010971) | ––– |
 
 
-| RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising| RIRGAN | IEEE ICCV/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523010971) | ––– |
+
+
 | RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising| RIRGAN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523010971) | ––– |
 
 
