@@ -76,11 +76,17 @@
 | TransMRSR: transformer-based self-distilled generative prior for brain MRI super-resolution|––– | Springer The Visual Computer/ 2023 | [paper](https://link.springer.com/article/10.1007/s00371-023-02938-3) | ––– |
 | Plug-and-Play latent feature editing for orientation-adaptive quantitative susceptibility mapping neural networks | OA-LFE-empowered iQSM  | Medical Image Analysis/ 2024 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841524000859) | [code](https://github.com/sunhongfu/deepMRI/tree/master/iQSM_Plus) |
 | Super-Resolution for MRI Using Phase-Scrambling Fourier Transform Imaging and Unrolling Model-Based Network | ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10247532) | ––– |
+| DragNet: Learning-based deformable registration for realistic cardiac MR sequence generation from a single frame| DragNet | Medical Image Analysis/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841522003061) | [code](https://github.com/alireza-hokmabadi/DragNet) |
+| MRI super-resolution reconstruction for MRI-guided adaptive radiotherapy using cascaded deep learning: In the presence of limited training data and unknown translation model| ––– | Medical Physics/ 2019 | [paper](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.13717) | ––– |
+| MR Image Super-Resolution via Wide Residual Networks With Fixed Skip Connection | FSCWRN | IEEE JBHI/ 2019 | [paper](https://ieeexplore.ieee.org/document/8371605) | ––– |
+| VolumeNet: A Lightweight Parallel Network for Super-Resolution of MR and CT Volumetric Data| IEEE TIP/ 2021  | VolumeNet | [paper](https://ieeexplore.ieee.org/document/9423552) | ––– |
+| Brain MRI super resolution using 3D deep densely connected neural networks|   |IEEE ISBI/ 2018| [paper](https://ieeexplore.ieee.org/abstract/document/8363679) | [code](https://github.com/YunzeMan/DCSRN) |
+| SynthSR: A public AI tool to turn heterogeneous clinical brain scans into high-resolution T1-weighted images for 3D morphometry| SynthSR | Science Advances/ 2023 | [paper](https://www.science.org/doi/10.1126/sciadv.add3607?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) | [code](https://surfer.nmr.mgh.harvard.edu/fswiki/DownloadAndInstall) |
+| Blind Super-Resolution of 3D MRI via Unsupervised Domain Transformation | ––– | IEEE JBHI/ 2023 | [paper](https://ieeexplore.ieee.org/document/9999498) | ––– |
+| Unsupervised MRI Super Resolution Using Deep External Learning and Guided Residual Dense Network With Multimodal Image Priors| –––  | IEEE TETCI/ 2023| [paper](https://ieeexplore.ieee.org/document/9939661) | ––– |
 
 
-
-
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper](https://ieeexplore.ieee.org/document/10247532) | ––– |
+| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 
 
@@ -116,12 +122,13 @@
 | FiRe: Fixed-points of Restoration Priors for Solving Inverse Problems| FiRe | CVPR/ 2025 | [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Terris_FiRe_Fixed-points_of_Restoration_Priors_for_Solving_Inverse_Problems_CVPR_2025_paper.pdf) | [code](https://github.com/matthieutrs/fire) |
 | Algorithm Unrolling: Interpretable, Efficient Deep Learning for Signal and Image Processing| Algorithm Unrolling | IEEE Signal Processing Magazine/ 2021 | [paper](https://ieeexplore.ieee.org/document/9363511) | ––– |
 | Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
+| Deep Unfolding Network for Image Super-Resolution | DU | CVPR/ 2020 | [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Deep_Unfolding_Network_for_Image_Super-Resolution_CVPR_2020_paper.pdf) | [code](https://github.com/cszn/USRNet) |
 
 
 
 | Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
-| Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
-| Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
+
+
 | Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
 | Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
 | Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
