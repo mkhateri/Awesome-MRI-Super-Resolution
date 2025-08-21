@@ -50,10 +50,11 @@
 | Reconstruction of 7T-Like Images From 3T MRI| --- | IEEE TMI/ 2024 | [paper](https://ieeexplore.ieee.org/document/7445872) | --- |
 | Improving MRI Resolution: A Cycle Consistent Generative Adversarial Network-Based Approach for 3T to 7T Translation | --- | IEEE Access/ 2024 | [paper](https://ieeexplore.ieee.org/document/10614315) | --- |
 | High-resolution 3T to 7T ADC map synthesis with a hybrid CNN-transformer model| VCT  | Medical Physics/ 2024 | [paper](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17079) | --- |
+| TrGaNet: Transforming 3T to 7T dMRI using Trapezoidal Rule and Graph-based Attention Modules | TrGaNet | Medical Image Analysis/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841523000671) | --- |
+| Ultra Low-Field to High-Field MRI Translation Using Adversarial Diffusion| --- | IEEE ISBI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10635808) | --- |
+| Super-Resolution Reconstruction of 3T-Like Images From 0.35T MRI Using a Hybrid Attention Residual Network| HARN | IEEE Access/ 2022 | [paper](https://ieeexplore.ieee.org/document/9722854) | --- |
+| Improving portable low-field MRI image quality through image-to-image translation using paired low- and high-field images| LoHiResGAN  | Nature Scientific Reports/ 2023 | [paper](https://www.nature.com/articles/s41598-023-48438-1) | --- |
 
-
-
-| TrGaNet: Transforming 3T to 7T dMRI using Trapezoidal Rule and Graph-based Attention Modules | TrGaNet | Medical Image Analysis/ 2016 | [paper](https://ieeexplore.ieee.org/document/7445872) | --- |
 
 
 | Reconstruction of 7T-Like Images From 3T MRI| --- | IEEE TMI/ 2016 | [paper](https://ieeexplore.ieee.org/document/7445872) | --- |
