@@ -25,10 +25,10 @@
 | A Tool for Super-Resolving Multimodal Clinical MRI| ––– | arXiv/ 2019 | [paper](https://arxiv.org/pdf/1909.01140) | [code](https://github.com/brudfors/spm_superres) |
 | LRTV: MR Image Super-Resolution With Low-Rank and Total Variation Regularizations| LRTV | IEEE TMI/ 2015 | [paper](https://ieeexplore.ieee.org/document/7113897) |  [code](https://github.com/JianCheng/superresolutiontoolkit) |
 | Isotropic Reconstruction of MR Images Using 3D Patch-Based Self-Similarity Learning| ––– | IEEE TMI/ 2015 | [paper](https://ieeexplore.ieee.org/document/8294199) |  ––– |
+| Deep MR Brain Image Super-Resolution Using Spatio-Structural Priors| ––– | IEEE TIP/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  ––– |
 
 
 
-| Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
 | Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
 
 
