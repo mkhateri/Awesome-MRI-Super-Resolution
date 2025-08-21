@@ -1,19 +1,20 @@
 
 ## MRI Super-Resolution (In Progress..)
-| Paper | Model | Venue / Year |   Code |
-|---|---|---|---|
-| [An Arbitrary Scale Super-Resolution Approach for 3D MR Images via Implicit Neural Representation](https://ieeexplore.ieee.org/document/9954892) | ArSSR| IEEE JBHI / 2022 |   [code](https://github.com/iwuqing/ArSSR) |
+| Title | Model | Venue / Year | Paper | Code |
+
+|---|---|---|---|---|
+| An Arbitrary Scale Super-Resolution Approach for 3D MR Images via Implicit Neural Representation | ArSSR| IEEE JBHI / 2022 | [paper](https://ieeexplore.ieee.org/document/9954892)|  [code](https://github.com/iwuqing/ArSSR) |
 | All-In-One Medical Image Restoration via Task-Adaptive Routing | AMIR| MICCAI / 2024 |   [code](https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing) |
-| [MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting](https://iopscience.iop.org/article/10.1088/1361-6560/ade049)| Res-SRDiff| Physics in Medicine \& Biology / 2024 |  [code](https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing) |
-| [Autoencoding low-resolution MRI for semantically smooth interpolation of anisotropic MRI](https://www.sciencedirect.com/science/article/pii/S1361841522000457)| Res-SRDiff |Medical image analysis / 2022 |  [code](https://github.com/qurAI-amsterdam/SuperResolution_aniso_MRI) |
-| Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution| DiffMSR | CVPR/ 2024 |  [code](https://github.com/GuangYuanKK/DiffMSR) |
-| Deep Attention Super-Resolution of Brain Magnetic Resonance Images Acquired Under Clinical Protocols| - | Frontiers in Computational Neuroscience / 2022 |  [code](https://github.com/bryanlimy/clinical-super-mri) | 
+| MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting| Res-SRDiff| Physics in Medicine \& Biology / 2024 | [paper](https://iopscience.iop.org/article/10.1088/1361-6560/ade049)| [code](https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing) |
+| Autoencoding low-resolution MRI for semantically smooth interpolation of anisotropic MRI| Res-SRDiff |Medical image analysis / 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841522000457)|  [code](https://github.com/qurAI-amsterdam/SuperResolution_aniso_MRI) |
+| Rethinking Diffusion Model for Multi-Contrast MRI Super-Resolution| DiffMSR | CVPR/ 2024 | paper |  [code](https://github.com/GuangYuanKK/DiffMSR) |
+| Deep Attention Super-Resolution of Brain Magnetic Resonance Images Acquired Under Clinical Protocols| - | Frontiers in Computational Neuroscience / 2022 | paper |  [code](https://github.com/bryanlimy/clinical-super-mri) | 
 | SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution| SuperFormer | MICCAI/ 2022 |  [code](https://github.com/BCV-Uniandes/SuperFormer) |
-| 3D isotropic high-resolution fetal brain MRI reconstruction from motion corrupted thick data based on physical-informed unsupervised learning| SUFFICIENT | IEEE JBHI/ 2025 |  [code](https://github.com/DeepBMI/SUFFICIENT) |
-| NeSVoR: Implicit Neural Representation for Slice-to-Volume Reconstruction in MRI | NeSVoR | IEEE TMI/ 2023 |  [code](https://github.com/daviddmc/NeSVoR) | 
-| Super-resolution reconstruction of fetal brain MRI with prior anatomical knowledge| PAK-SRR | Springer ICIPMI/ 2023 |  [code](https://github.com/sj-huang/PAK-SRR) | 
-| Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV| Restore-RWKV | IEEE JBHI/ 2025 |  [code](https://github.com/Yaziwel/Restore-RWKV) |
-| Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 |  [code](https://github.com/Yaziwel/Restore-RWKV) |
+| 3D isotropic high-resolution fetal brain MRI reconstruction from motion corrupted thick data based on physical-informed unsupervised learning| SUFFICIENT | IEEE JBHI/ 2025 | paper |  [code](https://github.com/DeepBMI/SUFFICIENT) |
+| NeSVoR: Implicit Neural Representation for Slice-to-Volume Reconstruction in MRI | NeSVoR | IEEE TMI/ 2023 | paper |  [code](https://github.com/daviddmc/NeSVoR) | 
+| Super-resolution reconstruction of fetal brain MRI with prior anatomical knowledge| PAK-SRR | Springer ICIPMI/ 2023 | paper |  [code](https://github.com/sj-huang/PAK-SRR) | 
+| Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV| Restore-RWKV | IEEE JBHI/ 2025 | paper |  [code](https://github.com/Yaziwel/Restore-RWKV) |
+| Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | paper |  [code](https://github.com/Yaziwel/Restore-RWKV) |
 
 
 
