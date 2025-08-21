@@ -49,9 +49,13 @@
 | Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI | --- | CVPR/ 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Young_Fully_Convolutional_Slice-to-Volume_Reconstruction_for_Single-Stack_MRI_CVPR_2024_paper.pdf) | [code](https://github.com/seannz/svr) |
 | Reconstruction of 7T-Like Images From 3T MRI| --- | IEEE TMI/ 2024 | [paper](https://ieeexplore.ieee.org/document/7445872) | --- |
 | Improving MRI Resolution: A Cycle Consistent Generative Adversarial Network-Based Approach for 3T to 7T Translation | --- | IEEE Access/ 2024 | [paper](https://ieeexplore.ieee.org/document/10614315) | --- |
+| High-resolution 3T to 7T ADC map synthesis with a hybrid CNN-transformer model| VCT  | Medical Physics/ 2024 | [paper](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17079) | --- |
 
-| Reconstruction of 7T-Like Images From 3T MRI| --- | IEEE TMI/ 2016 | [paper](https://ieeexplore.ieee.org/document/7445872) | --- |
-| Reconstruction of 7T-Like Images From 3T MRI| --- | IEEE TMI/ 2016 | [paper](https://ieeexplore.ieee.org/document/7445872) | --- |
+
+
+| TrGaNet: Transforming 3T to 7T dMRI using Trapezoidal Rule and Graph-based Attention Modules | TrGaNet | Medical Image Analysis/ 2016 | [paper](https://ieeexplore.ieee.org/document/7445872) | --- |
+
+
 | Reconstruction of 7T-Like Images From 3T MRI| --- | IEEE TMI/ 2016 | [paper](https://ieeexplore.ieee.org/document/7445872) | --- |
 | Reconstruction of 7T-Like Images From 3T MRI| --- | IEEE TMI/ 2016 | [paper](https://ieeexplore.ieee.org/document/7445872) | --- |
 | Reconstruction of 7T-Like Images From 3T MRI| --- | IEEE TMI/ 2016 | [paper](https://ieeexplore.ieee.org/document/7445872) | --- |
