@@ -109,6 +109,7 @@
 | Deep Image Prior | ––– | CVPR/ 2018 | [paper](https://ieeexplore.ieee.org/document/8579082) | ––– |
 | Plug-and-Play Image Restoration With Deep Denoiser Prior | DPIR | IEEE PAMI/ 2022 | [paper](https://ieeexplore.ieee.org/document/9454311) | [code](https://github.com/cszn/DPIR) |
 | Provable Probabilistic Imaging Using Score-Based Generative Priors | PMC | IEEE TCI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10645293) | [code](https://github.com/sunyumark/PnP-MonteCarlo) |
+| Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels | DPSR | IEEE CVPR/ 2019 | [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deep_Plug-And-Play_Super-Resolution_for_Arbitrary_Blur_Kernels_CVPR_2019_paper.pdf) | [code](https://github.com/cszn/DPSR) |
 
 
 
