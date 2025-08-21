@@ -60,7 +60,12 @@
 | The Foundations of Computational Imaging: A signal processing perspective| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10188909) | ––– |
 | Physics-Driven Deep Learning Methods for Fast Quantitative Magnetic Resonance Imaging: Performance improvements through integration with deep neural networks| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10054204) | ––– |
 | Solving Inverse Problems with Latent Diffusion Models via Hard Data Consistency | ––– | arXiv/ 2024 | [paper](https://arxiv.org/pdf/2307.08123) | [code](https://github.com/soominkwon/resample) |
+| Deep Equilibrium Architectures for Inverse Problems in Imaging | ––– | IEEE TCI/ 2021 | [paper](https://ieeexplore.ieee.org/document/9565378) | ––– |
 
+| Solving Inverse Problems with Latent Diffusion Models via Hard Data Consistency | ––– | arXiv/ 2024 | [paper](https://arxiv.org/pdf/2307.08123) | [code](https://github.com/soominkwon/resample) |
+| Solving Inverse Problems with Latent Diffusion Models via Hard Data Consistency | ––– | arXiv/ 2024 | [paper](https://arxiv.org/pdf/2307.08123) | [code](https://github.com/soominkwon/resample) |
+| Solving Inverse Problems with Latent Diffusion Models via Hard Data Consistency | ––– | arXiv/ 2024 | [paper](https://arxiv.org/pdf/2307.08123) | [code](https://github.com/soominkwon/resample) |
+| Solving Inverse Problems with Latent Diffusion Models via Hard Data Consistency | ––– | arXiv/ 2024 | [paper](https://arxiv.org/pdf/2307.08123) | [code](https://github.com/soominkwon/resample) |
 
 
 
