@@ -71,13 +71,11 @@
 | High-Frequency Modulated Transformer for Multi-Contrast MRI Super-Resolution | HFMT | IEEE TMI/ 2025 | [paper](https://ieeexplore.ieee.org/document/10949290) | ––– |
 | MedGAN: Medical image translation using GANs| MedGAN |Elsevier Computerized medical imaging and graphics/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0895611119300990) | ––– |
 | Bridging MRI Cross-Modality Synthesis and Multi-Contrast Super-Resolution by Fine-Grained Difference Learning | FGDL | IEEE TMI/ 2025| [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10639436) | [code](https://github.com/papshare/FGDL) |
-
-
-
-| Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+| Unsupervised Medical Image Translation With Adversarial Diffusion Models| SynDiff  | IEEE TMI/ 2023| [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10167641) | [code](https://github.com/icon-lab/SynDiff) |
 
 
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
+
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 | Low-field magnetic resonance image enhancement via stochastic image quality transfer|   | | [paper]() | ––– |
 
