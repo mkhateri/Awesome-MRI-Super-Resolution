@@ -47,10 +47,10 @@
 | Deformable Slice-to-Volume Registration for Motion Correction of Fetal Body and Placenta MRI | DSVR | IEEE TMI/ 2020 | [paper](https://ieeexplore.ieee.org/document/9001020) | [code](https://github.com/SVRTK/SVRTK) |
 | Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations| SSVR-Meta | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.09565) | --- |
 | Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI | --- | CVPR/ 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Young_Fully_Convolutional_Slice-to-Volume_Reconstruction_for_Single-Stack_MRI_CVPR_2024_paper.pdf) | [code](https://github.com/seannz/svr) |
+| 7T-guided super-resolution of 3T MRI| STRESS | Medical Physics/ 2017 | [paper](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.12132) | --- |
 
 
 
-| STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
 | STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
 | STRESS: Super-Resolution for Dynamic Fetal MRI Using Self-supervised Learning| STRESS | MICCAI/ 2021 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_19) | [code](https://github.com/daviddmc/STRESS) |
 
