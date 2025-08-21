@@ -26,17 +26,14 @@
 | LRTV: MR Image Super-Resolution With Low-Rank and Total Variation Regularizations| LRTV | IEEE TMI/ 2015 | [paper](https://ieeexplore.ieee.org/document/7113897) |  [code](https://github.com/JianCheng/superresolutiontoolkit) |
 | Isotropic Reconstruction of MR Images Using 3D Patch-Based Self-Similarity Learning| ––– | IEEE TMI/ 2015 | [paper](https://ieeexplore.ieee.org/document/8294199) |  ––– |
 | Deep MR Brain Image Super-Resolution Using Spatio-Structural Priors| ––– | IEEE TIP/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  ––– |
-
-
-
-| Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
+| Isotropic MRI Super-Resolution Reconstruction with Multi-scale Gradient Field Prior| ––– | MICCAI/ 2019 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) | ––– |
 
 
 
 ## MRI Super-Resolution Quality Assessment (In Progress.., will be sorted.., )
 | Title | Model | Venue / Year | Paper | Code |
 |---|:---:|---|---|:---:|
-| Exploring the impact of super-resolution deep learning on MR angiography image quality| ––– | Springer Advanced Neuroimaging/ 2024 | [paper](https://link.springer.com/article/10.1007/s00234-023-03271-1) | ––– |
+| Exploring the impact of super-resolution deep learning on MR angiography image quality| ––– | Springer Advanced Neuroimaging/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/32832937/) | ––– |
 
 
 ## Computational Imaging (In Progress.., will be sorted.., )
