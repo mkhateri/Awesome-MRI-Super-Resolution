@@ -14,10 +14,16 @@
 | Super-resolution reconstruction of fetal brain MRI with prior anatomical knowledge| PAK-SRR | Springer ICIPMI/ 2023 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_33) |  [code](https://github.com/sj-huang/PAK-SRR) | 
 | Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV| Restore-RWKV | IEEE JBHI/ 2025 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11078783) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
 | Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
+| Super-resolution methods in MRI: Can they improve the trade-off between resolution, signal-to-noise ratio, and acquisition time?| - | Wiley/ 2012 | [paper](https://onlinelibrary.wiley.com/doi/10.1002/mrm.24187) | - |
 
 
-
-
+| Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
+| Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
+| Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
+| Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
+| Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
+| Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
+| Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
 
 
 
