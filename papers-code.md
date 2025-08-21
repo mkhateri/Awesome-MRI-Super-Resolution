@@ -37,7 +37,10 @@
 | Exploring the impact of super-resolution deep learning on MR angiography image quality| ––– | Springer Advanced Neuroimaging/ 2024 | [paper](https://link.springer.com/article/10.1007/s00234-023-03271-1) | ––– |
 
 
-
+## Computational Imaging (In Progress.., will be sorted.., )
+| Title | Model | Venue / Year | Paper | Code |
+|---|:---:|---|---|:---:|
+| Generative Models for Inverse Imaging Problems: From mathematical foundations to physics-driven applications| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10004774) | ––– |
 
 
 
