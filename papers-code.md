@@ -105,11 +105,23 @@
 | Resolution- and Stimulus-Agnostic Super-Resolution of Ultra-High-Field Functional MRI: Application to Visual Studies| ––– | IEEE ISBI/ 2024 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635270) | ––– |
 | Progressive Feedback Residual Attention Network for Cardiac Magnetic Resonance Imaging Super-Resolution| ––– | IEEE JBHI/ 2023 | [paper](https://ieeexplore.ieee.org/document/10113677) | ––– |
 | Mouse brain MR super-resolution using a deep learning network trained with optical imaging data| –––  | Frontiers in Radiology/ 2023 | [paper](https://www.frontiersin.org/journals/radiology/articles/10.3389/fradi.2023.1155866/full) | ––– |
+| Prostate MRI Super-Resolution using Discrete Residual Diffusion Model| DR-DM | IEEE BIBM/ 2023 | [paper](https://ieeexplore.ieee.org/document/10385851) | ––– |
+| Progressive Sub-Band Residual-Learning Network for MR Image Super Resolution | PSR-SRN | IEEE JBHI/ 2019 | [paper](https://ieeexplore.ieee.org/document/8859355) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Enhanced generative adversarial network for 3D brain MRI super-resolution | MRDG | WACV/ 2020 | [paper](https://ieeexplore.ieee.org/document/9093603) | ––– |
+| STADNet: Spatial-Temporal Attention-Guided Dual-Path Network for cardiac cine MRI super-resolution| ––– | Medical Image Analysis/ 2024 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841524000677) | ––– |
+| Accurate multi-contrast MRI super-resolution via a dual cross-attention transformer network | DCAMSR | MICCAI/ 2023 | [paper](https://www.springerprofessional.de/en/accurate-multi-contrast-mri-super-resolution-via-a-dual-cross-at/26112816) | [code](https://github.com/Solor-pikachu/DCAMSR) |
+| MS2CAM: Multi-scale self-cross-attention mechanism-based MRI super-resolution | MS2CAM | Displays/ 2025 | [paper](https://www.sciencedirect.com/science/article/pii/S0141938225000708) | ––– |
+| Multi kernel cross sparse graph attention convolutional neural network for brain magnetic resonance imaging super-resolution| MGCIF | Biomedical Signal Processing and Control/ 2024 | [paper](https://www.sciencedirect.com/science/article/pii/S1746809424005020) | ––– |
+| A Lightweight 3D Distillation Volumetric Transformer for 3D MRI Super-Resolution| TDAFD  | IEEE JBHI/ 2025 | [paper](https://ieeexplore.ieee.org/document/10946021) | ––– |
+| Brain MRI super-resolution using deep 3D convolutional networks| DCSRN | ISBI/ 2017 | [paper](https://ieeexplore.ieee.org/document/7950500) | [code](https://github.com/YunzeMan/DCSRN) |
+| Super-resolution of brain tumor MRI images based on deep learning| MRBT-SR-GAN | Journal of Applied Clinical Medical Physics/ 2022 | [paper](https://pubmed.ncbi.nlm.nih.gov/36107021/) | ––– |
+| Residual dense network for medical magnetic resonance images super-resolution| MRDN | Computer Methods and Programs in Biomedicine/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S0169260721004041?via%3Dihub) | ––– |
+| Brain MRI Super-Resolution Using 3D Dilated Convolutional Encoder–Decoder Network| DCED | IEEE Access/ 2020 | [paper](https://ieeexplore.ieee.org/document/8967055) | ––– |
 
 
-| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
-| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
-| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
+
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 
 
 
