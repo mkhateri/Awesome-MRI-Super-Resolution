@@ -40,6 +40,7 @@
 | MGDUN: An interpretable network for multi-contrast MRI image super-resolution reconstruction| MGDUN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635128) | ––– |
 | Spatial-Intensity Transforms for Medical Image-to-Image Translation| SIT |IEEE TMI/ 2023 | [paper](https://ieeexplore.ieee.org/document/10145414) | ––– |
 | SMORE: A Self-Supervised Anti-Aliasing and Super-Resolution Algorithm for MRI Using Deep Learning| SMORE | IEEE TMI/ 2021 | [paper](https://ieeexplore.ieee.org/document/9253710) | [code](https://github.com/volcanofly/SMORE-Super-resolution-for-3D-medical-images-MRI) |
+| Scan-Specific Generative Neural Network for MRI Super-Resolution Reconstruction| SMORE | IEEE TMI/ 2022 | [paper](https://ieeexplore.ieee.org/document/9678968) | ––– |
 
 
 
