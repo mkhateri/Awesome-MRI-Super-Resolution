@@ -104,17 +104,15 @@
 | Spatial-Angular Representation Learning for High-Fidelity Continuous Super-Resolution in Diffusion MRI| SARL-dMRI | arXiv/ 2025 | [paper](https://arxiv.org/abs/2501.16014) | ––– |
 | Resolution- and Stimulus-Agnostic Super-Resolution of Ultra-High-Field Functional MRI: Application to Visual Studies| ––– | IEEE ISBI/ 2024 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635270) | ––– |
 | Progressive Feedback Residual Attention Network for Cardiac Magnetic Resonance Imaging Super-Resolution| ––– | IEEE JBHI/ 2023 | [paper](https://ieeexplore.ieee.org/document/10113677) | ––– |
-
-
-| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
-| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
-| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
-
-
-## Pre-clinical MRI Super-Resolution (In Progress..)
-| Title | Model | Venue / Year | Paper | Code |
-|---|:---:|---|---|:---:|
 | Mouse brain MR super-resolution using a deep learning network trained with optical imaging data| –––  | Frontiers in Radiology/ 2023 | [paper](https://www.frontiersin.org/journals/radiology/articles/10.3389/fradi.2023.1155866/full) | ––– |
+
+
+| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
+| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
+| Super-Resolution of Cardiac MR Cine Imaging using Conditional GANs and Unsupervised Transfer Learning| ––– | Medical Image Analysis/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521000839) | ––– |
+
+
+
 
 
 
