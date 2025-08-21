@@ -24,6 +24,7 @@
 | Fast and High-Resolution Neonatal Brain MRI Through Super-Resolution Reconstruction From Acquisitions With Variable Slice Selection Direction| ––– | Frontiers in Neuroscience/ 2021 | [paper](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.636268/full) | ––– |
 | A Tool for Super-Resolving Multimodal Clinical MRI| ––– | arXiv/ 2019 | [paper](https://arxiv.org/pdf/1909.01140) | [code](https://github.com/brudfors/spm_superres) |
 | LRTV: MR Image Super-Resolution With Low-Rank and Total Variation Regularizations| LRTV | IEEE TMI/ 2015 | [paper](https://ieeexplore.ieee.org/document/7113897) |  [code](https://github.com/JianCheng/superresolutiontoolkit) |
+| Isotropic Reconstruction of MR Images Using 3D Patch-Based Self-Similarity Learning| ––– | IEEE TMI/ 2015 | [paper](https://ieeexplore.ieee.org/document/8294199) |  ––– |
 
 
 
