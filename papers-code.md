@@ -18,13 +18,11 @@
 | 3D-MRI super-resolution reconstruction using multi-modality based on multi-resolution CNN | ––– | IEEE TCI/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0169260724001068) | ––– |
 | Super-resolution musculoskeletal MRI using deep learning| ––– | Wiley/ 2018 | [paper](https://onlinelibrary.wiley.com/doi/10.1002/mrm.27178) | ––– |
 | Applications of a deep learning method for anti-aliasing and super-resolution in MRI| ––– | Elsevier Magnetic Resonance Imaging/ 2019 | [paper](https://www.sciencedirect.com/science/article/pii/S0730725X18306507?via%3Dihub) | ––– |
-| Accuracy and precision in super-resolution MRI: Enabling spherical tensor diffusion encoding at ultra-high b-values and high resolution| ––– | IEEE NeuroImage/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1053811921009460) | ––– |
+| Accuracy and precision in super-resolution MRI: Enabling spherical tensor diffusion encoding at ultra-high b-values and high resolution| ––– |  NeuroImage/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1053811921009460) | ––– |
 | Spatial Information Regularized Tensor Decomposition Framework for Super-Resolution Reconstruction of Medical MRI and Radiographs | ––– | IEEE TCI/ 2022 | [paper](https://ieeexplore.ieee.org/document/9900445) |  ––– |
+| Brain MRI super-resolution using coupled-projection residual network| ––– | Neurocomputing/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231221002502) | ––– |
 
 
-
-
-| Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
 | Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
 | Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
 | Gradient-Guided Isotropic MRI Reconstruction from Anisotropic Acquisitions| GGSR | IEEE TCI/ 2020 | [paper](https://ieeexplore.ieee.org/abstract/document/9618811) |  [code](https://github.com/Yaziwel/Restore-RWKV) |
