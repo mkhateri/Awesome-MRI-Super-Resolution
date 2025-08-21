@@ -87,13 +87,13 @@
 
 ## MRI Super-Resolution Quality Assessment (In Progress.., will be sorted.., )
 | Title | Model | Venue / Year | Paper | Code |
-|–––|:–––:|–––|–––|:–––:|
+|---|:---:|---|---|:---:|
 | Exploring the impact of super-resolution deep learning on MR angiography image quality| ––– | Springer Advanced Neuroimaging/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/32832937/) | ––– |
 
 
 ## Computational Imaging (In Progress.., will be sorted.., )
 | Title | Model | Venue / Year | Paper | Code |
-|–––|:–––:|–––|–––|:–––:|
+|---|:---:|---|---|:---:|
 | Generative Models for Inverse Imaging Problems: From mathematical foundations to physics-driven applications| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10004774) | ––– |
 | Foundations of computational imaging: a model-based approach| ––– | SIAM/ 2022 | [Book](https://books.google.fi/books/about/Foundations_of_Computational_Imaging.html?id=TiJ6EAAAQBAJ&redir_esc=y) | ––– |
 | Physics-Driven Deep Learning for Computational Magnetic Resonance Imaging: Combining physics and machine learning for improved medical imaging| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10004819) | ––– |
@@ -123,7 +123,7 @@
 ### Slice-to-Volume Reconstruction (SVR) Toolkits
 
 | Toolkit | Description | code |
-|–––|–––|–––|
+|---|---|---|
 | **SUFFICIENT** | Self-supervised SVR with attention for fetal MRI | [https://github.com/DeepBMI/SUFFICIENT](https://github.com/DeepBMI/SUFFICIENT) |
 | **SVRTK** | Modular C++/MATLAB toolkit for classic SVR | [https://github.com/SVRTK/SVRTK](https://github.com/SVRTK/SVRTK) |
 | **NeSVoR** | Deep learning–based SVR using implicit modeling | [https://github.com/daviddmc/NeSVoR](https://github.com/daviddmc/NeSVoR) |
