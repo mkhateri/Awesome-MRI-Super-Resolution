@@ -24,6 +24,7 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
 
 ---
 ## Table of Contents  
+🔗 Click a section below to explore:
 
 - [Surveys](super-resolution-survey.md)  
 - [Papers & Code](papers-code.md)  
@@ -35,6 +36,7 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
   - [Tutorials](tutorial-toolkit.md)  
   - [Talks](talks.md)  
   - [Courses](courses.md)  
+
 
 
 
