@@ -8,6 +8,7 @@
 | [Brain MRI Image Super-Resolution Reconstruction: A Systematic Review](https://ui.adsabs.harvard.edu/abs/2024IEEEA..12o6347M/abstract) | IEEE Access, 2024 |
 
 
+
 ### Medical Image Super-Resolution
 | Paper | Venue / Year |
 |---|---|
@@ -17,7 +18,6 @@
 | [Overview of Image-to-Image Translation in Medical Imaging (denoising, SR, modality conversion, reconstruction)](https://arxiv.org/abs/1905.08603) | Radiol. Phys. Technol., 2019 |
 | [Deep learning based synthesis of MRI, CT and PET: Review and analysis](https://www.sciencedirect.com/science/article/pii/S1361841523003067) | Medical Image Analysis, 2024 |
 | [Deep learning based unpaired image-to-image translation applications for medical physics: a systematic review]([https://www.sciencedirect.com/science/article/pii/S1361841523003067](https://pubmed.ncbi.nlm.nih.gov/36753766/)) | Physics in Medicine & Biology,, 2023 |
-
 
 
 
@@ -35,6 +35,8 @@
 | [Hitchhiker’s Guide to Super-Resolution: Introduction and Recent Advances](https://doi.org/10.1109/TPAMI.2023.3243794) ([arXiv](https://arxiv.org/abs/2209.13131)) | IEEE TPAMI, 2023 |
 | [Generative Adversarial Networks for Image Super-Resolution: A Survey](https://arxiv.org/abs/2204.13620) | arXiv, 2022 |
 | [Arbitrary-scale Super-resolution via Deep Learning: A Comprehensive Survey](https://www.sciencedirect.com/science/article/pii/S1566253523003317) | Information Fusion, 2024 |
+| [A Deep Journey into Super-resolution: A survey](https://arxiv.org/abs/1904.07523) | arXiv,, 2020 |
+
 
 
 ### Diffusion Models & Super-Resolution
