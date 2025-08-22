@@ -25,16 +25,16 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
 ---
 ## 📑 Table of Contents  
 
-- 📚 [Surveys](super-resolution-survey.md)  
-- 📝 [Papers & Code](papers-code.md)  
-- 📦 [Repositories](super-resolution-repos.md)  
-- 📊 [Datasets](datasets.md)  
-- 🛠 [Preprocessing Tools](tools-preprocessing.md)  
-- ✅ [Quality Assessment Tools](tools-quality-assessment.md)  
-- 🎓 Learning Resources  
-  - 📖 [Tutorials](tutorial-toolkit.md)  
-  - 🎤 [Talks](talks.md)  
-  - 🏫 [Courses](courses.md)  
+-  [Surveys](super-resolution-survey.md)  
+-  [Papers & Code](papers-code.md)  
+-  [Repositories](super-resolution-repos.md)  
+-  [Datasets](datasets.md)  
+-  [Preprocessing Tools](tools-preprocessing.md)  
+-  [Quality Assessment Tools](tools-quality-assessment.md)  
+-  Learning Resources  
+  -  [Tutorials](tutorial-toolkit.md)  
+  -  [Talks](talks.md)  
+  -  [Courses](courses.md)  
 
 
 
