@@ -32,7 +32,7 @@
 | RIRGAN: An end-to-end lightweight multi-task learning method for brain MRI super-resolution and denoising| RIRGAN | Elsevier Computerized Medical Imaging and Graphics/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523010971) | ––– |
 | Coarse–Super-Resolution–Fine Network (CoSF-Net): A Unified End-to-End Neural Network for 4D-MRI With Simultaneous Motion Estimation and Super-Resolution| CoSF-Net | IEEE TMI/ 2023 | [paper](https://ieeexplore.ieee.org/document/10177965) | ––– |
 | DISGAN: Wavelet-informed Discriminator Guides GAN to MRI Super-resolution with Noise Cleaning| DISGAN | IEEE ICCV/ 2023 | [paper](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Wang_DISGAN_Wavelet-Informed_Discriminator_Guides_GAN_to_MRI_Super-Resolution_with_Noise_ICCVW_2023_paper.pdf) | [code](https://github.com/wqlevi/DISGAN) |
-|Decomposition-Based Variational Network for Multi-Contrast MRI Super-Resolution and Reconstruction| MC-VarNet | IEEE ICCV/ 2023 | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lei_Decomposition-Based_Variational_Network_for_Multi-Contrast_MRI_Super-Resolution_and_Reconstruction_ICCV_2023_paper.pdf) | [code](https://github.com/lpcccc-cv/MC-VarNet) 
+| Decomposition-Based Variational Network for Multi-Contrast MRI Super-Resolution and Reconstruction| MC-VarNet | IEEE ICCV/ 2023 | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lei_Decomposition-Based_Variational_Network_for_Multi-Contrast_MRI_Super-Resolution_and_Reconstruction_ICCV_2023_paper.pdf) | [code](https://github.com/lpcccc-cv/MC-VarNet) 
 | Physics-informed deep learning for T2-deblurred superresolution turbo spin echo MRI | T2-deblurring | Wiley Magnetic Resonance in Medicine/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482523010971) | ––– |
 | PI-GNN: Physics-Informed Graph Neural Network for Super-Resolution of 4D Flow MRI | PI-GNN |IEEE ISBI/ 2024 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10635128) | ––– |
 | CT-Guided, Unsupervised Super-Resolution Reconstruction of Single 3D Magnetic Resonance Image | ––– | MICCAI/ 2024 | [paper](https://link.springer.com/epdf/10.1007/978-3-031-43907-0_48?sharing_token=1HLCfQD6V1IaVg35ey0-3_e4RwlQNchNByi7wbcMAY6JZllqJCh4E_RiZuoa_atqKnew50OkmuFnUr8BGxjeXrnuKliW0KxeqvkPBstP3NG_wNd5v-SnGHjUFCWqTLBoYxsi2h7ZNlz-g56lj_OkkNfXWfaQJa2zmPmaE2QahfM%3D) | ––– |
@@ -160,11 +160,22 @@
 | Synergizing frequency domain and texture-aware implicit module for MRI arbitrary-scale super-resolution| ––– | Biomedical Signal Processing and Control/ 2024 | [paper](https://www.sciencedirect.com/science/article/pii/S1746809424008188) | ––– |
 | An Arbitrary-Scale Super-Resolution Network for Multi-Contrast MRI With Permuted Cross-Attention| ––– | IEEE JBHI/ 2025 | [paper](https://ieeexplore.ieee.org/document/10916500) | [code](https://github.com/fangxiaojia0/An-Arbitrary-Scale-Super-Resolution-Network-for-Multi-Contrast-MRI-With-Permuted-Cross-Attention) |
 | NExpR: Neural Explicit Representation for fast arbitrary-scale medical image super-resolution| NExpR | Computers in Biology and Medicine/ 2025  | [paper](https://www.sciencedirect.com/science/article/pii/S0010482524014392) | [code](https://github.com/Calvin-Pang/NExpR) |
-
+| A fast volumetric 4D-MRI with sub-second frame rate for abdominal motion monitoring and characterization in MRI-guided radiotherapy| CAIPIRINHA-VIBE 4D-MRI | Quant Imaging Med Surg/ 2019 | [paper](https://pubmed.ncbi.nlm.nih.gov/31448215/) | ––– |
+| Super-resolution neural networks improve the spatiotemporal resolution of adaptive MRI-guided radiation therapy| ––– |  communications medicine / 2024 | [paper](https://www.nature.com/articles/s43856-024-00489-9) | ––– |
+| Robust Unsupervised Super-Resolution of Infant MRI via Dual-Modal Deep Image Prior| ––– | MLMI/ 2023 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-45673-2_5) | ––– |
+| Super Resolution for Improved Positioning of an MRI-Guided Spinal Cellular Injection Robot| ––– | Journal of Medical Robotics Research/ 2020 | [paper](https://www.worldscientific.com/doi/10.1142/S2424905X2140002X?srsltid=AfmBOoq0daNT7zNt9rafng_ek8IbckP3QY-J_In1NdCiDRJafk18gx9Y) | ––– |
+| Stereo attention-based all-in-one super-resolution for robot-assisted minimally invasive surgery| ––– | J Robot Surg/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/38231445/) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super resolution using sparse sampling at portable ultra-low field MR| ––– | Front Neurol/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/38854960/) | ––– |
+| Efficient and Phase-Aware Video Super-Resolution for Cardiac MRI| ––– | MICCAI/ 2020 | [paper](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_7) | [code](https://github.com/cmlab-mira/Efficient-and-Phase-aware-Video-Super-resolution-for-Cardiac-MRI) |
+| Positive Effect of Super-Resolved Structural Magnetic Resonance Imaging for Mild Cognitive Impairment Detection| ––– | MDPI Brain Sciences/ 2024 | [paper](https://www.mdpi.com/2076-3425/14/4/381) | ––– |
+| Super-Resolution in Clinically Available Spinal Cord MRIs Enables Automated Atrophy Analysis| ––– | AJNR/ 2025 | [paper](https://www.ajnr.org/content/46/4/823.abstract) | ––– |
+| COMET: Cross-Space Optimization-Based Mutual Learning Network for Super-Resolution of CEST-MRI| COMET  | IEEE JBHI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10286894) | ––– |
+| TranSMS: Transformers for Super-Resolution Calibration in Magnetic Particle Imaging| ––– | IEEE TMI/ 2022 | [paper](https://ieeexplore.ieee.org/document/9825706) | [code](https://github.com/icon-lab/TranSMS) |
 
 
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
@@ -197,8 +208,6 @@
 | Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models| ––– | NeurIPS/ 2024 | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/2847d43f17410c5beb25b2736c3ae778-Paper-Conference.pdf) | ––– |
 
 
-| Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
-| Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
 | Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
 | Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
 
