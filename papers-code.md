@@ -144,18 +144,16 @@
 | Diffusion Model-Based MRI Super-Resolution Synthesis| ––– | Wiley International Journal of Imaging Systems and Technology/ 2025 | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/ima.70021) | ––– |
 | DBSR: Quadratic Conditional Diffusion Model for Blind Cardiac MRI Super-Resolution | DBSR  | IEEE TM/ 2024 | [paper](https://ieeexplore.ieee.org/document/10663065) | ––– |
 | High-resolution MRI synthesis using a data-driven framework with denoising diffusion probabilistic modeling| CGAN| Physics in Medicine & Biology/ 2024 | [paper](https://iopscience.iop.org/article/10.1088/1361-6560/ad209c) | ––– |
+| Edge-guided conditional diffusion model for multi-contrast MRI super-resolution| Eg-Diff | Information Fusion/ 2025 | [paper](https://www.sciencedirect.com/science/article/pii/S156625352500586X) | ––– |
+| DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution| DisC-Diff | MICCAI/ 2023 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_37) | [code](https://github.com/Yebulabula/DisC-Diff) |
+| Score-Based Diffusion Models With Self-Supervised Learning for Accelerated 3D Multi-Contrast Cardiac MR Imaging| SSDiffRecon | IEEE TMI/ 205 | [paper](https://ieeexplore.ieee.org/document/10858080) | [code](https://github.com/YuanyuanLiuSIAT/SSJDM) |
+| High-Frequency Space Diffusion Model for Accelerated MRI| HFS-SDE | IEEE TMI/ 2024 | [paper](https://ieeexplore.ieee.org/abstract/document/10385176) | [code](https://github.com/Aboriginer/HFS-SDE) |
+| Wavelet-Improved Score-Based Generative Model for Medical Imaging| ––– | IEEE TMI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10288274) | [code]( https://zenodo.org/record/8266123) |
+| Fast and Reliable Score-Based Generative Model for Parallel MRI| FRSGM | IEEE TNNLS/ 2025 | [paper](https://ieeexplore.ieee.org/document/10325638) | [code](https://github.com/Houruizhi/FRSGM) |
+| Latent diffusion model-based MRI superresolution enhances mild cognitive impairment prognostication and Alzheimer's disease classification| ––– | NeuroImage/ 2024 | [paper](https://www.sciencedirect.com/science/article/pii/S1053811924001587) | ––– |
+| Latent diffusion for arbitrary zoom MRI super-resolution| ––– | Elsevier Expert Systems with Applications/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 
 
-
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
@@ -211,11 +209,9 @@
 | Loss Functions for Image Restoration With Neural Networks| Diff-Unfolding | IEEE TCI/ 2016 | [paper](https://ieeexplore.ieee.org/document/7797130) | ––– |
 | Meta-Learning Multi-Scale Radiology Medical Image Super-Resolution | ––– | Computers, Materials & Continua/ 2023 | [paper](https://www.techscience.com/cmc/v75n2/52092/pdf) | ––– |
 | Arbitrary scale super-resolution diffusion model for brain MRI images | ASSRDM | Computers in Biology and Medicine/ 2024 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482524000878) | ––– |
+| Denoising Diffusion Restoration Models | DDRM |NeurIPS/ 2025 | [paper](https://ddrm-ml.github.io/DDRM-paper.pdf) | [code](https://github.com/bahjat-kawar/ddrm) |
 
 
-
-
-| Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
 | Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
 | Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
 | Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
