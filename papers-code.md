@@ -172,11 +172,23 @@
 | Super-Resolution in Clinically Available Spinal Cord MRIs Enables Automated Atrophy Analysis| ––– | AJNR/ 2025 | [paper](https://www.ajnr.org/content/46/4/823.abstract) | ––– |
 | COMET: Cross-Space Optimization-Based Mutual Learning Network for Super-Resolution of CEST-MRI| COMET  | IEEE JBHI/ 2024 | [paper](https://ieeexplore.ieee.org/document/10286894) | ––– |
 | TranSMS: Transformers for Super-Resolution Calibration in Magnetic Particle Imaging| ––– | IEEE TMI/ 2022 | [paper](https://ieeexplore.ieee.org/document/9825706) | [code](https://github.com/icon-lab/TranSMS) |
+| Super-resolution generative adversarial networks with static T2*WI-based subject-specific learning to improve spatial difference sensitivity in fMRI activation| ––– | scientific reports/ 2022 | [paper](https://www.nature.com/articles/s41598-022-14421-5) | ––– |
+| Super-Resolution 1H Magnetic Resonance Spectroscopic Imaging Utilizing Deep Learning| ––– | Front Oncol/ 2019 | [paper](https://www.nature.com/articles/s41598-022-14421-5) | ––– |
+| Deep-learning-based 3D super-resolution MRI radiomics model: superior predictive performance in preoperative T-staging of rectal cancer| ––– | Eur Radiol/ 2023 | [paper](https://pubmed.ncbi.nlm.nih.gov/35726100/) | ––– |
+| Super-resolution synthetic MRI using deep learning reconstruction for accurate diagnosis of knee osteoarthritis| ––– | Insights into Imaging/ 2025 | [paper](https://insightsimaging.springeropen.com/articles/10.1186/s13244-025-01911-z) | ––– |
+| REHRSeg: Unleashing the power of self-supervised super-resolution for resource-efficient 3D MRI segmentation| REHRSeg | Neurocomputing/ 2025 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231225000979) | [code](https://github.com/zhiyuns/REHRSeg) |
+| Multimodal super-resolved q-space deep learning| ––– | Med Image Anal/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521001316?via%3Dihub) | ––– |
+| Conditional diffusion-generated super-resolution for myocardial perfusion MRI| ––– | Frontiers in Cardiovascular Medicine/ 2025 | [paper](https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2025.1499593/full) | ––– |
+| Super-resolution mapping of anisotropic tissue structure with diffusion MRI and deep learning| ––– |  scientific reports/ 2025 | [paper](https://www.nature.com/articles/s41598-025-90972-7) | ––– |
+| Deep learning-based super-resolution of structural brain MRI at 1.5 T: application to quantitative volume measurement| ––– | Magnetic Resonance Materials in Physics, Biology and Medicine/ 2024 | [paper](https://link.springer.com/article/10.1007/s10334-024-01165-8) | ––– |
+| Deep learning-based super-resolution and denoising algorithm improves reliability of dynamic contrast-enhanced MRI in diffuse glioma| ––– |  scientific reports / 2024 | [paper](https://www.nature.com/articles/s41598-024-76592-7) | ––– |
+| In Vivo Measurement of Rat Brain Water Content at 9.4 T MR Using Super-Resolution Reconstruction: Validation With Ex Vivo Experiments| ––– | JMRI/ 2023| [paper](https://onlinelibrary.wiley.com/doi/10.1002/jmri.29061) | ––– |
+| Super-resolution multi-contrast unbiased eye atlases with deep probabilistic refinement| ––– | SPIE/ 2024 | [paper](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-11/issue-6/064004/Super-resolution-multi-contrast-unbiased-eye-atlases-with-deep-probabilistic/10.1117/1.JMI.11.6.064004.full) | ––– |
+| RED-PSM: Regularization by Denoising of Partially Separable Models for Dynamic Imaging| RED-PSM | CVPR/ 2020 | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Iskender_RED-PSM_Regularization_by_Denoising_of_Partially_Separable_Models_for_Dynamic_ICCV_2023_paper.pdf) | [code](https://github.com/berkiskender/RED-PSM) |
+| Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement| Di-Fusion | arXiv/ 2025 | [paper](https://arxiv.org/abs/2501.13514) | [code](https://github.com/FouierL/Di-Fusion) |
+| DDM^2: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models| ––– | ICLR/ 2023 | [paper](https://arxiv.org/pdf/2302.03018) | [code](https://github.com/StanfordMIMI/DDM2) |
 
 
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
@@ -199,7 +211,7 @@
 | Clinical evaluation of super-resolution for brain MRI images based on generative adversarial networks| ––– | Informatics in Medicine Unlocked/ 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S2352914822001721) | ––– |
 | No-Reference Image Quality Assessment of Magnetic Resonance images with multi-level and multi-model representations based on fusion of deep architectures| ––– | Engineering Applications of Artificial Intelligence/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0952197623004670) | ––– |
 | Data Quality Assessment for Super-Resolution Fetal Brain MR Imaging: A Retrospective 1.5 T Study| ––– | Journal of Magnetic Resonance Imaging/ 2021 | [paper](https://pubmed.ncbi.nlm.nih.gov/33949725/) | ––– |
-|Clinical Implementation of Sixfold-Accelerated Deep Learning Super-Resolution Knee MRI in Under 5 Minutes: Arthroscopy-Validated Diagnostic Performance| ––– |American journal of roentgenology/ 2025| [paper](https://documentsdelivered.com/source/064/472/064472344.php) | ––– |
+| Clinical Implementation of Sixfold-Accelerated Deep Learning Super-Resolution Knee MRI in Under 5 Minutes: Arthroscopy-Validated Diagnostic Performance| ––– |American journal of roentgenology/ 2025| [paper](https://documentsdelivered.com/source/064/472/064472344.php) | ––– |
 | Measuring Impact of Super-Resolution on Spinal Cord MRI Scans: Lesion Detection Sensitivity, Variability, and Clinical Impact| ––– | IEEE ISBI/ 2025 | [paper](https://ieeexplore.ieee.org/document/10981088) | ––– |
 | Automatic quality control in multi-centric fetal brain MRI super-resolution reconstruction| ––– | arXiv/ 2025 | [paper](https://arxiv.org/abs/2503.10156) | ––– |
 | Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
@@ -246,12 +258,15 @@
 | Equivariant plug-and-play image reconstruction | EquivariantPnP | CVPR/ 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Terris_Equivariant_Plug-and-Play_Image_Reconstruction_CVPR_2024_paper.pdf) | [code](https://github.com/matthieutrs/EquivariantPnP) |
 | UNSURE: self-supervised learning with Unknown Noise level and Stein's Unbiased Risk Estimate| UNSURE | arXiv/ 2024 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
 | Noise2Noise: Learning Image Restoration without Clean Data| Noise2Noise | arXiv/ 2018 | [paper](https://arxiv.org/abs/1803.04189) | [code](https://github.com/NVlabs/noise2noise) |
+| Denoising: a powerful building block for imaging, inverse problems and machine learning| Denoising | Philosophical Transactions on the Royal Society / 2025 | [paper]https://royalsocietypublishing.org/doi/10.1098/rsta.2024.0326) | ––– |
+| Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
 
-| Misalignment-Resistant Deep Unfolding Network for multi-modal MRI super-resolution and reconstruction| UNSURE | arXiv/ 2024 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
-
-
-| UNSURE: self-supervised learning with Unknown Noise level and Stein's Unbiased Risk Estimate| UNSURE | arXiv/ 2024 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
-| UNSURE: self-supervised learning with Unknown Noise level and Stein's Unbiased Risk Estimate| UNSURE | arXiv/ 2024 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
+| Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
+| Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
+| Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
+| Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
+| Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
+| Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
 
 ## SVR
 
