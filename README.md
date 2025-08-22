@@ -23,47 +23,19 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
 
 
 ---
-
 ## 📑 Table of Contents  
 
-<details>
-<summary>📚 Surveys</summary>
+- 📚 [Surveys](super-resolution-survey.md)  
+- 📝 [Papers & Code](papers-code.md)  
+- 📦 [Repositories](super-resolution-repos.md)  
+- 📊 [Datasets](datasets.md)  
+- 🛠 [Preprocessing Tools](tools-preprocessing.md)  
+- ✅ [Quality Assessment Tools](tools-quality-assessment.md)  
+- 🎓 Learning Resources  
+  - 📖 [Tutorials](tutorial-toolkit.md)  
+  - 🎤 [Talks](talks.md)  
+  - 🏫 [Courses](courses.md)  
 
-- [Surveys](super-resolution-survey.md)
-
-</details>
-
-<details>
-<summary>📝 Papers & Code</summary>
-
-- [Papers & Code](papers-code.md)  
-- [Repositories](super-resolution-repos.md)
-
-</details>
-
-<details>
-<summary>📊 Datasets</summary>
-
-- [Datasets](datasets.md)
-
-</details>
-
-<details>
-<summary>🛠 Tools</summary>
-
-- [Preprocessing Tools](tools-preprocessing.md)  
-- [Quality Assessment Tools](tools-quality-assessment.md)
-
-</details>
-
-<details>
-<summary>🎓 Learning Resources</summary>
-
-- [Tutorials](tutorial-toolkit.md)  
-- [Talks](talks.md)  
-- [Courses](courses.md)
-
-</details>
 
 
 ###  Citation
