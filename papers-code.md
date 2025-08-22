@@ -128,11 +128,46 @@
 | Super-resolution of 3D medical images by generative adversarial networks with long and short-term memory and attention | LSTMAGAN | Scientific Reports/ 2025 | [paper](https://www.nature.com/articles/s41598-025-05783-7) | ––– |
 | InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model | InverseSR | MICCAI/ 2023 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_42) | [code](https://github.com/BioMedAI-UCSC/InverseSR) |
 |ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting| ResShift | NeurIPS/ 2023 | [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/2ac2eac5098dba08208807b65c5851cc-Paper-Conference.pdf) | [code](https://github.com/zsyOAOA/ResShift) |
+| Diffusion-prior based implicit neural representation for arbitrary-scale cardiac cine MRI super-resolution| DP-INR | Elsevier Information Fusion/ 2025 | [paper](https://www.sciencedirect.com/science/article/pii/S1566253525005822) | ––– |
+| Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI| ––– | Computer Methods and Programs in Biomedicine/ 2024 | [paper](https://www.sciencedirect.com/science/article/pii/S0169260724000531) | ––– |
+| Multi-Contrast MRI Arbitrary-Scale Super-Resolution via Dynamic Implicit Network| DINet  | IEEE TCSVT / 2025 | [paper](https://ieeexplore.ieee.org/document/10945918) | [code](https://github.com/weijinbao1998/DINet) |
+| IM-Diff: Implicit Multi-Contrast Diffusion Model for Arbitrary Scale MRI Super-Resolution| IM-Diff | IEEE JBHI/ 2025 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Patient-specific MRI super-resolution via implicit neural representations and knowledge transfer| KT-INR | Physics in Medicine & Biology/ 2025 | [paper](https://iopscience.iop.org/article/10.1088/1361-6560/adbed4) | ––– |
+| CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data| CycleINR | IEEE CVPR/ 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Fang_CycleINR_Cycle_Implicit_Neural_Representation_for_Arbitrary-Scale_Volumetric_Super-Resolution_of_CVPR_2024_paper.pdf) | ––– |
+| DeepVolume: Brain Structure and Spatial Connection-Aware Network for Brain MRI Super-Resolution| DeepVolume | IEEE TC/ 2021 | [paper](https://ieeexplore.ieee.org/document/8820143) | ––– |
+| Convolutional Recurrent Neural Networks for Dynamic MR Image Reconstruction| ––– | Neurocomputing/ 2019 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8425639) | ––– |
+| DDoS-UNet: Incorporating Temporal Information Using Dynamic Dual-Channel UNet for Enhancing Super-Resolution of Dynamic MRI | DDoS-UNet | IEEE Access/ 2024 | [paper](https://ieeexplore.ieee.org/document/10597433) | ––– |
+| Brain graph super-resolution using adversarial graph neural network with application to functional brain connectivity| Graph U-Net | Medical Image Analysis/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841521001304) | [code](https://github.com/basiralab/AGSR-Net) |
+| A foundation model for enhancing magnetic resonance images and downstream segmentation, registration and diagnostic tasks| BME | Nature Biomedical Engineering/ 2025 | [paper](https://www.nature.com/articles/s41551-024-01283-7) | [code](https://github.com/DBC-Lab/Brain_MRI_Enhancement) |
+| GraphMSR: A graph foundation model-based approach for MRI image super-resolution with multimodal semantic integration| GraphMSR | Pattern Recognition/ 2026 | [paper](https://www.sciencedirect.com/science/article/pii/S0031320325008398) | ––– |
+| MRI Super-Resolution With Partial Diffusion Models| PDMs | IEEE TMI/ 2025 | [paper](https://ieeexplore.ieee.org/document/10720924) | ––– |
+| Diffusion Model-Based MRI Super-Resolution Synthesis| ––– | Wiley International Journal of Imaging Systems and Technology/ 2025 | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/ima.70021) | ––– |
+| DBSR: Quadratic Conditional Diffusion Model for Blind Cardiac MRI Super-Resolution | DBSR  | IEEE TM/ 2024 | [paper](https://ieeexplore.ieee.org/document/10663065) | ––– |
+| High-resolution MRI synthesis using a data-driven framework with denoising diffusion probabilistic modeling| CGAN| Physics in Medicine & Biology/ 2024 | [paper](https://iopscience.iop.org/article/10.1088/1361-6560/ad209c) | ––– |
+
 
 
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 
-
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 
