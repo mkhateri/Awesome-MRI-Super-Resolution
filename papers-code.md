@@ -125,14 +125,14 @@
 | Self-Prior Guided Mamba-UNet Networks for Medical Image Super-Resolution| ––– | arXiv/ 2024 | [paper](https://arxiv.org/pdf/2407.05993) | ––– |
 | Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV | Restore-RWKV | IEEE JBHI/ 2025 | [paper](https://ieeexplore.ieee.org/document/11078783) | [code](https://github.com/Yaziwel/Restore-RWKV) |
 | SOUP-GAN: Super-Resolution MRI Using Generative Adversarial Networks | SOUP-GAN | MDPI Tomography/ 2022 | [paper](https://pubmed.ncbi.nlm.nih.gov/35448707/) | [code](https://github.com/Mayo-Radiology-Informatics-Lab/SOUP-GAN) |
+| Super-resolution of 3D medical images by generative adversarial networks with long and short-term memory and attention | LSTMAGAN | Scientific Reports/ 2025 | [paper](https://www.nature.com/articles/s41598-025-05783-7) | ––– |
+| InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model | InverseSR | MICCAI/ 2023 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_42) | [code](https://github.com/BioMedAI-UCSC/InverseSR) |
+|ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting| ResShift | NeurIPS/ 2023 | [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/2ac2eac5098dba08208807b65c5851cc-Paper-Conference.pdf) | [code](https://github.com/zsyOAOA/ResShift) |
 
 
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 
