@@ -1,6 +1,6 @@
 ## 📚 Surveys & Reviews on Super-Resolution (MRI, General, and Medical)
 
-### MRI Super-Resolution (MRI-specific)
+### MRI Super-Resolution
 | Paper | Venue / Year |
 |---|---|
 | [Super-Resolution in Magnetic Resonance Imaging: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/cmr.a.21249) | Concepts Magn. Reson. A, 2012 |
@@ -25,8 +25,7 @@
 
 
 
-
-### General Super-Resolution (computer vision)
+### General Super-Resolution
 | Paper | Venue / Year |
 |---|---|
 | [Deep Learning for Image Super-Resolution: A Survey](https://ieeexplore.ieee.org/abstract/document/9044873) | IEEE TPAMI, 2020 |
