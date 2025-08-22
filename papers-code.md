@@ -188,12 +188,18 @@
 | Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement| Di-Fusion | arXiv/ 2025 | [paper](https://arxiv.org/abs/2501.13514) | [code](https://github.com/FouierL/Di-Fusion) |
 | DDM^2: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models| ––– | ICLR/ 2023 | [paper](https://arxiv.org/pdf/2302.03018) | [code](https://github.com/StanfordMIMI/DDM2) |
 | Uncertainty modelling in deep learning for safer neuroimage enhancement: Demonstration in diffusion MRI | ––– | NeuroImage/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1053811920308521) | ––– |
+| A low-cost and shielding-free ultra-low-field brain MRI scanner | ––– |  nature communications/ 2021 | [paper](https://www.nature.com/articles/s41467-021-27317-1) | ––– |
+| Bringing MRI to low- and middle-income countries: Directions, challenges and potential solutions | ––– |  NMR in Biomed/ 2023 | [paper](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.4992) | ––– |
+| Characterization of Portable Ultra-Low Field MRI Scanners for Multi-Center Structural Neuroimaging | ––– |  Hum Brain Mapp/ 2025 | [paper](https://pubmed.ncbi.nlm.nih.gov/40405769/) | ––– |
+| Pushing the limits of low-cost ultra-low-field MRI by dual-acquisition deep learning 3D superresolution  | ––– |  Magnetic Resonance in Medicine/ 2023 | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.29642) | ––– |
+| GAMBAS: Generalised-Hilbert Mamba for Super-resolution of Paediatric Ultra-Low-Field MRI | ––– |  arXiv/ 2025 | [paper](https://arxiv.org/abs/2504.04523) | ––– |
+| Ultra-Low-Field Paediatric MRI in Low- and Middle-Income Countries: Super-Resolution Using a Multi-Orientation U-Net | ––– |  Human Brain Mapping/ 2024 | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.70112) | ––– |
+| Efficient slice-to-volume registration using multi-scale estimates and super-resolution reconstruction| ––– |  MICCAI/ 2020 | [paper](https://www.springerprofessional.de/en/medical-image-computing-and-computer-assisted-intervention-micca/18442788?tocPage=1) | ––– |
 
 
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-
-
+| fficient slice-to-volume registration using multi-scale estimates and super-resolution reconstruction| ––– |  MICCAI/ 2020 | [paper](https://link.springer.com/book/10.1007/978-3-030-59719-1) | ––– |
+| fficient slice-to-volume registration using multi-scale estimates and super-resolution reconstruction| ––– |  MICCAI/ 2020 | [paper](https://link.springer.com/book/10.1007/978-3-030-59719-1) | ––– |
+| fficient slice-to-volume registration using multi-scale estimates and super-resolution reconstruction| ––– |  MICCAI/ 2020 | [paper](https://link.springer.com/book/10.1007/978-3-030-59719-1) | ––– |
 
 
 
@@ -218,8 +224,11 @@
 | Metrics that matter: Evaluating image quality metrics for medical image generation| ––– | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.07175) | ––– |
 | Depicting Beyond Scores: Advancing Image Quality Assessment Through Multi-modal Language Models| ––– | ECCV/ 2024 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-72970-6_15) | ––– |
 | Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models| ––– | NeurIPS/ 2024 | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/2847d43f17410c5beb25b2736c3ae778-Paper-Conference.pdf) | ––– |
+| Evaluation of epilepsy lesion visualisation enhancement in low-field MRI using image quality transfer: a preliminary investigation of clinical potential for applications in developing countries| ––– | Neuroradiology/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/39240363/) | ––– |
 
 
+| Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
+| Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
 | Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
 | Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
 
