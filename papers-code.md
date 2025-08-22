@@ -152,25 +152,23 @@
 | Fast and Reliable Score-Based Generative Model for Parallel MRI| FRSGM | IEEE TNNLS/ 2025 | [paper](https://ieeexplore.ieee.org/document/10325638) | [code](https://github.com/Houruizhi/FRSGM) |
 | Latent diffusion model-based MRI superresolution enhances mild cognitive impairment prognostication and Alzheimer's disease classification| ––– | NeuroImage/ 2024 | [paper](https://www.sciencedirect.com/science/article/pii/S1053811924001587) | ––– |
 | Latent diffusion for arbitrary zoom MRI super-resolution| ––– | Elsevier Expert Systems with Applications/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-
-
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| MRIFlow: Magnetic resonance image super-resolution based on normalizing flow and frequency prior | MRIFlow | Journal of Magnetic Resonance/ 203 | [paper](https://www.sciencedirect.com/science/article/pii/S109078072300112X) | ––– |
+| A Flow-based Truncated Denoising Diffusion Model for super-resolution Magnetic Resonance Spectroscopic Imaging| FTDDM  | Medical Image Analysis/ 2025 | [paper](https://www.sciencedirect.com/science/article/pii/S1361841524002834) | ––– |
+| PSRFlow: Probabilistic Super Resolution with Flow-Based Models for Scientific Data | PSRFlow | IEEE TVCG/ 2024 | [paper](https://ieeexplore.ieee.org/document/10309865) | ––– |
+| MRI Super-Resolution with GAN and 3D Multi-Level DenseNet: Smaller, Faster, and Better| mDCSRN-GAN | arXiv/ 2020 | [paper](https://arxiv.org/abs/2003.01217) | ––– |
+| Misalignment-Resistant Deep Unfolding Network for multi-modal MRI super-resolution and reconstruction| ––– | Knowledge-Based Systems/ 2024 | [paper](https://www.sciencedirect.com/science/article/pii/S0950705124005008) | ––– |
+| Synergizing frequency domain and texture-aware implicit module for MRI arbitrary-scale super-resolution| ––– | Biomedical Signal Processing and Control/ 2024 | [paper](https://www.sciencedirect.com/science/article/pii/S1746809424008188) | ––– |
+| An Arbitrary-Scale Super-Resolution Network for Multi-Contrast MRI With Permuted Cross-Attention| ––– | IEEE JBHI/ 2025 | [paper](https://ieeexplore.ieee.org/document/10916500) | [code](https://github.com/fangxiaojia0/An-Arbitrary-Scale-Super-Resolution-Network-for-Multi-Contrast-MRI-With-Permuted-Cross-Attention) |
+| NExpR: Neural Explicit Representation for fast arbitrary-scale medical image super-resolution| NExpR | Computers in Biology and Medicine/ 2025  | [paper](https://www.sciencedirect.com/science/article/pii/S0010482524014392) | [code](https://github.com/Calvin-Pang/NExpR) |
 
 
 
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
+| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 
 
 
@@ -178,10 +176,33 @@
 
 
 
-## MRI Super-Resolution Quality Assessment (In Progress.., will be sorted.., )
+## Image Quality Assessment (In Progress.. )
 | Title | Model | Venue / Year | Paper | Code |
 |---|:---:|---|---|:---:|
 | Exploring the impact of super-resolution deep learning on MR angiography image quality| ––– | Springer Advanced Neuroimaging/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/32832937/) | ––– |
+| The Perception-Distortion Tradeoff| ––– | IEEE CVPR/ 2018 | [paper](https://ieeexplore.ieee.org/document/8578750) | ––– |
+| Image quality assessment: from error visibility to structural similarity| SSIM | IEEE TIP/ 2004 | [paper](https://ieeexplore.ieee.org/document/1284395) | ––– |
+| Multiscale structural similarity for image quality assessment| ––– | IEEE ACSSC/ 2003 | [paper](https://ieeexplore.ieee.org/abstract/document/1292216) | ––– |
+| Image information and visual quality | VIF | IEEE TIP/ 2006 | [paper](https://ieeexplore.ieee.org/document/1576816) | ––– |
+| Clinical Assessment of Deep Learning–based Super-Resolution for 3D Volumetric Brain MRI | ––– | Radiology: Artificial IntelligenceVol/ 2022 | [paper](https://pubmed.ncbi.nlm.nih.gov/35391765/) | ––– |
+| Clinical evaluation of super-resolution for brain MRI images based on generative adversarial networks| ––– | Informatics in Medicine Unlocked/ 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S2352914822001721) | ––– |
+| No-Reference Image Quality Assessment of Magnetic Resonance images with multi-level and multi-model representations based on fusion of deep architectures| ––– | Engineering Applications of Artificial Intelligence/ 2023 | [paper](https://www.sciencedirect.com/science/article/pii/S0952197623004670) | ––– |
+| Data Quality Assessment for Super-Resolution Fetal Brain MR Imaging: A Retrospective 1.5 T Study| ––– | Journal of Magnetic Resonance Imaging/ 2021 | [paper](https://pubmed.ncbi.nlm.nih.gov/33949725/) | ––– |
+|Clinical Implementation of Sixfold-Accelerated Deep Learning Super-Resolution Knee MRI in Under 5 Minutes: Arthroscopy-Validated Diagnostic Performance| ––– |American journal of roentgenology/ 2025| [paper](https://documentsdelivered.com/source/064/472/064472344.php) | ––– |
+| Measuring Impact of Super-Resolution on Spinal Cord MRI Scans: Lesion Detection Sensitivity, Variability, and Clinical Impact| ––– | IEEE ISBI/ 2025 | [paper](https://ieeexplore.ieee.org/document/10981088) | ––– |
+| Automatic quality control in multi-centric fetal brain MRI super-resolution reconstruction| ––– | arXiv/ 2025 | [paper](https://arxiv.org/abs/2503.10156) | ––– |
+| Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
+| Metrics that matter: Evaluating image quality metrics for medical image generation| ––– | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.07175) | ––– |
+| Depicting Beyond Scores: Advancing Image Quality Assessment Through Multi-modal Language Models| ––– | ECCV/ 2024 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-72970-6_15) | ––– |
+| Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models| ––– | NeurIPS/ 2024 | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/2847d43f17410c5beb25b2736c3ae778-Paper-Conference.pdf) | ––– |
+
+
+| Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
+| Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
+| Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
+| Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
+
+
 
 
 ## Computational Imaging & Imaging Inverse Problems (In Progress.. )
@@ -210,15 +231,18 @@
 | Meta-Learning Multi-Scale Radiology Medical Image Super-Resolution | ––– | Computers, Materials & Continua/ 2023 | [paper](https://www.techscience.com/cmc/v75n2/52092/pdf) | ––– |
 | Arbitrary scale super-resolution diffusion model for brain MRI images | ASSRDM | Computers in Biology and Medicine/ 2024 | [paper](https://www.sciencedirect.com/science/article/pii/S0010482524000878) | ––– |
 | Denoising Diffusion Restoration Models | DDRM |NeurIPS/ 2025 | [paper](https://ddrm-ml.github.io/DDRM-paper.pdf) | [code](https://github.com/bahjat-kawar/ddrm) |
+| Diffusion Posterior Sampling for General Noisy Inverse Problems| ––– | ICLR/ 2023 | [paper](https://openreview.net/forum?id=OnD9zGAGT0k) | [code](https://github.com/DPS2022/diffusion-posterior-sampling) |
+| The Little Engine That Could: Regularization by Denoising (RED)| RED | arXiv/ 2017 | [paper](https://epubs.siam.org/doi/10.1137/16M1102884) | ––– |
+| Imaging With Equivariant Deep Learning: From unrolled network design to fully unsupervised learning| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10004796) | ––– |
+| Equivariant plug-and-play image reconstruction | EquivariantPnP | CVPR/ 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Terris_Equivariant_Plug-and-Play_Image_Reconstruction_CVPR_2024_paper.pdf) | [code](https://github.com/matthieutrs/EquivariantPnP) |
+| UNSURE: self-supervised learning with Unknown Noise level and Stein's Unbiased Risk Estimate| UNSURE | arXiv/ 2024 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
+| Noise2Noise: Learning Image Restoration without Clean Data| Noise2Noise | arXiv/ 2018 | [paper](https://arxiv.org/abs/1803.04189) | [code](https://github.com/NVlabs/noise2noise) |
+
+| Misalignment-Resistant Deep Unfolding Network for multi-modal MRI super-resolution and reconstruction| UNSURE | arXiv/ 2024 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
 
 
-| Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
-| Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
-| Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
-| Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
-| Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems| Diff-Unfolding | arXiv/ 2025 | [paper](https://arxiv.org/abs/2505.11393) | ––– |
-
-
+| UNSURE: self-supervised learning with Unknown Noise level and Stein's Unbiased Risk Estimate| UNSURE | arXiv/ 2024 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
+| UNSURE: self-supervised learning with Unknown Noise level and Stein's Unbiased Risk Estimate| UNSURE | arXiv/ 2024 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
 
 ## SVR
 
