@@ -7,7 +7,7 @@
 | [Deep learning-based magnetic resonance image super-resolution: a survey](https://link.springer.com/article/10.1007/s00521-024-09890-w) | Neural Comput. & Applications, 2024 |DL approaches for MRI SR|
 | [Brain MRI Image Super-Resolution Reconstruction: A Systematic Review](https://ui.adsabs.harvard.edu/abs/2024IEEEA..12o6347M/abstract) | IEEE Access, 2024 |Brain-focused MRI SR| 
 | [Deep learning for image enhancement and correction in magnetic resonance imaging—state-of-the-art and challenges](https://link.springer.com/article/10.1007/s10278-022-00721-9) | Journal of Digital Imaging, 2023 |SR + denoising/artifact removal| 
-| [Diffusion MRI with machine learning](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00353/124918) | Imaging Neuroscince, 2024 | One section on SR of dMRI.| 
+| [Diffusion MRI with machine learning](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00353/124918) | Imaging Neuroscince, 2024 | Review on dMRI with machine leanring; One section on SR| 
 
 
 
