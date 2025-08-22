@@ -30,7 +30,7 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
 - [Datasets](datasets.md)  
 - [Preprocessing Tools](tools-preprocessing.md)  
 - [Quality Assessment Tools](tools-quality-assessment.md)  
-- [Learning Resources]  
+- [Learning Resources](learning-resources.md)  
   - [Tutorials](tutorial-toolkit.md)  
   - [Talks](talks.md)  
   - [Courses](courses.md)  
