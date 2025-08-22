@@ -187,9 +187,9 @@
 | RED-PSM: Regularization by Denoising of Partially Separable Models for Dynamic Imaging| RED-PSM | CVPR/ 2020 | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Iskender_RED-PSM_Regularization_by_Denoising_of_Partially_Separable_Models_for_Dynamic_ICCV_2023_paper.pdf) | [code](https://github.com/berkiskender/RED-PSM) |
 | Self-Supervised Diffusion MRI Denoising via Iterative and Stable Refinement| Di-Fusion | arXiv/ 2025 | [paper](https://arxiv.org/abs/2501.13514) | [code](https://github.com/FouierL/Di-Fusion) |
 | DDM^2: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models| ––– | ICLR/ 2023 | [paper](https://arxiv.org/pdf/2302.03018) | [code](https://github.com/StanfordMIMI/DDM2) |
+| Uncertainty modelling in deep learning for safer neuroimage enhancement: Demonstration in diffusion MRI | ––– | NeuroImage/ 2021 | [paper](https://www.sciencedirect.com/science/article/pii/S1053811920308521) | ––– |
 
 
-| Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 | Super-resolution reconstruction of single anisotropic 3D MR images using residual convolutional neural network| ––– | Neurocomputing/ 2020 | [paper](https://www.sciencedirect.com/science/article/pii/S0925231219304771) | ––– |
 
@@ -260,9 +260,9 @@
 | Noise2Noise: Learning Image Restoration without Clean Data| Noise2Noise | arXiv/ 2018 | [paper](https://arxiv.org/abs/1803.04189) | [code](https://github.com/NVlabs/noise2noise) |
 | Denoising: a powerful building block for imaging, inverse problems and machine learning| Denoising | Philosophical Transactions on the Royal Society / 2025 | [paper]https://royalsocietypublishing.org/doi/10.1098/rsta.2024.0326) | ––– |
 | Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
+| Spectral Bayesian Uncertainty for Image Super-resolution| ––– | CVPR/ 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Spectral_Bayesian_Uncertainty_for_Image_Super-Resolution_CVPR_2023_paper.pdf) | ––– |
+| Equivariant Bootstrapping for Uncertainty Quantification in Imaging Inverse Problems| ––– | Proceedings of Machine Learning Research/ 2019 | [paper](https://proceedings.mlr.press/v238/pereyra24a/pereyra24a.pdf) | [code](https://github.com/tachella/equivariant_bootstrap) |
 
-| Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
-| Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
 | Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
 | Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
 | Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
