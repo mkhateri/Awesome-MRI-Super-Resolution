@@ -34,6 +34,8 @@
 | [Image Super-Resolution: A Comprehensive Review—Recent Trends, Challenges and Applications](https://doi.org/10.1016/j.inffus.2022.10.007) | Information Fusion, 2023 |
 | [Hitchhiker’s Guide to Super-Resolution: Introduction and Recent Advances](https://doi.org/10.1109/TPAMI.2023.3243794) ([arXiv](https://arxiv.org/abs/2209.13131)) | IEEE TPAMI, 2023 |
 | [Generative Adversarial Networks for Image Super-Resolution: A Survey](https://arxiv.org/abs/2204.13620) | arXiv, 2022 |
+| [Arbitrary-scale Super-resolution via Deep Learning: A Comprehensive Survey](https://www.sciencedirect.com/science/article/pii/S1566253523003317) | Information Fusion, 2024 |
+
 
 ### Diffusion Models & Super-Resolution
 | Paper | Venue / Year |
