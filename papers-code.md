@@ -197,12 +197,6 @@
 | Efficient slice-to-volume registration using multi-scale estimates and super-resolution reconstruction| ––– |  MICCAI/ 2020 | [paper](https://www.springerprofessional.de/en/medical-image-computing-and-computer-assisted-intervention-micca/18442788?tocPage=1) | ––– |
 
 
-| fficient slice-to-volume registration using multi-scale estimates and super-resolution reconstruction| ––– |  MICCAI/ 2020 | [paper](https://link.springer.com/book/10.1007/978-3-030-59719-1) | ––– |
-| fficient slice-to-volume registration using multi-scale estimates and super-resolution reconstruction| ––– |  MICCAI/ 2020 | [paper](https://link.springer.com/book/10.1007/978-3-030-59719-1) | ––– |
-| fficient slice-to-volume registration using multi-scale estimates and super-resolution reconstruction| ––– |  MICCAI/ 2020 | [paper](https://link.springer.com/book/10.1007/978-3-030-59719-1) | ––– |
-
-
-
 
 
 ## Image Quality Assessment (In Progress.. )
@@ -225,12 +219,6 @@
 | Depicting Beyond Scores: Advancing Image Quality Assessment Through Multi-modal Language Models| ––– | ECCV/ 2024 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-72970-6_15) | ––– |
 | Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models| ––– | NeurIPS/ 2024 | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/2847d43f17410c5beb25b2736c3ae778-Paper-Conference.pdf) | ––– |
 | Evaluation of epilepsy lesion visualisation enhancement in low-field MRI using image quality transfer: a preliminary investigation of clinical potential for applications in developing countries| ––– | Neuroradiology/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/39240363/) | ––– |
-
-
-| Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
-| Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
-| Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
-| Image Quality Assessment for Magnetic Resonance Imaging| ––– | IEEE Access/ 2023 | [paper](https://ieeexplore.ieee.org/document/10040654) | ––– |
 
 
 
@@ -272,11 +260,10 @@
 | Spectral Bayesian Uncertainty for Image Super-resolution| ––– | CVPR/ 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Spectral_Bayesian_Uncertainty_for_Image_Super-Resolution_CVPR_2023_paper.pdf) | ––– |
 | Equivariant Bootstrapping for Uncertainty Quantification in Imaging Inverse Problems| ––– | Proceedings of Machine Learning Research/ 2019 | [paper](https://proceedings.mlr.press/v238/pereyra24a/pereyra24a.pdf) | [code](https://github.com/tachella/equivariant_bootstrap) |
 
-| Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
-| Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
-| Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
-| Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
 
+
+
+<!-- 
 ## SVR
 
 ### Slice-to-Volume Reconstruction (SVR) Toolkits
@@ -288,8 +275,8 @@
 | **NeSVoR** | Deep learning–based SVR using implicit modeling | [https://github.com/daviddmc/NeSVoR](https://github.com/daviddmc/NeSVoR) |
 | **NiftyMIC** | Motion-corrected fetal brain segmentation + SVR | [https://github.com/gift-surg/NiftyMIC](https://github.com/gift-surg/NiftyMIC) |
 | **PAK-SRR** | Transformer-based patch-wise SVR | [https://github.com/sj-huang/PAK-SRR](https://github.com/sj-huang/PAK-SRR) |
+-->
 
 
-2MIRTK: https://github.com/BioMedIA/MIRTK
-3IRTK: https://github.com/BioMedIA/IRTK
-4SVRTK: https://github.com/SVRTK/SVRTK
+
+
