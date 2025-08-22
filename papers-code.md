@@ -258,7 +258,7 @@
 | Equivariant plug-and-play image reconstruction | EquivariantPnP | CVPR/ 2024 | [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Terris_Equivariant_Plug-and-Play_Image_Reconstruction_CVPR_2024_paper.pdf) | [code](https://github.com/matthieutrs/EquivariantPnP) |
 | UNSURE: self-supervised learning with Unknown Noise level and Stein's Unbiased Risk Estimate| UNSURE | arXiv/ 2024 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
 | Noise2Noise: Learning Image Restoration without Clean Data| Noise2Noise | arXiv/ 2018 | [paper](https://arxiv.org/abs/1803.04189) | [code](https://github.com/NVlabs/noise2noise) |
-| Denoising: a powerful building block for imaging, inverse problems and machine learning| Denoising | Philosophical Transactions on the Royal Society / 2025 | [paper]https://royalsocietypublishing.org/doi/10.1098/rsta.2024.0326) | ––– |
+| Denoising: a powerful building block for imaging, inverse problems and machine learning| Denoising | Philosophical Transactions on the Royal Society / 2025 | [paper](https://royalsocietypublishing.org/doi/10.1098/rsta.2024.0326) | ––– |
 | Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
 | Spectral Bayesian Uncertainty for Image Super-resolution| ––– | CVPR/ 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Spectral_Bayesian_Uncertainty_for_Image_Super-Resolution_CVPR_2023_paper.pdf) | ––– |
 | Equivariant Bootstrapping for Uncertainty Quantification in Imaging Inverse Problems| ––– | Proceedings of Machine Learning Research/ 2019 | [paper](https://proceedings.mlr.press/v238/pereyra24a/pereyra24a.pdf) | [code](https://github.com/tachella/equivariant_bootstrap) |
