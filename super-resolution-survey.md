@@ -1,6 +1,17 @@
-## 📚 Surveys & Reviews on Super-Resolution (MRI, General, and Medical)
+<!-- Compact contents at the very top -->
+<a id="top"></a>
 
-### MRI Super-Resolution
+## Contents
+- [MRI Super-Resolution Survey & Review](#mri-sr)
+- [Medical Image Super-Resolution Survey/ Review](#medical-sr)
+- [Computer Vision Super-Resolution Survey/ Review](#cv-sr)
+- [Diffusion Models and Super-Resolution Survey/ Review](#dm-sr)
+
+
+---
+
+<a id="mri-sr"></a>
+## MRI Super-Resolution Survey & Review
 | Paper | Venue / Year | Description|
 |---|---|---|
 | [Super-Resolution in Magnetic Resonance Imaging: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/cmr.a.21249) | Concepts Magn. Reson. A, 2012 | Early Super-Resolution methods in MRI|
@@ -11,8 +22,8 @@
 
 
 
-
-### Medical Image Super-Resolution
+<a id="medical-sr"></a>
+## Medical Image Super-Resolution
 | Paper | Venue / Year |
 |---|---|
 | [Medical Image Super-Resolution for Smart Healthcare Applications: A Comprehensive Survey](https://www.sciencedirect.com/science/article/pii/S1566253523003913) | Information Fusion, 2023/24 |
@@ -23,9 +34,8 @@
 | [Deep learning based unpaired image-to-image translation applications for medical physics: a systematic review](https://www.sciencedirect.com/science/article/pii/S1361841523003067) | Physics in Medicine & Biology,, 2023 |
 
 
-
-
-### General Super-Resolution
+<a id="cv-sr"></a>
+## Computer Vision Super-Resolution
 | Paper | Venue / Year |
 |---|---|
 | [Deep Learning for Image Super-Resolution: A Survey](https://ieeexplore.ieee.org/abstract/document/9044873) | IEEE TPAMI, 2020 |
@@ -40,8 +50,8 @@
 | [A Deep Journey into Super-resolution: A survey](https://arxiv.org/abs/1904.07523) | arXiv,, 2020 |
 
 
-
-### Diffusion Models & Super-Resolution
+<a id="dm-sr"></a>
+## Diffusion Models & Super-Resolution
 | Paper | Venue / Year |
 |---|---|
 | [Diffusion Models, Image Super-Resolution and Everything: A Survey](https://ieeexplore.ieee.org/abstract/document/10737883) | IEEE TNNLS, 2024 |
