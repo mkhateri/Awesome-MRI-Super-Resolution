@@ -3,7 +3,7 @@
 
 ## Contents
 - [MRI Super-Resolution (Methods & Papers)](#mri-sr)
-- [MRI SR Assessment (Metrics & Studies)](#mri-sr-assessment)
+- [MRI Super-Resolution Assessment (Metrics & Studies)](#mri-sr-assessment)
 - [Computational Imaging & Inverse Problems (Foundations & Methods)](#ci-inverse)
 
 ---
@@ -213,7 +213,7 @@
 ---
 
 <a id="mri-sr-assessment"></a>
-## MRI SR Assessment (Metrics & Studies)
+## MRI Super-Resolution Assessment (Metrics & Studies)
 | Title | Model | Venue / Year | Paper | Code |
 |---|:---:|---|---|:---:|
 | Exploring the impact of super-resolution deep learning on MR angiography image quality| ––– | Springer Advanced Neuroimaging/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/32832937/) | ––– |
