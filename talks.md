@@ -54,6 +54,8 @@
 | Inpainting using Deep Learning: from theory to practice |Michał Kudelski (TCL) | [Link](https://www.youtube.com/watch?v=kbwfYMlVCps)| 
 | Deep learning for medical image reconstruction, super-resolution, classification, and segmentation | Daniel Rueckert  (Technical University of Munich and Imperial College London) | [Link](https://www.youtube.com/watch?v=-0gmXn0M7bg) |
 
+[↑ back to top](#top)
+
 
 <a id="webinar-seminar-workshop-computational-imaging"></a>
 ## Webinar / Seminar / Workshop Series on Computational Imaging
@@ -64,6 +66,8 @@
 | Warren Grundfest Lectures in Computational Imaging | UCLA & Caltech | Distinguished lecture series highlighting recent advances in computational imaging. | [Link](https://visual.ee.ucla.edu/web_series/) |
 | Purdue Computational Imaging Seminar | Purdue University | Academic seminar series showcasing cutting-edge research in computational imaging. | [Link](https://engineering.purdue.edu/ChanGroup/comp_imaging_seminar.html?utm_source=chatgpt.com) |
 | Computational Imaging Workshop | IMSI Institute | Workshop on the theory, methods, and applications of computational imaging. | [Link](https://www.imsi.institute/activities/computational-imaging/?utm_source=chatgpt.com) |
+
+[↑ back to top](#top)
 
 
 <a id="image-synthesis"></a>
@@ -78,6 +82,9 @@
 | MICCAI Industrial Talk: Open-source Foundation Models for 3D Medical Image Segmentation & Generation | NVIDIA | [Link](https://www.youtube.com/watch?v=8-DxKogfBzs) | 
 | Generative AI with MONAI| MONAI | [Link](https://www.youtube.com/watch?v=EQ-o60ljrmg) | 
 
+[↑ back to top](#top)
+
+
 <a id="mri"></a>
 ## MRI
 | Title | Speaker | Link |
@@ -86,6 +93,8 @@
 | Machine learning meets medical imaging: From signals to clinically useful information |  Daniel Rueckert  (Technical University of Munich and Imperial College London) | [Link](https://www.youtube.com/watch?v=7vtpWbrVdDY) |    
 | Computational MRI in the deep learning era with applications to FMRI |  (Instituto de Radiologia) | [Link](https://www.youtube.com/watch?v=7Jy2LgsRk-E) |    
 | Functional Imaging of the Human Brain: A Window into the Organization of the Human Mind | Nancy Kanwisher (MIT) | [Link](https://cbmm.mit.edu/video/functional-imaging-human-brain-window-organization-human-mind-11825) |    
+
+[↑ back to top](#top)
 
 
 
