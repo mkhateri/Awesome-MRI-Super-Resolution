@@ -10,29 +10,6 @@
 
 <a id="mri-sr"></a>
 ## MRI Super-Resolution (Methods & Papers)
-[↑ back to top](#top)
-
-<!-- your long table/list goes here -->
-
----
-
-<a id="mri-sr-assessment"></a>
-## MRI SR Assessment (Metrics & Studies)
-[↑ back to top](#top)
-
-<!-- your long table/list goes here -->
-
----
-
-<a id="ci-inverse"></a>
-## Computational Imaging & Inverse Problems (Foundations & Methods)
-[↑ back to top](#top)
-
-<!-- your long table/list goes here -->
-
-
-
-### MRI Super-Resolution
 | Title | Model | Venue / Year | Paper | Code |
 |---|:---:|---|---|:---:|
 | An Arbitrary Scale Super-Resolution Approach for 3D MR Images via Implicit Neural Representation | ArSSR| IEEE JBHI / 2022 | [paper](https://ieeexplore.ieee.org/document/9954892)| [code](https://github.com/iwuqing/ArSSR) |
@@ -230,9 +207,15 @@
 | Efficient slice-to-volume registration using multi-scale estimates and super-resolution reconstruction| ––– |  MICCAI/ 2020 | [paper](https://www.springerprofessional.de/en/medical-image-computing-and-computer-assisted-intervention-micca/18442788?tocPage=1) | ––– |
 
 
+[↑ back to top](#top)
 
+<!-- your long table/list goes here -->
 
-### MRI Super-Resolution Assessment  
+---
+
+<a id="mri-sr-assessment"></a>
+## MRI SR Assessment (Metrics & Studies)
+[↑ back to top](#top)
 | Title | Model | Venue / Year | Paper | Code |
 |---|:---:|---|---|:---:|
 | Exploring the impact of super-resolution deep learning on MR angiography image quality| ––– | Springer Advanced Neuroimaging/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/32832937/) | ––– |
@@ -256,7 +239,11 @@
 
 
 
-### Computational Imaging & Imaging Inverse Problems
+---
+
+<a id="ci-inverse"></a>
+## Computational Imaging & Inverse Problems (Foundations & Methods)
+[↑ back to top](#top)
 | Title | Model | Venue / Year | Paper | Code |
 |---|:---:|---|---|:---:|
 | Generative Models for Inverse Imaging Problems: From mathematical foundations to physics-driven applications| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10004774) | ––– |
@@ -292,6 +279,15 @@
 | Deblurring for spiral real-time MRI using convolutional neural networks| ––– | Wiley Mag Res in Med/ 2019 | [paper](https://arxiv.org/abs/2409.01985) | ––– |
 | Spectral Bayesian Uncertainty for Image Super-resolution| ––– | CVPR/ 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Spectral_Bayesian_Uncertainty_for_Image_Super-Resolution_CVPR_2023_paper.pdf) | ––– |
 | Equivariant Bootstrapping for Uncertainty Quantification in Imaging Inverse Problems| ––– | Proceedings of Machine Learning Research/ 2019 | [paper](https://proceedings.mlr.press/v238/pereyra24a/pereyra24a.pdf) | [code](https://github.com/tachella/equivariant_bootstrap) |
+
+
+
+
+
+
+
+
+
 
 
 
