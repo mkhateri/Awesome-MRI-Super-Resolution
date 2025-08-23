@@ -1,5 +1,6 @@
+## 📚 MRI Super-Resolution (MRI, General, and Medical)
 
-## MRI Super-Resolution
+### MRI Super-Resolution
 | Title | Model | Venue / Year | Paper | Code |
 |---|:---:|---|---|:---:|
 | An Arbitrary Scale Super-Resolution Approach for 3D MR Images via Implicit Neural Representation | ArSSR| IEEE JBHI / 2022 | [paper](https://ieeexplore.ieee.org/document/9954892)| [code](https://github.com/iwuqing/ArSSR) |
@@ -199,7 +200,7 @@
 
 
 
-## MRI Super-Resolution Assessment
+### MRI Super-Resolution Assessment
 | Title | Model | Venue / Year | Paper | Code |
 |---|:---:|---|---|:---:|
 | Exploring the impact of super-resolution deep learning on MR angiography image quality| ––– | Springer Advanced Neuroimaging/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/32832937/) | ––– |
@@ -223,7 +224,7 @@
 
 
 
-## Computational Imaging & Imaging Inverse Problems
+### Computational Imaging & Imaging Inverse Problems
 | Title | Model | Venue / Year | Paper | Code |
 |---|:---:|---|---|:---:|
 | Generative Models for Inverse Imaging Problems: From mathematical foundations to physics-driven applications| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10004774) | ––– |
@@ -264,9 +265,9 @@
 
 
 <!-- 
-## SVR
+### SVR
 
-### Slice-to-Volume Reconstruction (SVR) Toolkits
+##### Slice-to-Volume Reconstruction (SVR) Toolkits
 
 | Toolkit | Description | code |
 |---|---|---|
