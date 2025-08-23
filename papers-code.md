@@ -1,4 +1,9 @@
-## 📚 MRI Super-Resolution (MRI, General, and Medical)
+## MRI Super-Resolution (Methods & Papers)
+
+## MRI SR Assessment (Metrics & Studies)
+
+## Computational Imaging & Inverse Problems (Foundations & Methods)
+
 
 ### MRI Super-Resolution
 | Title | Model | Venue / Year | Paper | Code |
@@ -200,7 +205,7 @@
 
 
 
-### MRI Super-Resolution Assessment
+### MRI Super-Resolution Assessment  
 | Title | Model | Venue / Year | Paper | Code |
 |---|:---:|---|---|:---:|
 | Exploring the impact of super-resolution deep learning on MR angiography image quality| ––– | Springer Advanced Neuroimaging/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/32832937/) | ––– |
