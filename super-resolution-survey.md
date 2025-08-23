@@ -6,7 +6,6 @@
 - [Medical Image Super-Resolution Survey/ Review](#medical-sr)
 - [Computer Vision Super-Resolution Survey/ Review](#cv-sr)
 - [Diffusion Models and Super-Resolution Survey/ Review](#dm-sr)
-[↑ back to top](#top)
 
 ---
 
@@ -20,6 +19,7 @@
 | [Brain MRI Image Super-Resolution Reconstruction: A Systematic Review](https://ui.adsabs.harvard.edu/abs/2024IEEEA..12o6347M/abstract) | IEEE Access, 2024 |Brain MRI Super-Resolution| 
 | [Deep learning for image enhancement and correction in magnetic resonance imaging—state-of-the-art and challenges](https://link.springer.com/article/10.1007/s10278-022-00721-9) | Journal of Digital Imaging, 2023 | MRI enhancement review incl. Super-Resolution| 
 | [Diffusion MRI with machine learning](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00353/124918) | Imaging Neuroscince, 2024 | dMRI with Machine Learning review incl. Super-Resolution| 
+
 [↑ back to top](#top)
 
 
@@ -50,6 +50,7 @@
 | [Generative Adversarial Networks for Image Super-Resolution: A Survey](https://arxiv.org/abs/2204.13620) | arXiv, 2022 |
 | [Arbitrary-scale Super-resolution via Deep Learning: A Comprehensive Survey](https://www.sciencedirect.com/science/article/pii/S1566253523003317) | Information Fusion, 2024 |
 | [A Deep Journey into Super-resolution: A survey](https://arxiv.org/abs/1904.07523) | arXiv,, 2020 |
+
 [↑ back to top](#top)
 
 
@@ -60,6 +61,7 @@
 | [Diffusion Models, Image Super-Resolution and Everything: A Survey](https://ieeexplore.ieee.org/abstract/document/10737883) | IEEE TNNLS, 2024 |
 | [Diffusion Models for Image Super-Resolution: State-of-the-Art and Future Directions](https://doi.org/10.1016/j.neucom.2024.128911) | Neurocomputing, 2025 |
 | [A Survey on Diffusion Models for Inverse Problems](https://arxiv.org/abs/2410.00083) | arxiv, 2025 |
+
 [↑ back to top](#top)
 
 
