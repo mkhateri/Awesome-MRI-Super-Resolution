@@ -241,7 +241,6 @@
 
 <a id="ci-inverse"></a>
 ## Computational Imaging & Inverse Problems (Foundations & Methods)
-[↑ back to top](#top)
 | Title | Model | Venue / Year | Paper | Code |
 |---|:---:|---|---|:---:|
 | Generative Models for Inverse Imaging Problems: From mathematical foundations to physics-driven applications| ––– | IEEE Signal Processing Magazine/ 2023 | [paper](https://ieeexplore.ieee.org/document/10004774) | ––– |
