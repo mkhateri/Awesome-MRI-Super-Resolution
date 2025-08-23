@@ -1,6 +1,15 @@
-## Image Quality Assessment
+<!-- Compact contents at the very top -->
+<a id="top"></a>
 
-### Full-Reference Metrics
+## Contents
+- [Full-Reference Metrics](#Full-Reference-Metrics)
+- [No-Reference Metrics](#No-Reference-Metrics)
+- [Downstream Task Metrics](#Downstream-Task-Metrics)
+
+---
+
+<a id="Full-Reference-Metrics"></a>
+## Full-Reference Metrics
 | Metric | Reference | Reliable Implementations |
 |:---:|---|---|
 | **PSNR** | — | [scikit-image](https://scikit-image.org/docs/stable/api/skimage.metrics.html#skimage.metrics.peak_signal_noise_ratio) · [TorchMetrics](https://lightning.ai/docs/torchmetrics/stable/image/peak_signal_noise_ratio.html) · [MONAI](https://docs.monai.io/en/stable/metrics.html#monai.metrics.image.psnr.PSNRMetric) |
@@ -9,7 +18,9 @@
 | **VIF** | [Sheikh & Bovik, 2006](https://ieeexplore.ieee.org/document/1576816) | [PIQ](https://github.com/photosynthesis-team/piq) |
 | **LPIPS** | [Zhang et al., 2018](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8578166) | [Official](https://github.com/richzhang/PerceptualSimilarity) · [PIQ](https://github.com/photosynthesis-team/piq) |
 
-### No-Reference Metrics
+
+<a id="No-Reference-Metrics"></a>
+## No-Reference Metrics
 | Metric | Reference | Implementations |
 |:---:|---|---|
 | **NIQE** | [Mittal et al., 2013](https://ieeexplore.ieee.org/document/6353522) | [PIQ](https://github.com/photosynthesis-team/piq) |
@@ -18,8 +29,8 @@
 
 ---
 
+<a id="Downstream-Task-Metrics"></a>
 ## Downstream Task Metrics
-
 | Metric | Task | Reference | Implementations |
 |:---:|:---:|---|---|
 | **Dice (DSC)** | Segmentation | [Taha & Hanbury, 2015][taha15] | [MONAI][monai-metrics] |
