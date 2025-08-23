@@ -8,7 +8,7 @@
 | **SSIM** | [Wang et al., 2004](https://ieeexplore.ieee.org/document/1284395) | [scikit-image](https://scikit-image.org/docs/stable/api/skimage.metrics.html#skimage.metrics.structural_similarity) · [TorchMetrics](https://lightning.ai/docs/torchmetrics/stable/image/structural_similarity.html) · [PIQ](https://github.com/photosynthesis-team/piq) · [MONAI](https://docs.monai.io/en/stable/metrics.html#monai.metrics.image.ssim.SSIMMetric) |
 | **MS-SSIM** | [Wang et al., 2003](https://ieeexplore.ieee.org/document/1292216) | [TorchMetrics](https://lightning.ai/docs/torchmetrics/stable/image/multiscale_structural_similarity.html) · [PIQ](https://github.com/photosynthesis-team/piq) |
 | **VIF** | [Sheikh & Bovik, 2006](https://ieeexplore.ieee.org/document/1576816) | [PIQ](https://github.com/photosynthesis-team/piq) |
-| **LPIPS** | [Zhang et al., 2018](https://arxiv.org/abs/1801.03924) | [Official (PerceptualSimilarity)](https://github.com/richzhang/PerceptualSimilarity) · [PIQ](https://github.com/photosynthesis-team/piq) |
+| **LPIPS** | [Zhang et al., 2018](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8578166) | [Official (PerceptualSimilarity)](https://github.com/richzhang/PerceptualSimilarity) · [PIQ](https://github.com/photosynthesis-team/piq) |
 
 ### No-reference Metrics
 | Metric | Paper (link) | Code |
