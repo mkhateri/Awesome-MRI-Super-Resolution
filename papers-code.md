@@ -206,7 +206,6 @@
 | Ultra-Low-Field Paediatric MRI in Low- and Middle-Income Countries: Super-Resolution Using a Multi-Orientation U-Net | ––– |  Human Brain Mapping/ 2024 | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.70112) | ––– |
 | Efficient slice-to-volume registration using multi-scale estimates and super-resolution reconstruction| ––– |  MICCAI/ 2020 | [paper](https://www.springerprofessional.de/en/medical-image-computing-and-computer-assisted-intervention-micca/18442788?tocPage=1) | ––– |
 
-
 [↑ back to top](#top)
 
 <!-- your long table/list goes here -->
@@ -215,7 +214,6 @@
 
 <a id="mri-sr-assessment"></a>
 ## MRI SR Assessment (Metrics & Studies)
-[↑ back to top](#top)
 | Title | Model | Venue / Year | Paper | Code |
 |---|:---:|---|---|:---:|
 | Exploring the impact of super-resolution deep learning on MR angiography image quality| ––– | Springer Advanced Neuroimaging/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/32832937/) | ––– |
@@ -237,7 +235,7 @@
 | Evaluation of epilepsy lesion visualisation enhancement in low-field MRI using image quality transfer: a preliminary investigation of clinical potential for applications in developing countries| ––– | Neuroradiology/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/39240363/) | ––– |
 | The Unreasonable Effectiveness of Deep Features as a Perceptual Metric| LPIPS | CVPR/ 2018 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8578166) | ––– |
 
-
+[↑ back to top](#top)
 
 ---
 
@@ -280,7 +278,7 @@
 | Spectral Bayesian Uncertainty for Image Super-resolution| ––– | CVPR/ 2023 | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Spectral_Bayesian_Uncertainty_for_Image_Super-Resolution_CVPR_2023_paper.pdf) | ––– |
 | Equivariant Bootstrapping for Uncertainty Quantification in Imaging Inverse Problems| ––– | Proceedings of Machine Learning Research/ 2019 | [paper](https://proceedings.mlr.press/v238/pereyra24a/pereyra24a.pdf) | [code](https://github.com/tachella/equivariant_bootstrap) |
 
-
+[↑ back to top](#top)
 
 
 
