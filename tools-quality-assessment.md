@@ -32,7 +32,7 @@
 <a id="Downstream-Task-Metrics"></a>
 ## Downstream Task Metrics
 | Metric | Task | Reference | Implementations |
-|:---:|:---:|---|---|
+|:---:|:---:|---|:---:|
 | **Dice (DSC)** | Segmentation | [Taha & Hanbury, 2015][taha15] | [MONAI][monai-metrics] |
 | **Jaccard / IoU** | Segmentation | [Taha & Hanbury, 2015][taha15] | [MONAI][monai-metrics] |
 | **Hausdorff (HD95)** | Segmentation | [Huttenlocher et al., 1993][hutten93] | [MONAI][monai-metrics] |
