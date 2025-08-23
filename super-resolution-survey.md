@@ -1,6 +1,5 @@
 <!-- Compact contents at the very top -->
 <a id="top"></a>
-
 ## Contents
 - [MRI Super-Resolution Survey & Review](#mri-sr)
 - [Medical Image Super-Resolution Survey/ Review](#medical-sr)
@@ -10,7 +9,6 @@
 ---
 
 <a id="mri-sr"></a>
-
 ## MRI Super-Resolution Survey & Review
 | Paper | Venue / Year | Description|
 |---|---|---|
