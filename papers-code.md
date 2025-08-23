@@ -1,8 +1,35 @@
+<!-- Compact contents at the very top -->
+<a id="top"></a>
+
+## Contents
+- [MRI Super-Resolution (Methods & Papers)](#mri-sr)
+- [MRI SR Assessment (Metrics & Studies)](#mri-sr-assessment)
+- [Computational Imaging & Inverse Problems (Foundations & Methods)](#ci-inverse)
+
+---
+
+<a id="mri-sr"></a>
 ## MRI Super-Resolution (Methods & Papers)
+[↑ back to top](#top)
 
+<!-- your long table/list goes here -->
+
+---
+
+<a id="mri-sr-assessment"></a>
 ## MRI SR Assessment (Metrics & Studies)
+[↑ back to top](#top)
 
+<!-- your long table/list goes here -->
+
+---
+
+<a id="ci-inverse"></a>
 ## Computational Imaging & Inverse Problems (Foundations & Methods)
+[↑ back to top](#top)
+
+<!-- your long table/list goes here -->
+
 
 
 ### MRI Super-Resolution
