@@ -1,7 +1,7 @@
 <!-- Compact contents at the very top -->
 <a id="top"></a>
 ## Contents
-- [MRI Super-Resolution Survey & Review](#mri-sr)
+- [MRI Super-Resolution Survey/ Review](#mri-sr)
 - [Medical Image Super-Resolution Survey/ Review](#medical-sr)
 - [Computer Vision Super-Resolution Survey/ Review](#cv-sr)
 - [Diffusion Models and Super-Resolution Survey/ Review](#dm-sr)
