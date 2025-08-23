@@ -1,5 +1,18 @@
-## Talks — Imaging Inverse Problems & Computational Imaging
+<!-- Compact contents at the very top -->
+<a id="top"></a>
 
+## Contents
+- [Imaging Inverse Problems & Computational Imaging)](#imaging-inv-comp)
+- [Image Restoration & Quality Assessment](#restoration-quality-assessment)
+- [Webinar / Seminar / Workshop on computational Imaging](#webinar-seminar-workshop-computational-imaging)
+- [Image Synthesis](#image-synthesis)
+- [MRI](#mri)
+
+
+---
+
+<a id="imaging-inv-comp"></a>
+## Imaging Inverse Problems & Computational Imaging
 | Title | Speaker | Link |
 |---|---|---|
 | Denoising as a Building Block for Imaging, Inverse Problems, and ML | Peyman Milanfar (Google)| [Link](https://www.youtube.com/watch?v=v4lVSKMn4zE) |
@@ -24,8 +37,8 @@
 |Continuous Signal Processing using Implicit Neural Representation | Kyong Hwan Jin (Korea university)| [Link](https://www.imsi.institute/videos/continuous-signal-processing-using-implicit-neural-representation/) |
 
 
-## Talks — Image Restoration & Quality Assessment
-
+<a id="restoration-quality-assessment"></a>
+## Image Restoration & Quality Assessment
 | Title | Speaker | Link |
 |---|---|---|
 | Image Super-Resolution via Iterative Refinement | Google (Brain Team) | [Link](https://www.youtube.com/watch?v=DJpjPVksc1A)| 
@@ -42,15 +55,8 @@
 | Deep learning for medical image reconstruction, super-resolution, classification, and segmentation | Daniel Rueckert  (Technical University of Munich and Imperial College London) | [Link](https://www.youtube.com/watch?v=-0gmXn0M7bg) |
 
 
-
-
-
-
-
-
-
+<a id="webinar-seminar-workshop-computational-imaging"></a>
 ## Webinar / Seminar / Workshop Series on Computational Imaging
-
 | Title | Organizer | Description | Link |
 |---|---|---|---|
 | Computational Imaging Webinar Series | IEEE SPS | A recurring webinar series featuring leading researchers in computational imaging. | [Link](https://sites.google.com/view/sps-space) |
@@ -60,8 +66,8 @@
 | Computational Imaging Workshop | IMSI Institute | Workshop on the theory, methods, and applications of computational imaging. | [Link](https://www.imsi.institute/activities/computational-imaging/?utm_source=chatgpt.com) |
 
 
-
-## Talks — Image Synthesis
+<a id="image-synthesis"></a>
+## Image Synthesis
 | Title | Speaker | Link |
 |---|---|---|
 | Data replication in medical synthetic image generation using diffusion models | Vishal Patel (Johns Hopkins University) |  [Link](https://www.youtube.com/watch?v=w9_Aet98_OM) |
@@ -72,8 +78,8 @@
 | MICCAI Industrial Talk: Open-source Foundation Models for 3D Medical Image Segmentation & Generation | NVIDIA | [Link](https://www.youtube.com/watch?v=8-DxKogfBzs) | 
 | Generative AI with MONAI| MONAI | [Link](https://www.youtube.com/watch?v=EQ-o60ljrmg) | 
 
-
-## Talks — MRI
+<a id="mri"></a>
+## MRI
 | Title | Speaker | Link |
 |---|---|---|
 | New Horizons in MRI|  Michael Lustig (UC Berkeley) | [Link](https://www.youtube.com/watch?v=bd0PJ1qDwuE) |    
