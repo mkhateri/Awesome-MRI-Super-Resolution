@@ -36,6 +36,8 @@
 |Physics-inspired imaging principles for the benefit of computer vision | Dmitry Dylov (Skoltech)| [Link](https://www.youtube.com/watch?v=aKfyuCL4wXY) |
 |Continuous Signal Processing using Implicit Neural Representation | Kyong Hwan Jin (Korea university)| [Link](https://www.imsi.institute/videos/continuous-signal-processing-using-implicit-neural-representation/) |
 
+[↑ back to top](#top)
+
 
 <a id="restoration-quality-assessment"></a>
 ## Image Restoration & Quality Assessment
