@@ -2,7 +2,7 @@
 <a id="top"></a>
 
 ## Contents
-- [Imaging Inverse Problems & Computational Imaging)](#imaging-inv-comp)
+- [Imaging Inverse Problems & Computational Imaging](#imaging-inv-comp)
 - [Image Restoration & Quality Assessment](#restoration-quality-assessment)
 - [Webinar / Seminar / Workshop Series on Computational Imaging](#webinar-seminar-workshop-computational-imaging)
 - [Image Synthesis](#image-synthesis)
