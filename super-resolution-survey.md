@@ -14,7 +14,7 @@
 |---|---|---|
 | [Super-Resolution in Magnetic Resonance Imaging: A Review](https://onlinelibrary.wiley.com/doi/full/10.1002/cmr.a.21249) | Concepts Magn. Reson. A, 2012 | Early Super-Resolution methods in MRI|
 | [Deep learning-based magnetic resonance image super-resolution: a survey](https://link.springer.com/article/10.1007/s00521-024-09890-w) | Neural Comput. & Applications, 2024 | DL-based MRI Super-Resolution|
-| [Brain MRI Image Super-Resolution Reconstruction: A Systematic Review](https://ui.adsabs.harvard.edu/abs/2024IEEEA..12o6347M/abstract) | IEEE Access, 2024 |Brain MRI Super-Resolution| 
+| [Brain MRI Image Super-Resolution Reconstruction: A Systematic Review](https://ieeexplore.ieee.org/document/10714352) | IEEE Access, 2024 |Brain MRI Super-Resolution| 
 | [Deep learning for image enhancement and correction in magnetic resonance imaging—state-of-the-art and challenges](https://link.springer.com/article/10.1007/s10278-022-00721-9) | Journal of Digital Imaging, 2023 | MRI enhancement review incl. Super-Resolution| 
 | [Diffusion MRI with machine learning](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00353/124918) | Imaging Neuroscince, 2024 | dMRI with Machine Learning review incl. Super-Resolution| 
 
