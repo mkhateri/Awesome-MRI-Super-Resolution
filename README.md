@@ -54,10 +54,10 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
 @article{khateri2025mrisr,
   title   = {Deep Learning for MRI Super-Resolution: A Comprehensive Survey},
   author  = {Khateri, Mohammad and Vasylechko, Serge and Ghahremani, Morteza and Timms, Liam and Kocanaogullari, Deniz and Warfield, Simon K. and Jaimes, Camilo and Karimi, Davood and Sierra, Alejandra and Tohka, Jussi and Kurugol, Sila and Afacan, Onur},
-  journal = {arXiv},
-  volume  = {abs/2501.12345},   % replace with your actual arXiv ID
+  journal = {},
+  volume  = {},   % replace with your actual arXiv ID
   year    = {2025},
-  url     = {https://arxiv.org/abs/2501.12345}
+  url     = {}
 }
 
 ```
