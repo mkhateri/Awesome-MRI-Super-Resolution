@@ -78,6 +78,7 @@
 |---|---|---|
 | Data replication in medical synthetic image generation using diffusion models | Vishal Patel (Johns Hopkins University) |  [Link](https://www.youtube.com/watch?v=w9_Aet98_OM) |
 | Generative AI, Stable Diffusion, and the Revolution in Visual Synthesis | Björn Ommer (University of Munich) | [Link](https://www.youtube.com/watch?v=j9nB_DttAlw) |
+| Generative Adversarial Networks for Image Synthesis and Translation |Jan Kautz (NVIDIA) | [Link](https://www.youtube.com/watch?v=byL-9n12PcM) |
 | Generative Diffusion Models for Medical Imaging | Hyungjin Chung (KAIST) | [Link](https://www.youtube.com/watch?v=1z5rwWr5tlI) |
 | Denoising Diffusion Models for Medical Image Analysis | Julia Wolleb (Stanford) | [Link](https://www.youtube.com/watch?v=US9CzPrT2H8) |
 | GANs in Medical Image Synthesis, Translation, and Augmentation |Jason Jeong (Stanford) | [Link](https://www.youtube.com/watch?v=cz3_ckbdiKw) |
