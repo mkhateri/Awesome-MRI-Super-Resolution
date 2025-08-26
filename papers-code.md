@@ -205,6 +205,10 @@
 | GAMBAS: Generalised-Hilbert Mamba for Super-resolution of Paediatric Ultra-Low-Field MRI | ––– |  arXiv/ 2025 | [paper](https://arxiv.org/abs/2504.04523) | ––– |
 | Ultra-Low-Field Paediatric MRI in Low- and Middle-Income Countries: Super-Resolution Using a Multi-Orientation U-Net | ––– |  Human Brain Mapping/ 2024 | [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.70112) | ––– |
 | Efficient slice-to-volume registration using multi-scale estimates and super-resolution reconstruction| ––– |  MICCAI/ 2020 | [paper](https://www.springerprofessional.de/en/medical-image-computing-and-computer-assisted-intervention-micca/18442788?tocPage=1) | ––– |
+| Transformer-empowered Multi-scale Contextual Matching and Aggregation for Multi-contrast MRI Super-resolution| McMRSR | CVPR/ 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Transformer-Empowered_Multi-Scale_Contextual_Matching_and_Aggregation_for_Multi-Contrast_MRI_Super-Resolution_CVPR_2022_paper.pdf) | [code](https://github.com/XAIMI-Lab/McMRSR) |
+
+
+
 
 [↑ back to top](#top)
 
