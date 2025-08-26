@@ -228,6 +228,7 @@
 | The Perception-Distortion Tradeoff| ––– | IEEE CVPR/ 2018 | [paper](https://ieeexplore.ieee.org/document/8578750) | ––– |
 | Image quality assessment: from error visibility to structural similarity| SSIM | IEEE TIP/ 2004 | [paper](https://ieeexplore.ieee.org/document/1284395) | ––– |
 | Multiscale structural similarity for image quality assessment| MS-SSIM | IEEE ACSSC/ 2003 | [paper](https://ieeexplore.ieee.org/abstract/document/1292216) | ––– |
+| The Unreasonable Effectiveness of Deep Features as a Perceptual Metric| LPIPS | CVPR/ 2018 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8578166) | ––– |
 | Image information and visual quality | VIF | IEEE TIP/ 2006 | [paper](https://ieeexplore.ieee.org/document/1576816) | ––– |
 | Clinical Assessment of Deep Learning–based Super-Resolution for 3D Volumetric Brain MRI | ––– | Radiology: Artificial IntelligenceVol/ 2022 | [paper](https://pubmed.ncbi.nlm.nih.gov/35391765/) | ––– |
 | Clinical evaluation of super-resolution for brain MRI images based on generative adversarial networks| ––– | Informatics in Medicine Unlocked/ 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S2352914822001721) | ––– |
@@ -241,7 +242,6 @@
 | Depicting Beyond Scores: Advancing Image Quality Assessment Through Multi-modal Language Models| ––– | ECCV/ 2024 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-72970-6_15) | ––– |
 | Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models| ––– | NeurIPS/ 2024 | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/2847d43f17410c5beb25b2736c3ae778-Paper-Conference.pdf) | ––– |
 | Evaluation of epilepsy lesion visualisation enhancement in low-field MRI using image quality transfer: a preliminary investigation of clinical potential for applications in developing countries| ––– | Neuroradiology/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/39240363/) | ––– |
-| The Unreasonable Effectiveness of Deep Features as a Perceptual Metric| LPIPS | CVPR/ 2018 | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8578166) | ––– |
 
 [↑ back to top](#top)
 
