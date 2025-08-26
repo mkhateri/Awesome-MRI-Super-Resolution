@@ -219,7 +219,7 @@
 | Exploring the impact of super-resolution deep learning on MR angiography image quality| ––– | Springer Advanced Neuroimaging/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/32832937/) | ––– |
 | The Perception-Distortion Tradeoff| ––– | IEEE CVPR/ 2018 | [paper](https://ieeexplore.ieee.org/document/8578750) | ––– |
 | Image quality assessment: from error visibility to structural similarity| SSIM | IEEE TIP/ 2004 | [paper](https://ieeexplore.ieee.org/document/1284395) | ––– |
-| Multiscale structural similarity for image quality assessment| ––– | IEEE ACSSC/ 2003 | [paper](https://ieeexplore.ieee.org/abstract/document/1292216) | ––– |
+| Multiscale structural similarity for image quality assessment| MS-SSIM | IEEE ACSSC/ 2003 | [paper](https://ieeexplore.ieee.org/abstract/document/1292216) | ––– |
 | Image information and visual quality | VIF | IEEE TIP/ 2006 | [paper](https://ieeexplore.ieee.org/document/1576816) | ––– |
 | Clinical Assessment of Deep Learning–based Super-Resolution for 3D Volumetric Brain MRI | ––– | Radiology: Artificial IntelligenceVol/ 2022 | [paper](https://pubmed.ncbi.nlm.nih.gov/35391765/) | ––– |
 | Clinical evaluation of super-resolution for brain MRI images based on generative adversarial networks| ––– | Informatics in Medicine Unlocked/ 2022 | [paper](https://www.sciencedirect.com/science/article/pii/S2352914822001721) | ––– |
