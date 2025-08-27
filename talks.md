@@ -99,7 +99,7 @@
 | Title | Speaker | Link |
 |---|---|---|
 | New Horizons in MRI|  Michael Lustig (UC Berkeley) | [Link](https://www.youtube.com/watch?v=bd0PJ1qDwuE) |    
-| MRI of Normal Fetal Brain Development |  Camilo Jaimes (Massachusset General Hospital) | [Link](https://www.youtube.com/watch?v=dSuaI3RmYRk) |    
+| MRI of Normal Fetal Brain Development |  Camilo Jaimes (Massachusetts General Hospital) | [Link](https://www.youtube.com/watch?v=dSuaI3RmYRk) |    
 | Machine learning meets medical imaging: From signals to clinically useful information |  Daniel Rueckert  (Technical University of Munich and Imperial College London) | [Link](https://www.youtube.com/watch?v=7vtpWbrVdDY) |    
 | Computational MRI in the deep learning era with applications to FMRI |  (Instituto de Radiologia) | [Link](https://www.youtube.com/watch?v=7Jy2LgsRk-E) |    
 | Functional Imaging of the Human Brain: A Window into the Organization of the Human Mind | Nancy Kanwisher (MIT) | [Link](https://cbmm.mit.edu/video/functional-imaging-human-brain-window-organization-human-mind-11825) |    
