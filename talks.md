@@ -55,8 +55,11 @@
 | Image Denoising and the Generative Accumulation of Photons | Alexander Krull (University of Birmingham) | [Link](https://www.youtube.com/watch?v=QLScVYUzDZQ)| 
 | Inpainting using Deep Learning: from theory to practice |Michał Kudelski (TCL) | [Link](https://www.youtube.com/watch?v=kbwfYMlVCps)| 
 | Deep learning for medical image reconstruction, super-resolution, classification, and segmentation | Daniel Rueckert  (Technical University of Munich and Imperial College London) | [Link](https://www.youtube.com/watch?v=-0gmXn0M7bg) |
+| Scientist Stories: AI-enabled imaging | Julia Schnabel (Technical University of Munich, Helmholtz Munich, and King's College London) | [Link](https://www.youtube.com/watch?v=l_ZOXBn4jfw) |
 
 [↑ back to top](#top)
+
+
 
 
 <a id="webinar-seminar-workshop-computational-imaging"></a>
