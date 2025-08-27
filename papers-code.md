@@ -207,6 +207,8 @@
 | Efficient slice-to-volume registration using multi-scale estimates and super-resolution reconstruction| ––– |  MICCAI/ 2020 | [paper](https://www.springerprofessional.de/en/medical-image-computing-and-computer-assisted-intervention-micca/18442788?tocPage=1) | ––– |
 | Transformer-empowered Multi-scale Contextual Matching and Aggregation for Multi-contrast MRI Super-resolution| McMRSR | CVPR/ 2022 | [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Transformer-Empowered_Multi-Scale_Contextual_Matching_and_Aggregation_for_Multi-Contrast_MRI_Super-Resolution_CVPR_2022_paper.pdf) | [code](https://github.com/XAIMI-Lab/McMRSR) |
 | Replica-Based Federated Learning with Heterogeneous Architectures for Graph Super-Resolution| RepFL |  MLMI/ 2023 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-45676-3_28) | [code](https://github.com/basiralab/RepFL) |
+| Delta-WKV: A Novel Meta-in-Context Learner for MRI Super-Resolution| Delta-WKV |  arXiv/ 2025 | [paper](https://arxiv.org/abs/2502.20852) | ––– |
+
 
 
 
