@@ -7,6 +7,7 @@
 - [Webinar / Seminar / Workshop Series on Computational Imaging](#webinar-seminar-workshop-computational-imaging)
 - [Image Synthesis](#image-synthesis)
 - [MRI](#mri)
+- [Webinar / Seminar / Workshop Series on MRI](#webinar-seminar-workshop-MRI)
 
 
 ---
@@ -72,6 +73,8 @@
 | Purdue Computational Imaging Seminar | Purdue University | Academic seminar series showcasing cutting-edge research in computational imaging. | [Link](https://engineering.purdue.edu/ChanGroup/comp_imaging_seminar.html?utm_source=chatgpt.com) |
 | Computational Imaging Workshop | IMSI Institute | Workshop on the theory, methods, and applications of computational imaging. | [Link](https://www.imsi.institute/activities/computational-imaging/?utm_source=chatgpt.com) |
 
+
+
 [↑ back to top](#top)
 
 
@@ -96,6 +99,7 @@
 | Title | Speaker | Link |
 |---|---|---|
 | New Horizons in MRI|  Michael Lustig (UC Berkeley) | [Link](https://www.youtube.com/watch?v=bd0PJ1qDwuE) |    
+| MRI of Normal Fetal Brain Development |  Camilo Jaimes (Massachusset General Hospital) | [Link](https://www.youtube.com/watch?v=dSuaI3RmYRk) |    
 | Machine learning meets medical imaging: From signals to clinically useful information |  Daniel Rueckert  (Technical University of Munich and Imperial College London) | [Link](https://www.youtube.com/watch?v=7vtpWbrVdDY) |    
 | Computational MRI in the deep learning era with applications to FMRI |  (Instituto de Radiologia) | [Link](https://www.youtube.com/watch?v=7Jy2LgsRk-E) |    
 | Functional Imaging of the Human Brain: A Window into the Organization of the Human Mind | Nancy Kanwisher (MIT) | [Link](https://cbmm.mit.edu/video/functional-imaging-human-brain-window-organization-human-mind-11825) |    
@@ -103,7 +107,11 @@
 [↑ back to top](#top)
 
 
-
+<a id="webinar-seminar-workshop-MRI"></a>
+## Webinar / Seminar / Workshop Series in MRI
+| Title | Organizer | Description | Link |
+|---|---|---|---|
+| Pediatric Neuroradiology Teaching Series (PEANUTS) | ASPNR (American Society of Pediatric Neuroradiology) | A regular teaching webinar series dedicated to pediatric brain MRI and neuroradiology education. | [Link](https://www.youtube.com/@PEANUTSlectures) |
 
 
 
