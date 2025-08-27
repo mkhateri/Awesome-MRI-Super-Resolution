@@ -209,6 +209,8 @@
 | Replica-Based Federated Learning with Heterogeneous Architectures for Graph Super-Resolution| RepFL |  MLMI/ 2023 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-45676-3_28) | [code](https://github.com/basiralab/RepFL) |
 | Delta-WKV: A Novel Meta-in-Context Learner for MRI Super-Resolution| Delta-WKV |  arXiv/ 2025 | [paper](https://arxiv.org/abs/2502.20852) | ––– |
 | MRI Super-Resolution using Multi-Channel Total Variation| MTV|  MIUA/ 2018 | [paper](https://link.springer.com/chapter/10.1007/978-3-319-95921-4_21) | [code](https://github.com/brudfors/spm_superres) |
+| TV-BASED DEEP 3D SELF SUPER-RESOLUTION FOR FMRI| ––– |  ISBI/ 2025 | [paper](https://ieeexplore.ieee.org/document/10980709) | [code](https://github.com/zalteck/TV-Deep-SR-fMRI) |
+
 
 
 
