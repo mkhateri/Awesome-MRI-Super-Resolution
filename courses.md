@@ -11,6 +11,7 @@ Course | Instructor | Link |
 | Principles of fMRI| Martin Lindquist (Johns Hopkins University) Tor Wager (University of Colorado) | [Link](https://www.youtube.com/@principlesoffmri6920) | 
 | Flow Matching and Diffusion | Peter Holderrieth (MIT) |  [link](https://www.youtube.com/playlist?list=PL57nT7tSGAAUDnli1LhTOoCxlEPGS19vH) |
 | Deep Generative Models | Stefano Ermon (Stanford) |  [link](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) |
+| A Practical Introduction to Diffusion Models | Chenyang Yuan, Cole Becker, et al (MIT) |  [link](https://www.youtube.com/watch?v=bBA0Ueb80hg&list=PL_1TbuIu65A_G908tHHvTnyQsueR17rMh) |
 
 
   
