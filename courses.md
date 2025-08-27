@@ -10,6 +10,5 @@ Course | Instructor | Link |
 | Sparse and Redundant Representations and their Applications in Signal and Image Processing | Michael Elad ( Technion & NVIDIA) |  [link](https://elad.cs.technion.ac.il/236862-course-webpage-winter-semester-2020-2021/) |
 | Principles of fMRI| Martin Lindquist (Johns Hopkins University) Tor Wager (University of Colorado) | [Link](https://www.youtube.com/@principlesoffmri6920) | 
 | Flow Matching and Diffusion | Peter Holderrieth (MIT) |  [link](https://www.youtube.com/playlist?list=PL57nT7tSGAAUDnli1LhTOoCxlEPGS19vH) |
-| Computer Vision | Mubarak Shah (UCF) |  [link](https://www.youtube.com/playlist?list=PLd3hlSJsX_Ikm5il1HgmDB_z62BeoikFX) |
 
 
