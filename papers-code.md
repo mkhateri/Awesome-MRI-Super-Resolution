@@ -210,7 +210,7 @@
 | Delta-WKV: A Novel Meta-in-Context Learner for MRI Super-Resolution| Delta-WKV |  arXiv/ 2025 | [paper](https://arxiv.org/abs/2502.20852) | ––– |
 | MRI Super-Resolution using Multi-Channel Total Variation| MTV|  MIUA/ 2018 | [paper](https://link.springer.com/chapter/10.1007/978-3-319-95921-4_21) | [code](https://github.com/brudfors/spm_superres) |
 | TV-BASED DEEP 3D SELF SUPER-RESOLUTION FOR FMRI| ––– |  ISBI/ 2025 | [paper](https://ieeexplore.ieee.org/document/10980709) | [code](https://github.com/zalteck/TV-Deep-SR-fMRI) |
-
+| TransMRSR: Transformer-based Self-Distilled Generative Prior for Brain MRI Super-Resolution| TransMRSR |   The Visual Computer / 2023 | [paper](https://link.springer.com/article/10.1007/s00371-023-02938-3) | [code](https://github.com/goddesshs/TransMRSR) |
 
 
 
