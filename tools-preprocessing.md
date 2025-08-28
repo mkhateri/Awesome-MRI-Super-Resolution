@@ -12,6 +12,7 @@ Preprocessing is a foundational step in MRI super-resolution (SR). It improves a
 | **Skull stripping / brain extraction** | Remove non-brain tissue to isolate relevant anatomy. | [BET (FSL)](https://web.mit.edu/fsl_v5.0.10/fsl/doc/wiki/BET%282f%29UserGuide.html) · [HD-BET](https://github.com/MIC-DKFZ/HD-BET) · [SynthStrip (docs)](https://surfer.nmr.mgh.harvard.edu/docs/synthstrip/) · [SynthStrip (code)](https://github.com/nipreps/synthstrip) |
 | **Resampling & intensity normalization** | Standardize voxel geometry and scale intensities for comparability/stability. | [ANTs](https://github.com/ANTsX/ANTs) · [SimpleITK](https://github.com/SimpleITK/SimpleITK) |
 
+
 ### Pipelines & utilities
 
 | Name | What it does | Link |
