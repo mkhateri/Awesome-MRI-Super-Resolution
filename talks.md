@@ -98,6 +98,7 @@
 ## MRI
 | Title | Speaker | Link |
 |---|---|---|
+| Pediatric Neuroimaging: Challenges and Solutions|  Onur Afacan (Harvard Medical School & Boston Children's Hospital) | [Link](https://www.youtube.com/watch?v=JURmTvp5-CI) |    
 | New Horizons in MRI|  Michael Lustig (UC Berkeley) | [Link](https://www.youtube.com/watch?v=bd0PJ1qDwuE) |    
 | MRI of Normal Fetal Brain Development |  Camilo Jaimes (Massachusetts General Hospital) | [Link](https://www.youtube.com/watch?v=dSuaI3RmYRk) |    
 | Machine learning meets medical imaging: From signals to clinically useful information |  Daniel Rueckert  (Technical University of Munich and Imperial College London) | [Link](https://www.youtube.com/watch?v=7vtpWbrVdDY) |    
