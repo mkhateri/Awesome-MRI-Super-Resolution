@@ -39,6 +39,7 @@
 ## Computer Vision Super-Resolution
 | Paper | Venue / Year |
 |---|---|
+| [Deep-Learning-Empowered Super Resolution: A Comprehensive Survey and Future Prospects](https://ieeexplore.ieee.org/document/11197230) | Proceedings of the IEEE , 2025 |
 | [Deep Learning for Image Super-Resolution: A Survey](https://ieeexplore.ieee.org/abstract/document/9044873) | IEEE TPAMI, 2020 |
 | [Real-World Single Image Super-Resolution: A Brief Review](https://www.sciencedirect.com/science/article/pii/S1566253521001792) | Information Fusion, 2022 |
 | [Blind Image Super-Resolution: A Survey and Beyond](https://doi.org/10.1109/TPAMI.2022.3203009) | IEEE TPAMI, 2023 |
