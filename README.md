@@ -24,24 +24,19 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
 
 ---
 ## Table of Contents  
-🔗 **Explore the full resource hub:** *(each section opens a dedicated page)*
+🔗 **Select a section:**
 
-### ▶️ **[Surveys](super-resolution-survey.md)**  
+- **[Surveys](super-resolution-survey.md)**
+- **[Papers & Code](papers-code.md)**
+- **[Repositories](super-resolution-repos.md)**
+- **[Datasets](datasets.md)**
+- **[Preprocessing Tools](tools-preprocessing.md)**
+- **[Quality Assessment Tools](tools-quality-assessment.md)**
+- **Learning Resources**  
+  &nbsp;&nbsp;&nbsp;&nbsp;▫ [Talks](talks.md)  
+  &nbsp;&nbsp;&nbsp;&nbsp;▫ [Tutorials](tutorial-toolkit.md)  
+  &nbsp;&nbsp;&nbsp;&nbsp;▫ [Courses](courses.md)
 
-### ▶️ **[Papers & Code](papers-code.md)**  
-
-### ▶️ **[Repositories](super-resolution-repos.md)**  
-
-### ▶️ **[Datasets](datasets.md)**  
-
-### ▶️ **[Preprocessing Tools](tools-preprocessing.md)**  
-
-### ▶️ **[Quality Assessment Tools](tools-quality-assessment.md)**  
-
-### ▶️ **Learning Resources**  
-&nbsp;&nbsp;&nbsp;&nbsp;▶️ **[Talks](talks.md)**  
-&nbsp;&nbsp;&nbsp;&nbsp;▶️ **[Tutorials](tutorial-toolkit.md)**  
-&nbsp;&nbsp;&nbsp;&nbsp;▶️ **[Courses](courses.md)**
 
 
 
