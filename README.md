@@ -27,11 +27,17 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
 🔗 **Select a section:**
 
 - **[Surveys](super-resolution-survey.md)**
+  
 - **[Papers & Code](papers-code.md)**
+  
 - **[Repositories](super-resolution-repos.md)**
+
 - **[Datasets](datasets.md)**
+  
 - **[Preprocessing Tools](tools-preprocessing.md)**
+  
 - **[Quality Assessment Tools](tools-quality-assessment.md)**
+  
 - **Learning Resources**  
   &nbsp;&nbsp;&nbsp;&nbsp;▫ [Talks](talks.md)  
   &nbsp;&nbsp;&nbsp;&nbsp;▫ [Tutorials](tutorial-toolkit.md)  
