@@ -27,22 +27,16 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
 🔗 **Explore the full resource hub:** *(each section opens a dedicated page)*
 
 ### ▶️ **[Surveys](super-resolution-survey.md)**  
-High-level overviews, taxonomies, and comprehensive reviews.
 
 ### ▶️ **[Papers & Code](papers-code.md)**  
-Curated SOTA MRI SR papers, benchmarks, and official implementations.
 
 ### ▶️ **[Repositories](super-resolution-repos.md)**  
-Notable open-source projects, libraries, and frameworks.
 
 ### ▶️ **[Datasets](datasets.md)**  
-Public datasets with resolution, modalities, and licensing info.
 
 ### ▶️ **[Preprocessing Tools](tools-preprocessing.md)**  
-Registration, denoising, bias-field correction, and more.
 
 ### ▶️ **[Quality Assessment Tools](tools-quality-assessment.md)**  
-Metrics, evaluation pipelines, and validation toolkits.
 
 ### ▶️ **Learning Resources**  
 &nbsp;&nbsp;&nbsp;&nbsp;▫ **[Talks](talks.md)**  
