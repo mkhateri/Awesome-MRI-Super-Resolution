@@ -27,15 +27,15 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
 ## Table of Contents  
 🔗 **Select a section below to explore key resources. Click any link to view detailed content.**
 
-- **[Surveys](super-resolution-survey.md)**<br>
-- **[Papers & Code](papers-code.md)**<br>
-- **[Repositories](super-resolution-repos.md)**<br>
-- **[Datasets](datasets.md)**<br>
-- **[Preprocessing Tools](tools-preprocessing.md)**<br>
-- **[Quality Assessment Tools](tools-quality-assessment.md)**<br>
-- **[Talks](talks.md)**<br>
-- **[Tutorials](tutorial-toolkit.md)**<br>
-- **[Courses](courses.md)**
+<div style="margin-bottom: 8px;">• <strong><a href="super-resolution-survey.md">Surveys</a></strong></div>
+<div style="margin-bottom: 8px;">• <strong><a href="papers-code.md">Papers & Code</a></strong></div>
+<div style="margin-bottom: 8px;">• <strong><a href="super-resolution-repos.md">Repositories</a></strong></div>
+<div style="margin-bottom: 8px;">• <strong><a href="datasets.md">Datasets</a></strong></div>
+<div style="margin-bottom: 8px;">• <strong><a href="tools-preprocessing.md">Preprocessing Tools</a></strong></div>
+<div style="margin-bottom: 8px;">• <strong><a href="tools-quality-assessment.md">Quality Assessment Tools</a></strong></div>
+<div style="margin-bottom: 8px;">• <strong><a href="talks.md">Talks</a></strong></div>
+<div style="margin-bottom: 8px;">• <strong><a href="tutorial-toolkit.md">Tutorials</a></strong></div>
+<div style="margin-bottom: 8px;">• <strong><a href="courses.md">Courses</a></strong></div>
 
 
 
