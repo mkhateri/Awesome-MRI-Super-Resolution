@@ -24,7 +24,7 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
 
 ---
 ## Table of Contents  
-🔗 **Select a section:**
+🔗 **Select a section below to explore key resources. Click any link to view detailed content.**
 
 - **[Surveys](super-resolution-survey.md)**
   
@@ -42,11 +42,6 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
   &nbsp;&nbsp;&nbsp;&nbsp;▫ [Talks](talks.md)  
   &nbsp;&nbsp;&nbsp;&nbsp;▫ [Tutorials](tutorial-toolkit.md)  
   &nbsp;&nbsp;&nbsp;&nbsp;▫ [Courses](courses.md)
-
-
-
-
-
 
 
 
