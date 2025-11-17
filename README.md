@@ -27,16 +27,23 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
 ## Table of Contents  
 🔗 **Select a section below to explore key resources. Click any link to view detailed content.**
 
-- <span style="font-size:1.1em">**[Surveys](super-resolution-survey.md)**</span>
-- 
-- <span style="font-size:1.1em">**[Papers & Code](papers-code.md)**</span>  
-- <span style="font-size:1.1em">**[Repositories](super-resolution-repos.md)**</span>  
-- <span style="font-size:1.1em">**[Datasets](datasets.md)**</span>  
-- <span style="font-size:1.1em">**[Preprocessing Tools](tools-preprocessing.md)**</span>  
-- <span style="font-size:1.1em">**[Quality Assessment Tools](tools-quality-assessment.md)**</span>  
-- <span style="font-size:1.1em">**[Talks](talks.md)**</span>  
-- <span style="font-size:1.1em">**[Tutorials](tutorial-toolkit.md)**</span>  
-- <span style="font-size:1.1em">**[Courses](courses.md)**</span>
+- **[Surveys](super-resolution-survey.md)**
+  
+- **[Papers & Code](papers-code.md)**
+  
+- **[Repositories](super-resolution-repos.md)**
+
+- **[Datasets](datasets.md)**
+  
+- **[Preprocessing Tools](tools-preprocessing.md)**
+  
+- **[Quality Assessment Tools](tools-quality-assessment.md)**
+  
+- **[Talks](talks.md)**
+
+- **[Tutorials](tutorial-toolkit.md)**
+
+- **[Courses](courses.md)**
 
 
 
