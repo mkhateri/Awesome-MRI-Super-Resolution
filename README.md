@@ -38,10 +38,11 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
   
 - **[Quality Assessment Tools](tools-quality-assessment.md)**
   
-- **Learning Resources**  
-  &nbsp;&nbsp;&nbsp;&nbsp;▫ [Talks](talks.md)  
-  &nbsp;&nbsp;&nbsp;&nbsp;▫ [Tutorials](tutorial-toolkit.md)  
-  &nbsp;&nbsp;&nbsp;&nbsp;▫ [Courses](courses.md)
+- **[Talks](talks.md)**
+
+- **[Tutorials](tutorial-toolkit.md)**
+
+- **[Courses](courses.md)**
 
 
 
