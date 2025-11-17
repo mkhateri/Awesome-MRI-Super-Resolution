@@ -18,7 +18,7 @@ This list is not intended to be exhaustive. MRI super-resolution is a rapidly ev
 
 This repository is updated quarterly. If we missed your paper, tool, dataset, resource, talk, or course, please open an issue or submit a pull request.  
 
-*First release: August 20, 2025*  
+*First release: November 20, 2025*  
 
 
 
