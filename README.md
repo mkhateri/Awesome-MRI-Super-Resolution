@@ -27,7 +27,8 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
 ## Table of Contents  
 🔗 **Select a section below to explore key resources. Click any link to view detailed content.**
 
-- <span style="font-size:1.1em">**[Surveys](super-resolution-survey.md)**</span>  
+- <span style="font-size:1.1em">**[Surveys](super-resolution-survey.md)**</span>
+- 
 - <span style="font-size:1.1em">**[Papers & Code](papers-code.md)**</span>  
 - <span style="font-size:1.1em">**[Repositories](super-resolution-repos.md)**</span>  
 - <span style="font-size:1.1em">**[Datasets](datasets.md)**</span>  
