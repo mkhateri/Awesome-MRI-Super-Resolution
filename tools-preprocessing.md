@@ -41,9 +41,9 @@ Preprocessing is a foundational step in MRI super-resolution. It improves anatom
 | **Gibbs unringing** | Reduce discrete Fourier ringing artifacts. | [mrdegibbs (MRtrix3)](https://mrtrix.readthedocs.io/en/latest/reference/commands/mrdegibbs.html) · [gibbs_removal (DIPY)](https://dipy.org/documentation/1.5.0./reference/dipy.denoise.gibbs.html) |
 
 
-### Pipelines Exisitng Pipelines 
+### Existing Pipelines 
 
-Existing pipeline can be used to accelerate the selection or application of various pre-processing steps. 
+The existing pipeline can be used to accelerate the selection or application of various pre-processing steps. 
 
 | Name | What it does | Link |
 |---|---|---|
