@@ -17,6 +17,7 @@
 | **MS-SSIM** | [Wang et al., 2003](https://ieeexplore.ieee.org/document/1292216) | [TorchMetrics](https://lightning.ai/docs/torchmetrics/stable/image/multiscale_structural_similarity.html) · [PIQ](https://github.com/photosynthesis-team/piq) |
 | **VIF** | [Sheikh & Bovik, 2006](https://ieeexplore.ieee.org/document/1576816) | [PIQ](https://github.com/photosynthesis-team/piq) |
 | **LPIPS** | [Zhang et al., 2018](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8578166) | [Official](https://github.com/richzhang/PerceptualSimilarity) · [PIQ](https://github.com/photosynthesis-team/piq) |
+| **LPIPS** | [Zhang et al., 2018](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8578166) | [Official](https://github.com/richzhang/PerceptualSimilarity) · [PIQ](https://github.com/photosynthesis-team/piq) |
 
 
 <a id="No-Reference-Metrics"></a>
