@@ -13,4 +13,3 @@
 | **MSD** | Ten-task 3D benchmark; MRI subsets useful for SR | MRI (various), CT | [data](http://medicaldecathlon.com/) |
 | **ADNI** | Multi-site, longitudinal Alzheimer’s MRI cohort | T1, FLAIR; some T2/dMRI/fMRI/ASL | [data](https://adni.loni.usc.edu/data-samples/adni-data/) |
 | **CRL** | In-utero fetal brain atlas built from T2w MRI (spatiotemporal, 21–38 wks GA) | T2-weighted fetal MRI | [data](https://www.crl.med.harvard.edu/research/fetal_brain_atlas/) |
-| **Fetal EPI** | In-utero EPI/BOLD time series used in fetal/placental fMRI research | fMRI (EPI, BOLD) | [data](https://www.nature.com/articles/s41598-017-03450-0) |
