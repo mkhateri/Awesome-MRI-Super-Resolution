@@ -5,7 +5,6 @@
 - [Medical Image Super-Resolution Survey/ Review](#medical-sr)
 - [Computer Vision Super-Resolution Survey/ Review](#cv-sr)
 - [Diffusion Models and Super-Resolution Survey/ Review](#dm-sr)
-- [Diffusion Models and Super-Resolution Survey/ Review](#dm-sr)
 
 ---
 
