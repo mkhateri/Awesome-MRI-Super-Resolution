@@ -14,7 +14,7 @@ Course | Instructor | Link |
 | A Practical Introduction to Diffusion Models | Chenyang Yuan, Cole Becker, et al (MIT) |  [link](https://www.youtube.com/playlist?list=PL_1TbuIu65A_G908tHHvTnyQsueR17rMh) |
 | Machine Learning for Inverse Graphics |Vincent Sitzmann (MIT) |  [link](https://scenerepresentations.org/courses/2023/fall/inverse-graphics/) |
 | Computer Vision |Vincent Sitzmann (MIT) |  [link](https://scenerepresentations.org/courses/2025/spring/advances-in-cv/) |
-| CS492(C): Diffusion and Flow Models |Minhyuk Sung (KAIST) |  [link](https://diffusion.kaist.ac.kr/) |
+| Diffusion and Flow Models-CS492(C) |Minhyuk Sung (KAIST) |  [link](https://diffusion.kaist.ac.kr/) |
 
 
 
