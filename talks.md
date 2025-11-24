@@ -36,6 +36,11 @@
 |Optimal Transport-driven CycleGAN for Unsupervised Learning in Inverse Problems|Jong Chul Ye (KAIST)| [Link](https://www.youtube.com/watch?v=DZG2ObAPS94) |
 |Physics-inspired imaging principles for the benefit of computer vision | Dmitry Dylov (Skoltech)| [Link](https://www.youtube.com/watch?v=aKfyuCL4wXY) |
 |Continuous Signal Processing using Implicit Neural Representation | Kyong Hwan Jin (Korea university)| [Link](https://www.imsi.institute/videos/continuous-signal-processing-using-implicit-neural-representation/) |
+|Model Based Deep Learning with Application to Super Resolution | Yonina Eldar (Weizmann Institute of Science)| [Link](https://www.youtube.com/watch?v=ntj-TN4Jm2k) |
+|Deep Internal learning -- Deep Visual Inference without prior examples | Michal Irani (Weizmann Institute of Science)| [Link](https://www.youtube.com/watch?v=4zVJZRrb4EE) |
+
+
+
 
 [↑ back to top](#top)
 
