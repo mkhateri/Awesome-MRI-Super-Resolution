@@ -44,10 +44,7 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
 - **[Tutorials](tutorial-toolkit.md)**<br>
 
 - **[Courses](courses.md)**
-
-
-
-
+---
 
 ###  Citation
 If you find this repository helpful, please consider starring the repo ⭐ and citing our survey paper:
