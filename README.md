@@ -55,8 +55,7 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
   title={MRI Super-Resolution with Deep Learning: A Comprehensive Survey},
   author={Khateri, Mohammad and Vasylechko, Serge and Ghahremani, Morteza and Timms, Liam and Kocanaogullari, Deniz and Warfield, Simon K and Jaimes, Camilo and Karimi, Davood and Sierra, Alejandra and Tohka, Jussi and Kurugol, Sila and Afacan, Onur},
   journal={arXiv preprint arXiv:2511.16854},
-  year={2025},
-  url={https://arxiv.org/abs/2511.16854}
+  year={2025}
 }
 
 
