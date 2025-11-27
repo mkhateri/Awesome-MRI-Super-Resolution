@@ -50,7 +50,7 @@ This repository is updated quarterly. If we missed your paper, tool, dataset, re
 
 
 ###  Citation
-If you find this repository helpful in your research or projects, please consider starring the repo ⭐ and citing our survey paper:
+If you find this repository helpful, please consider starring the repo ⭐ and citing our survey paper:
 ```bibtex
 @article{khateri2025mri,
   title={MRI Super-Resolution with Deep Learning: A Comprehensive Survey},
