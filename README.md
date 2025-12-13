@@ -15,12 +15,15 @@ computational imaging, inverse problems, and MR physics.
 
 ## 📖 Associated Survey (arXiv)
 
-🧠📖 **MRI Super-Resolution with Deep Learning: A Comprehensive Survey**
+🧠📖 **MRI Super-Resolution with Deep Learning: A Comprehensive Survey**  
+*Harvard Medical School · University of Eastern Finland*
 
 👉 This repository is the **official companion** to the survey and is designed to be a
 *living extension* with continuously updated papers, code, and resources.
 
-📄 **[Read the survey on arXiv](https://arxiv.org/abs/2511.16854)**
+📄 **[Read the survey on arXiv →](https://arxiv.org/abs/2511.16854)**  
+🤗 **[Paper on Hugging Face →](https://huggingface.co/papers/2511.16854)**
+
 
 
 ---
