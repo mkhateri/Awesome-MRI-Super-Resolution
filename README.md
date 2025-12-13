@@ -3,7 +3,10 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-🔥🔥 A curated collection of articles, datasets, tools, tutorials, courses, and talks for MRI Super-Resolution. 🔥🔥
+
+A comprehensive, actively maintained resource for **MRI Super-Resolution**, covering
+papers, code, datasets, benchmarks, tutorials, courses, and talks — with a strong focus
+on MRI-specific challenges such as acquisition physics, noise, and clinical constraints.
 
 
 
