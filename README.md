@@ -5,8 +5,9 @@
 
 
 A comprehensive, actively maintained resource for **MRI Super-Resolution**, covering
-papers, code, datasets, benchmarks, tutorials, courses, and talks — with a strong focus
-on MRI-specific challenges such as acquisition physics, noise, and clinical constraints.
+papers, code, datasets, benchmarks, tutorials, courses, and talks, with a strong focus on
+MRI-specific challenges informed by advances in computer vision, computational imaging,
+inverse problems, and MR physics.
 
 
 
@@ -15,7 +16,7 @@ on MRI-specific challenges such as acquisition physics, noise, and clinical cons
 👉 This repository is the **official companion** to the survey and is designed to be a
 *living extension* with continuously updated papers, code, and resources.  
 
-📄 [Read the survey on arXiv](https://arxiv.org/pdf/2511.16854)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.16854-b31b1b.svg)](https://arxiv.org/abs/2511.16854)
 
 ---
 
