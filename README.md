@@ -17,7 +17,7 @@ inverse problems, and MR physics.
 
 
 
-## 📖 Associated Survey (arXiv)
+## Associated Survey (arXiv)
 
 🧠📖 **MRI Super-Resolution with Deep Learning: A Comprehensive Survey**  
 *Harvard Medical School · University of Eastern Finland*
