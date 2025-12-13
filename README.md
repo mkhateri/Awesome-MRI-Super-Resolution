@@ -14,12 +14,14 @@ computational imaging, inverse problems, and MR physics.
 
 
 ## 📖 Associated Survey (arXiv)
+
+🧠📖 **MRI Super-Resolution with Deep Learning: A Comprehensive Survey**
+
 👉 This repository is the **official companion** to the survey and is designed to be a
-*living extension* with continuously updated papers, code, and resources.  
+*living extension* with continuously updated papers, code, and resources.
 
-📖 **MRI Super-Resolution with Deep Learning: A Comprehensive Survey**
+📄 [Read the survey on arXiv](https://arxiv.org/abs/2511.16854)
 
-📄 [Read the survey on arXiv](https://arxiv.org/pdf/2511.16854)
 
 ---
 
