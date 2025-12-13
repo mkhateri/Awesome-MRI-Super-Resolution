@@ -32,9 +32,12 @@ computational imaging, inverse problems, and MR physics.
 
 ### Disclaimer & Update  
 
-This list is not intended to be exhaustive. MRI super-resolution is a rapidly evolving field with an expanding body of literature and resources. The items included here highlight key papers, repositories, datasets, open-source tools, tutorials, courses, and talks that we consider most relevant.   
+This list is not intended to be exhaustive. The items included here highlight key papers,
+repositories, datasets, open-source tools, tutorials, courses, and talks that we consider
+most relevant.
 
-This repository is updated quarterly. If we missed your paper, tool, dataset, resource, talk, or course, please open an issue or submit a pull request.  
+This repository is updated quarterly. If we missed a paper, tool, dataset, resource, talk,
+or course, please open an issue or submit a pull request.
 
 *First release: November 20, 2025*  
 
