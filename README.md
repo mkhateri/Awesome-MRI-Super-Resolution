@@ -10,10 +10,8 @@ covering papers, code, datasets, benchmarks, tutorials, courses, and talks, with
 focus on MRI-specific challenges informed by advances in computer vision,
 computational imaging, inverse problems, and MR physics.
 
-**Audience:** MSc and PhD students, postdoctoral researchers, clinicians (MDs and
-radiologists), and researchers and engineers in computer science, computational imaging,
-inverse problems, and MR physics.
-
+**Audience:**  MSc and PhD students, postdoctoral researchers, clinicians (MDs and radiologists),
+and researchers and engineers interested in computational methods for improving MRI image resolution.
 
 
 
