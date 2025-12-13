@@ -28,6 +28,14 @@ computational imaging, inverse problems, and MR physics.
 
 ---
 
+## Intended Audience
+This repository is designed to support both **non-experts and experts** in MRI
+Super-Resolution, including MSc and PhD students, postdoctoral researchers, clinicians
+(MDs and radiologists), and researchers and engineers working in computer science,
+computational imaging, inverse problems, and MR physics.
+
+---
+
 
 
 ### Disclaimer & Update  
