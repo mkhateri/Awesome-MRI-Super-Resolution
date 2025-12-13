@@ -21,8 +21,8 @@ computational imaging, inverse problems, and MR physics.
 👉 This repository is the **official companion** to the survey and is designed to be a
 *living extension* with continuously updated papers, code, and resources.
 
-📄 **[Read the survey on arXiv →](https://arxiv.org/abs/2511.16854)**  
-🤗 **[Paper on Hugging Face →](https://huggingface.co/papers/2511.16854)**
+📄 **[Read the survey on arXiv ](https://arxiv.org/abs/2511.16854)**  
+🤗 **[Paper on Hugging Face ](https://huggingface.co/papers/2511.16854)**
 
 
 
