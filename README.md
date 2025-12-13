@@ -5,10 +5,11 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 
-A comprehensive, actively maintained resource for **MRI Super-Resolution**, covering
-papers, code, datasets, benchmarks, tutorials, courses, and talks, with a strong focus on
-MRI-specific challenges informed by advances in computer vision, computational imaging,
-inverse problems, and MR physics.
+A comprehensive, actively maintained resource for **MRI Super-Resolution**
+covering papers, code, datasets, benchmarks, tutorials, courses, and talks, with a strong
+focus on MRI-specific challenges informed by advances in computer vision,
+computational imaging, inverse problems, and MR physics.
+
 
 
 
