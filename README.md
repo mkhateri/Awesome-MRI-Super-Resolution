@@ -10,6 +10,10 @@ covering papers, code, datasets, benchmarks, tutorials, courses, and talks, with
 focus on MRI-specific challenges informed by advances in computer vision,
 computational imaging, inverse problems, and MR physics.
 
+**Audience:** MSc and PhD students, postdoctoral researchers, clinicians (MDs and
+radiologists), and researchers and engineers in computer science, computational imaging,
+inverse problems, and MR physics.
+
 
 
 
@@ -25,14 +29,6 @@ computational imaging, inverse problems, and MR physics.
 🤗 **[Paper on Hugging Face ](https://huggingface.co/papers/2511.16854)**
 
 
-
----
-
-## Intended Audience
-This repository is designed to support both **non-experts and experts** in MRI
-Super-Resolution, including MSc and PhD students, postdoctoral researchers, clinicians
-(MDs and radiologists), and researchers and engineers working in computer science,
-computational imaging, inverse problems, and MR physics.
 
 ---
 
