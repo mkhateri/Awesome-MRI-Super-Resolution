@@ -1,4 +1,5 @@
 # Awesome MRI Super-Resolution  
+### The definitive, living resource for MRI Super-Resolution research
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
