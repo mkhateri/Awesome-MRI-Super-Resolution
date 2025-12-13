@@ -17,7 +17,7 @@ as well as researchers and engineers interested in computational methods for imp
 
 ## Associated Survey (arXiv)
 
-🧠📖 **MRI Super-Resolution with Deep Learning: A Comprehensive Survey**  
+📖 **MRI Super-Resolution with Deep Learning: A Comprehensive Survey**  
 *Harvard Medical School · University of Eastern Finland*
 
 👉 This repository is the **official companion** to the survey and is designed to be a
