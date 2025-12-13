@@ -7,7 +7,12 @@
 
 
 
-📚 Survey Paper: **[MRI Super-Resolution with Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/2511.16854)** ❤️
+## 📖 Associated Survey (arXiv)
+**MRI Super-Resolution with Deep Learning: A Comprehensive Survey**  
+👉 This repository is the **official companion** to the survey and is designed to be a
+*living extension* with continuously updated papers, code, and resources.  
+
+📄 [Read the survey on arXiv](https://arxiv.org/pdf/2511.16854)
 
 ---
 
