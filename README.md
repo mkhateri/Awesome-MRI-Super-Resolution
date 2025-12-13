@@ -16,7 +16,7 @@ inverse problems, and MR physics.
 👉 This repository is the **official companion** to the survey and is designed to be a
 *living extension* with continuously updated papers, code, and resources.  
 
-[![arXiv](https://img.shields.io/badge/arXiv-2511.16854-b31b1b.svg)](https://arxiv.org/abs/2511.16854)
+[![arXiv Preprint](https://img.shields.io/badge/arXiv-preprint-b31b1b.svg)](https://arxiv.org/abs/2511.16854)
 
 ---
 
