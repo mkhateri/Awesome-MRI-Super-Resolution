@@ -54,7 +54,7 @@ or course, please open an issue or submit a pull request.
 
 - **[Papers & Code](papers-code.md)**<br>
 
-- **[Repositories](super-resolution-repos.md)**<br>
+- **[Basic Repositories](super-resolution-repos.md)**<br>
 
 - **[Datasets](datasets.md)**<br>
 
