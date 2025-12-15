@@ -38,6 +38,8 @@
 |Continuous Signal Processing using Implicit Neural Representation | Kyong Hwan Jin (Korea university)| [Link](https://www.imsi.institute/videos/continuous-signal-processing-using-implicit-neural-representation/) |
 |Model Based Deep Learning with Application to Super Resolution | Yonina Eldar (Weizmann Institute of Science)| [Link](https://www.youtube.com/watch?v=ntj-TN4Jm2k) |
 |Deep Internal learning -- Deep Visual Inference without prior examples | Michal Irani (Weizmann Institute of Science)| [Link](https://www.youtube.com/watch?v=4zVJZRrb4EE) |
+|Colloquium: Advancing Scientific Computational Imaging through Data-driven and Physics-based Priors | Michal Irani (Weizmann Institute of Science)| [Link](https://www.youtube.com/watch?v=4zVJZRrb4EE) |
+
 
 
 
@@ -77,7 +79,7 @@
 | Warren Grundfest Lectures in Computational Imaging | UCLA & Caltech | Distinguished lecture series highlighting recent advances in computational imaging. | [Link](https://visual.ee.ucla.edu/web_series/) |
 | Purdue Computational Imaging Seminar | Purdue University | Academic seminar series showcasing cutting-edge research in computational imaging. | [Link](https://engineering.purdue.edu/ChanGroup/comp_imaging_seminar.html?utm_source=chatgpt.com) |
 | Computational Imaging Workshop | IMSI Institute | Workshop on the theory, methods, and applications of computational imaging. | [Link](https://www.imsi.institute/activities/computational-imaging/?utm_source=chatgpt.com) |
-
+| IAIFI: Institute for AI & Fundamental Interactions |  NSF AI Institute for Artificial Intelligence and Fundamental Interactions | AI and physics for computational imaging. | [Link](https://www.youtube.com/@iaifiinstituteforaifundame3333) |
 
 
 [↑ back to top](#top)
