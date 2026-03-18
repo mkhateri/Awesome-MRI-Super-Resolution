@@ -51,15 +51,15 @@ or course, please open an issue or submit a pull request.
 
 | Section | Description |
 |---|---|
-| 📋 [Surveys](super-resolution-survey.md) | Overview of existing MRI SR surveys |
-| 📝 [Papers & Code](papers-code.md) | Key papers with code implementations |
-| 🗂️ [Basic Repositories](super-resolution-repos.md) | Foundational SR codebases |
-| 🗄️ [Datasets](datasets.md) | Benchmark and clinical MRI datasets |
-| 🔧 [Preprocessing Tools](tools-preprocessing.md) | MRI preprocessing pipelines |
-| 📊 [Quality Assessment Tools](tools-quality-assessment.md) | IQA metrics and tools |
-| 🎤 [Talks](talks.md) | Recorded lectures and conference talks |
-| 📓 [Tutorials](tutorial-toolkit.md) | Hands-on notebooks and guides |
-| 🎓 [Courses](courses.md) | Full courses on MRI, SR, and DL |
+| [Surveys](super-resolution-survey.md) | Overview of existing MRI SR surveys |
+| [Papers & Code](papers-code.md) | Key papers with code implementations |
+| [Basic Repositories](super-resolution-repos.md) | Foundational SR codebases |
+| [Datasets](datasets.md) | Benchmark and clinical MRI datasets |
+| [Preprocessing Tools](tools-preprocessing.md) | MRI preprocessing pipelines |
+| [Quality Assessment Tools](tools-quality-assessment.md) | IQA metrics and tools |
+| [Talks](talks.md) | Recorded lectures and conference talks |
+| [Tutorials](tutorial-toolkit.md) | Hands-on notebooks and guides |
+| [Courses](courses.md) | Full courses on MRI, SR, and DL |
 
 ---
 
