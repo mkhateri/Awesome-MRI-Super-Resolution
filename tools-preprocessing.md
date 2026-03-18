@@ -26,6 +26,7 @@ Preprocessing is a foundational step in MRI super‑resolution. Raw MR images of
 ## Preprocessing
 
 Preprocessing is a foundational step in MRI super-resolution. It improves anatomical consistency, harmonizes intensity distributions, and increases robustness across subjects, scanners, and protocols.
+Preprocessing is a foundational step in MRI super-resolution. It improves anatomical consistency, harmonizes intensity distributions, and increases robustness across subjects, scanners, and protocols.
 
 ### Common steps and some representative tools
 
