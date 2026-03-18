@@ -11,7 +11,6 @@
 | **Tutorial on Diffusion Models for Imaging and Vision** | `Book Chapter` | Stanley H. Chan (Purdue University) | [arXiv](https://arxiv.org/abs/2403.18103) |
 | **deepinv Toolbox** | `Library` | Julián Tachella (CNRS & ENS de Lyon) | [Docs](https://deepinv.github.io/deepinv/quickstart.html) · [GitHub](https://github.com/deepinv/deepinv) |
 | **MONAI** | `Library` | Project MONAI Team | [Docs](https://docs.monai.io/) · [GitHub](https://github.com/Project-MONAI/monai) · [Tutorials](https://github.com/Project-MONAI/tutorials) · [Model Zoo](https://monai.io/model-zoo) |
-| **MONAI** | `Library` | Project MONAI Team | [Docs](https://docs.monai.io/) · [GitHub](https://github.com/Project-MONAI/monai) · [Tutorials](https://github.com/Project-MONAI/tutorials) · [Model Zoo](https://monai.io/model-zoo) |
 
 
 
