@@ -15,7 +15,6 @@ Course | Instructor | Link |
 | Machine Learning for Inverse Graphics |Vincent Sitzmann (MIT) |  [link](https://scenerepresentations.org/courses/2023/fall/inverse-graphics/) |
 | Computer Vision |Vincent Sitzmann (MIT) |  [link](https://scenerepresentations.org/courses/2025/spring/advances-in-cv/) |
 | Diffusion and Flow Models-CS492(C) |Minhyuk Sung (KAIST) |  [link](https://diffusion.kaist.ac.kr/) |
-| Diffusion and Flow Models-CS492(C) |Minhyuk Sung (KAIST) |  [link](https://diffusion.kaist.ac.kr/) |
 
 
 
