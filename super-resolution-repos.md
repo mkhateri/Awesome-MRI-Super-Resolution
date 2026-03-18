@@ -11,3 +11,4 @@ Open-source toolboxes for image/video restoration—covering super-resolution, d
 | **Image-Super-Resolution** | PyTorch code for single-image SR methods. | Image | [link](https://github.com/YapengTian/Single-Image-Super-Resolution) |
 | **Image-Super-Resolution** | PyTorch implementation of SRGAN and other SR models. | Image | [link](https://github.com/soapisnotfat/super-resolution) |
 | **Video-Super-Resolution** | Video super-resolution in PyTorch. | Video | [link](https://github.com/LoSealL/VideoSuperResolution) |
+| **Video-Super-Resolution** | Video super-resolution in PyTorch. | Video | [link](https://github.com/LoSealL/VideoSuperResolution) |
