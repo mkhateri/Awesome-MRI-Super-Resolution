@@ -41,32 +41,26 @@ most relevant.
 This repository is updated quarterly. If we missed a paper, tool, dataset, resource, talk,
 or course, please open an issue or submit a pull request.
 
-*First release: November 20, 2025*  
-
-
 
 ---
 
 ## Table of Contents  
 🔗 **Select a section below to explore key resources. Click any link to view detailed content.**
 
-- **[Surveys](super-resolution-survey.md)**<br>
+## 📚 Table of Contents
 
-- **[Papers & Code](papers-code.md)**<br>
+| Section | Description |
+|---|---|
+| 📋 [Surveys](super-resolution-survey.md) | Overview of existing MRI SR surveys |
+| 📝 [Papers & Code](papers-code.md) | Key papers with code implementations |
+| 🗂️ [Basic Repositories](super-resolution-repos.md) | Foundational SR codebases |
+| 🗄️ [Datasets](datasets.md) | Benchmark and clinical MRI datasets |
+| 🔧 [Preprocessing Tools](tools-preprocessing.md) | MRI preprocessing pipelines |
+| 📊 [Quality Assessment Tools](tools-quality-assessment.md) | IQA metrics and tools |
+| 🎤 [Talks](talks.md) | Recorded lectures and conference talks |
+| 📓 [Tutorials](tutorial-toolkit.md) | Hands-on notebooks and guides |
+| 🎓 [Courses](courses.md) | Full courses on MRI, SR, and DL |
 
-- **[Basic Repositories](super-resolution-repos.md)**<br>
-
-- **[Datasets](datasets.md)**<br>
-
-- **[Preprocessing Tools](tools-preprocessing.md)**<br>
-
-- **[Quality Assessment Tools](tools-quality-assessment.md)**<br>
-
-- **[Talks](talks.md)**<br>
-
-- **[Tutorials](tutorial-toolkit.md)**<br>
-
-- **[Courses](courses.md)**
 ---
 
 ###  Citation
