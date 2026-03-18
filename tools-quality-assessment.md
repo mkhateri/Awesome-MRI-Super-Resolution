@@ -26,7 +26,6 @@
 | **NIQE** | [Mittal et al., 2013](https://ieeexplore.ieee.org/document/6353522) | [PIQ](https://github.com/photosynthesis-team/piq) |
 | **BRISQUE** | [Mittal et al., 2012](https://ieeexplore.ieee.org/document/6272356) | [PIQ](https://github.com/photosynthesis-team/piq) |
 | **NIMA** | [Talebi & Milanfar, 2018 (CVPR)](https://arxiv.org/abs/1709.05424) | [PyTorch (idealo)](https://github.com/idealo/image-quality-assessment) · [Keras ref](https://github.com/kentsyx/Neural-IMage-Assessment) |
-| **NIMA** | [Talebi & Milanfar, 2018 (CVPR)](https://arxiv.org/abs/1709.05424) | [PyTorch (idealo)](https://github.com/idealo/image-quality-assessment) · [Keras ref](https://github.com/kentsyx/Neural-IMage-Assessment) |
 
 ---
 
