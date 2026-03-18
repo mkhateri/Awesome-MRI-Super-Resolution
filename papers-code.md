@@ -246,7 +246,6 @@
 | Depicting Beyond Scores: Advancing Image Quality Assessment Through Multi-modal Language Models| ––– | ECCV/ 2024 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-72970-6_15) | ––– |
 | Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models| ––– | NeurIPS/ 2024 | [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/2847d43f17410c5beb25b2736c3ae778-Paper-Conference.pdf) | ––– |
 | Evaluation of epilepsy lesion visualisation enhancement in low-field MRI using image quality transfer: a preliminary investigation of clinical potential for applications in developing countries| ––– | Neuroradiology/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/39240363/) | ––– |
-| Evaluation of epilepsy lesion visualisation enhancement in low-field MRI using image quality transfer: a preliminary investigation of clinical potential for applications in developing countries| ––– | Neuroradiology/ 2024 | [paper](https://pubmed.ncbi.nlm.nih.gov/39240363/) | ––– |
 
 [↑ back to top](#top)
 
