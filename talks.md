@@ -38,7 +38,7 @@
 |Continuous Signal Processing using Implicit Neural Representation | Kyong Hwan Jin (Korea university)| [Link](https://www.imsi.institute/videos/continuous-signal-processing-using-implicit-neural-representation/) |
 |Model Based Deep Learning with Application to Super Resolution | Yonina Eldar (Weizmann Institute of Science)| [Link](https://www.youtube.com/watch?v=ntj-TN4Jm2k) |
 |Deep Internal learning -- Deep Visual Inference without prior examples | Michal Irani (Weizmann Institute of Science)| [Link](https://www.youtube.com/watch?v=4zVJZRrb4EE) |
-
+|The Hidden Engine of Vision | Peyman Milanfar (Google)| [Link](https://www.the-information-bottleneck.com/the-hidden-engine-of-vision-with-peyman-milanfar-google/) |
 
 
 
